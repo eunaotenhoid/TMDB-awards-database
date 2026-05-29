@@ -1,0 +1,3592 @@
+{
+    "award_info": {
+        "tmdb_award_id": 38,
+        "imdb_award_id": "",
+        "name": "Annie Awards",
+        "slug": "annie-awards",
+        "url": "https://www.themoviedb.org/award/38",
+        "location": ",         Royce Hall,         Los Angeles, California,",
+        "presenter": ",         Steve Marmel,",
+        "icon": "https://media.themoviedb.org/t/p/w300/6B5h69NuysXdanLW3cJPYfhfydM.svg",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 3578585,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 4095953,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 1147837,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 1634006,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 1763129,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation – Live Action",
+                "tmdb_id": 950387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation – Live Action",
+                "tmdb_id": 822119,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation – Live Action",
+                "tmdb_id": 1087192,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Character Animation – Live Action",
+                "tmdb_id": 1061474,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 1022787,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 537921,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 803796,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 991494,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 927254,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 804370,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 1218925,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 803796,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 682012,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 1406657,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editorial – Feature",
+                "tmdb_id": 804370,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editorial – Feature",
+                "tmdb_id": 1022787,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editorial – Feature",
+                "tmdb_id": 803796,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Editorial – Feature",
+                "tmdb_id": 682012,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editorial – Feature",
+                "tmdb_id": 1288987,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best FX – Feature",
+                "tmdb_id": 1022787,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best FX – Feature",
+                "tmdb_id": 1117857,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best FX – Feature",
+                "tmdb_id": 803796,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best FX – Feature",
+                "tmdb_id": 1175942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best FX – Feature",
+                "tmdb_id": 1084242,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 1022787,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 803796,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 682012,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 1175942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 1084242,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 840873,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 804370,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 1119090,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 1165642,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 1406657,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 804370,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 1022787,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 803796,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 682012,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 1084242,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 1022787,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 803796,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 1175942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 927254,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 1084242,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1480042,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1472485,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1610788,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1227694,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1142149,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Special Production",
+                "tmdb_id": 1478406,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Special Production",
+                "tmdb_id": 1497017,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Special Production",
+                "tmdb_id": 1276948,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Special Production",
+                "tmdb_id": 1484453,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Special Production",
+                "tmdb_id": 1318451,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 682012,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 1175942,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 1084242,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 804370,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 1022787,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 1511625,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 1373032,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 1464629,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 1491953,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 1468559,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 1488961,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 3455058,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 64342,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 144279,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 2602879,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 1022787,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 803796,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 682012,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 1406657,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 1084242,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2025": [
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 2011761,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 1676322,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 2127001,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 1994954,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 6014224,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 1184918,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 1022789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 645757,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 592983,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 502345,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 1184918,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 589026,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 929204,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 645757,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 823219,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editorial – Feature",
+                "tmdb_id": 1184918,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Editorial – Feature",
+                "tmdb_id": 1022789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editorial – Feature",
+                "tmdb_id": 929204,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editorial – Feature",
+                "tmdb_id": 829402,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editorial – Feature",
+                "tmdb_id": 1241982,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best FX – Feature",
+                "tmdb_id": 1011985,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best FX – Feature",
+                "tmdb_id": 1184918,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best FX – Feature",
+                "tmdb_id": 929204,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best FX – Feature",
+                "tmdb_id": 1241982,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best FX – Feature",
+                "tmdb_id": 829402,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 1011985,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 1184918,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 1022789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 645757,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 829402,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 929204,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 823219,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 589026,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 586810,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 587563,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 1244492,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 1064486,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 1184918,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 587563,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 929204,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 645757,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 1236419,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 1184918,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 929204,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 829402,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 645757,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 1022789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1282139,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1156619,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1157132,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1156605,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1172142,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Special Production",
+                "tmdb_id": 1184875,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Special Production",
+                "tmdb_id": 1130737,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Special Production",
+                "tmdb_id": 1220646,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Special Production",
+                "tmdb_id": 1205520,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Special Production",
+                "tmdb_id": 1139829,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 645757,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 592983,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 831815,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 1241982,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 519182,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 1339378,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 1378075,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 1249796,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 1342308,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 1359808,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 1267329,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 1538851,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 4058440,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 1903874,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 226366,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 587563,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 1022789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 823219,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 1064486,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2024": [
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 1456611,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 1993654,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 2017070,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 1727299,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 1031975,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 976573,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 961323,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 569094,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 838240,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 870358,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 508883,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 961323,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 569094,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 838240,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 614930,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 508883,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 916224,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 961323,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 569094,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 614930,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 947219,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 680314,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 587384,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 676727,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 838240,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 508883,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 976573,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 569094,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 916224,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 614930,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 508883,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 976573,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 961323,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 569094,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 614930,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1136725,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1048261,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1214020,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1111118,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Special Production",
+                "tmdb_id": 1128604,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Special Production",
+                "tmdb_id": 1186957,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Special Production",
+                "tmdb_id": 1058054,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 1134932,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 1055700,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 1097757,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 1203793,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 1231857,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 56734,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 1256882,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 70851,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 4031156,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 1219546,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 508883,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 961323,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 916224,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 838240,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 614930,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2023": [
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 1989578,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 2199339,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 2016258,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 3463917,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation – Feature",
+                "tmdb_id": 1584351,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 629542,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 585511,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 511817,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 315162,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 765172,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 511817,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 555604,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 869626,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 508947,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 560052,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editorial – Feature",
+                "tmdb_id": 315162,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Editorial – Feature",
+                "tmdb_id": 560057,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editorial – Feature",
+                "tmdb_id": 508947,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editorial – Feature",
+                "tmdb_id": 718789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editorial – Feature",
+                "tmdb_id": 555604,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 315162,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 560057,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 511817,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 555604,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 508947,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 642538,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 869626,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 844135,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 893366,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature – Independent",
+                "tmdb_id": 560052,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 629542,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 560057,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 508947,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 555604,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 846867,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 629542,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 315162,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 560057,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 555604,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 846867,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 742872,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 965171,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 846618,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 885865,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 950788,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Special Production",
+                "tmdb_id": 926899,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Special Production",
+                "tmdb_id": 912802,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Special Production",
+                "tmdb_id": 995133,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 927059,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 914255,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 884553,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 1088665,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Student Film",
+                "tmdb_id": 998752,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 2127280,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 52583,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 213001,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 2099810,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 11180,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 642538,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 949000,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 869626,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 508947,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2003": [
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 1927481,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 2013386,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 6012110,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 2519941,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 1777806,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 25556,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 62016,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 275068,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 8020,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 1552189,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 124749,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 8010,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 229962,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 425,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 9016,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 9023,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 11544,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Design – Feature",
+                "tmdb_id": 585,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 9016,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 11544,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 585,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 129,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 425,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 425,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 11544,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 129,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 585,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 9023,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 129,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 16690,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 425,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 585,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 11544,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 9023,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 585,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 425,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 9016,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 11544,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 298015,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 759275,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 504301,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 9023,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 9023,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 9023,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 35219,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 1580,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 80678,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 56618,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 7056,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 425,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 11544,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 129,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 585,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2001": [
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 1203534,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 6012121,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 1397792,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 16234,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 16366,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 18269,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 1455558,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 1459879,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 12099,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 1995444,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 1459476,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 808,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 11688,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 16234,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 18269,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 919,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 11688,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 12610,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 808,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 11688,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 20410,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 10865,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 808,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 10898,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 808,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 10865,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 12610,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 808,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 11688,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 504293,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1277253,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 32536,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 89672,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 11688,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 11688,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 808,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 10865,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 89473,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Female Performer in an Animated Feature Production",
+                "tmdb_id": 63978,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Female Performer in an Animated Feature Production",
+                "tmdb_id": 15762,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Female Performer in an Animated Feature Production",
+                "tmdb_id": 70243,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Voice Acting by a Female Performer in an Animated Feature Production",
+                "tmdb_id": 24967,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Female Performer in an Animated Feature Production",
+                "tmdb_id": 84323,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Male Performer in an Animated Feature Production",
+                "tmdb_id": 2,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Male Performer in an Animated Feature Production",
+                "tmdb_id": 776,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Voice Acting by a Male Performer in an Animated Feature Production",
+                "tmdb_id": 1749,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Male Performer in an Animated Feature Production",
+                "tmdb_id": 1748,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Male Performer in an Animated Feature Production",
+                "tmdb_id": 9657,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 11688,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 16234,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 808,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 12610,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2000": [
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 1728544,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 1451678,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 4790969,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 1725461,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 1404266,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 17681,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 73901,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 19594,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 15400,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 15653,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 144218,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 65531,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 8010,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 1593086,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 1447298,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 10567,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 863,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 7443,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 15655,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 128,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 49948,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 863,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 10501,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 7443,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 7450,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 10567,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 863,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 10501,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 73901,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 15655,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 49948,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 49948,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 863,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 10501,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 7450,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 13930,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1260609,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 197725,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 197727,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1042721,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 10567,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 863,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 10501,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Female Performer in an Animated Feature Production",
+                "tmdb_id": 56950,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Female Performer in an Animated Feature Production",
+                "tmdb_id": 3234,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Voice Acting by a Female Performer in an Animated Feature Production",
+                "tmdb_id": 34983,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Male Performer in an Animated Feature Production",
+                "tmdb_id": 12898,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Voice Acting by a Male Performer in an Animated Feature Production",
+                "tmdb_id": 23346,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Male Performer in an Animated Feature Production",
+                "tmdb_id": 34521,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Male Performer in an Animated Feature Production",
+                "tmdb_id": 84213,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Male Performer in an Animated Feature Production",
+                "tmdb_id": 90453,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 863,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 7443,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 10137,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "1999": [
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 1435377,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 2001742,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 1203534,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 6012110,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 9732,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 13761,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 13151,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 17337,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 1459473,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 1393011,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 139474,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 2008362,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 1459476,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 10386,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 9837,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 8916,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 9487,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 37135,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 10386,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 9487,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 9473,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 37135,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 9837,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 10386,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 37135,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 9732,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 9732,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 8916,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 10386,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 8916,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 37135,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 10386,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 9487,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 48610,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1121178,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1254154,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 36107,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 10386,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 9837,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 10386,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 37135,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 10386,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 116027,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 30695,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 6613,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 5469,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting – Feature",
+                "tmdb_id": 8231,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 10386,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 8916,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 9487,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 37135,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 9473,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "1998": [
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 1813970,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 42261,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 1203534,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 6012105,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 15805,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 20235,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 18948,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 14903,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 1030719,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 1461378,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 1547220,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 115755,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 10674,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 9444,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 14903,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction – Feature",
+                "tmdb_id": 13313,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 10674,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 9444,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 51942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 18937,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 10674,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 53346,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 9444,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 14903,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 13313,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Producing in a Feature Production",
+                "tmdb_id": 10674,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Producing in a Feature Production",
+                "tmdb_id": 9444,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Producing in a Feature Production",
+                "tmdb_id": 18948,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature",
+                "tmdb_id": 10674,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 374500,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1115408,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 68925,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 13929,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 121076,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 10674,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Storyboarding – Feature",
+                "tmdb_id": 18948,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Female Performer in an Animated Feature Production",
+                "tmdb_id": 21702,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Voice Acting by a Female Performer in an Animated Feature Production",
+                "tmdb_id": 64948,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Female Performer in an Animated Feature Production",
+                "tmdb_id": 14730,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Female Performer in an Animated Feature Production",
+                "tmdb_id": 62050,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Female Performer in an Animated Feature Production",
+                "tmdb_id": 5344,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Male Performer in an Animated Feature Production",
+                "tmdb_id": 5587,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Voice Acting by a Male Performer in an Animated Feature Production",
+                "tmdb_id": 13472,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Male Performer in an Animated Feature Production",
+                "tmdb_id": 725,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Male Performer in an Animated Feature Production",
+                "tmdb_id": 290,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Acting by a Male Performer in an Animated Feature Production",
+                "tmdb_id": 77548,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 10674,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 14903,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 13313,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 9444,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing – Feature",
+                "tmdb_id": 18948,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "1997": [
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 1774837,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 1453547,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 90887,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Effects",
+                "tmdb_id": 1413180,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 11238,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 19164,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 511869,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 929274,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 1337303,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 1454249,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Character Animation",
+                "tmdb_id": 1393011,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 24662,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 11970,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 2300,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 24662,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 11238,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 24662,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 19164,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music – Feature",
+                "tmdb_id": 929274,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Producing in a Feature Production",
+                "tmdb_id": 11970,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Producing in a Feature Production",
+                "tmdb_id": 24662,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Producing in a Feature Production",
+                "tmdb_id": 2300,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 963218,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Technical Achievement",
+                "tmdb_id": 2300,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "1996": [
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 19004,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 21032,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 9323,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 10545,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 10539,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 862,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "1995": [
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 68423,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 79490,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 15997,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 15789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 10530,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 22586,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 221300,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 803978,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 776901,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1169417,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Subject",
+                "tmdb_id": 1291206,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "1994": [
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 409098,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 48624,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 2981,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 1636289,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Home Entertainment Production",
+                "tmdb_id": 15969,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 14919,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 8587,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 9479,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "1993": [
+            {
+                "category": "Best Feature",
+                "tmdb_id": 812,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 22611,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 33539,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "1992": [
+            {
+                "category": "Best Feature",
+                "tmdb_id": 10020,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 36616,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 13225,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ]
+    }
+}

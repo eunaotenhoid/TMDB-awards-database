@@ -15,42 +15,6 @@
         "2026": [
             {
                 "category": "Anime of the Year",
-                "tmdb_id": 63,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 6564,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 666,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 56,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 674674,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 67,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
                 "tmdb_id": 220542,
                 "media_type": "tv",
                 "is_winner": false
@@ -405,24 +369,6 @@
             },
             {
                 "category": "Best Romance",
-                "tmdb_id": 247859,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Romance",
-                "tmdb_id": 123249,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Romance",
-                "tmdb_id": 259140,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Romance",
                 "tmdb_id": 207347,
                 "media_type": "tv",
                 "is_winner": false
@@ -438,6 +384,24 @@
                 "tmdb_id": 271607,
                 "media_type": "tv",
                 "is_winner": true
+            },
+            {
+                "category": "Best Romance",
+                "tmdb_id": 247859,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Romance",
+                "tmdb_id": 123249,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Romance",
+                "tmdb_id": 259140,
+                "media_type": "tv",
+                "is_winner": false
             },
             {
                 "category": "Best Slice of Life",
@@ -477,12 +441,6 @@
             },
             {
                 "category": "Film of the Year",
-                "tmdb_id": 66507,
-                "media_type": "movie",
-                "is_winner": false
-            },
-            {
-                "category": "Film of the Year",
                 "tmdb_id": 1295026,
                 "media_type": "movie",
                 "is_winner": false
@@ -519,42 +477,6 @@
             }
         ],
         "2025": [
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 6564,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 62,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 631,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 62,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 60,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 63,
-                "media_type": "tv",
-                "is_winner": false
-            },
             {
                 "category": "Anime of the Year",
                 "tmdb_id": 240411,
@@ -737,42 +659,6 @@
             },
             {
                 "category": "Best Continuing Series",
-                "tmdb_id": 52589,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 56,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 5258,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 62,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 6042,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
                 "tmdb_id": 30984,
                 "media_type": "tv",
                 "is_winner": false
@@ -881,42 +767,6 @@
             },
             {
                 "category": "Best New Series",
-                "tmdb_id": 6564,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best New Series",
-                "tmdb_id": 62,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best New Series",
-                "tmdb_id": 631,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best New Series",
-                "tmdb_id": 62,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best New Series",
-                "tmdb_id": 60,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best New Series",
-                "tmdb_id": 63,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best New Series",
                 "tmdb_id": 240411,
                 "media_type": "tv",
                 "is_winner": false
@@ -948,12 +798,6 @@
             {
                 "category": "Best New Series",
                 "tmdb_id": 220542,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Original Anime",
-                "tmdb_id": 646,
                 "media_type": "tv",
                 "is_winner": false
             },
@@ -1067,42 +911,6 @@
             },
             {
                 "category": "Film of the Year",
-                "tmdb_id": 62,
-                "media_type": "movie",
-                "is_winner": false
-            },
-            {
-                "category": "Film of the Year",
-                "tmdb_id": 65,
-                "media_type": "movie",
-                "is_winner": true
-            },
-            {
-                "category": "Film of the Year",
-                "tmdb_id": 62,
-                "media_type": "movie",
-                "is_winner": false
-            },
-            {
-                "category": "Film of the Year",
-                "tmdb_id": 64,
-                "media_type": "movie",
-                "is_winner": false
-            },
-            {
-                "category": "Film of the Year",
-                "tmdb_id": 639,
-                "media_type": "movie",
-                "is_winner": false
-            },
-            {
-                "category": "Film of the Year",
-                "tmdb_id": 638,
-                "media_type": "movie",
-                "is_winner": false
-            },
-            {
-                "category": "Film of the Year",
                 "tmdb_id": 1012201,
                 "media_type": "movie",
                 "is_winner": false
@@ -1172,78 +980,6 @@
             {
                 "category": "Anime of the Year",
                 "tmdb_id": 88803,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 0,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 62,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Action",
-                "tmdb_id": 5256,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Action",
-                "tmdb_id": 52589,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Action",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Action",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Action",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Action",
-                "tmdb_id": 5258,
                 "media_type": "tv",
                 "is_winner": false
             },
@@ -1320,48 +1056,6 @@
                 "is_winner": false
             },
             {
-                "category": "Best Animation",
-                "tmdb_id": 5256,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 578413,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 62,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 63,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
                 "category": "Best Comedy",
                 "tmdb_id": 119100,
                 "media_type": "tv",
@@ -1398,36 +1092,6 @@
                 "is_winner": false
             },
             {
-                "category": "Best Comedy",
-                "tmdb_id": 0,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 6353,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 62,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 6042,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 61,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
                 "category": "Best Continuing Series",
                 "tmdb_id": 1429,
                 "media_type": "tv",
@@ -1460,66 +1124,6 @@
             {
                 "category": "Best Continuing Series",
                 "tmdb_id": 88803,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 5256,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 5258,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 6042,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Drama",
-                "tmdb_id": 5256,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Drama",
-                "tmdb_id": 630710,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Drama",
-                "tmdb_id": 624,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Drama",
-                "tmdb_id": 62,
                 "media_type": "tv",
                 "is_winner": false
             },
@@ -1668,42 +1272,6 @@
                 "is_winner": false
             },
             {
-                "category": "Best New Series",
-                "tmdb_id": 0,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best New Series",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best New Series",
-                "tmdb_id": 630710,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best New Series",
-                "tmdb_id": 0,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best New Series",
-                "tmdb_id": 62,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best New Series",
-                "tmdb_id": 63,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
                 "category": "Best Original Anime",
                 "tmdb_id": 204716,
                 "media_type": "tv",
@@ -1740,42 +1308,6 @@
                 "is_winner": false
             },
             {
-                "category": "Best Original Anime",
-                "tmdb_id": 62,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Original Anime",
-                "tmdb_id": 617,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Original Anime",
-                "tmdb_id": 6353,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Original Anime",
-                "tmdb_id": 605,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Original Anime",
-                "tmdb_id": 6243,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Original Anime",
-                "tmdb_id": 636,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
                 "category": "Best Romance",
                 "tmdb_id": 228663,
                 "media_type": "tv",
@@ -1808,42 +1340,6 @@
             {
                 "category": "Best Romance",
                 "tmdb_id": 205308,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Romance",
-                "tmdb_id": 648883,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Romance",
-                "tmdb_id": 61,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Romance",
-                "tmdb_id": 624,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Romance",
-                "tmdb_id": 62,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Romance",
-                "tmdb_id": 6198,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Romance",
-                "tmdb_id": 62,
                 "media_type": "tv",
                 "is_winner": false
             },
@@ -1887,48 +1383,6 @@
         "2023": [
             {
                 "category": "Anime of the Year",
-                "tmdb_id": 120089,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5256,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 61,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 6042,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
                 "tmdb_id": 1429,
                 "media_type": "tv",
                 "is_winner": false
@@ -1954,6 +1408,12 @@
             {
                 "category": "Anime of the Year",
                 "tmdb_id": 112613,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Anime of the Year",
+                "tmdb_id": 120089,
                 "media_type": "tv",
                 "is_winner": false
             },
@@ -1990,42 +1450,6 @@
             {
                 "category": "Best Action",
                 "tmdb_id": 120089,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Action",
-                "tmdb_id": 5256,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Action",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Action",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Action",
-                "tmdb_id": 52596,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Action",
-                "tmdb_id": 61,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Action",
-                "tmdb_id": 6042,
                 "media_type": "tv",
                 "is_winner": false
             },
@@ -2066,42 +1490,6 @@
                 "is_winner": false
             },
             {
-                "category": "Best Animation",
-                "tmdb_id": 605,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5256,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 6042,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
                 "category": "Best Comedy",
                 "tmdb_id": 83121,
                 "media_type": "tv",
@@ -2134,42 +1522,6 @@
             {
                 "category": "Best Comedy",
                 "tmdb_id": 138441,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 614,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 60766172,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 6042,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 60,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 618,
                 "media_type": "tv",
                 "is_winner": false
             },
@@ -2210,42 +1562,6 @@
                 "is_winner": true
             },
             {
-                "category": "Best Continuing Series",
-                "tmdb_id": 5256,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 52596,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 5957,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 5258,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
                 "category": "Best Drama",
                 "tmdb_id": 100565,
                 "media_type": "tv",
@@ -2278,42 +1594,6 @@
             {
                 "category": "Best Drama",
                 "tmdb_id": 72636,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Drama",
-                "tmdb_id": 5000000,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Drama",
-                "tmdb_id": 5256,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Drama",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Drama",
-                "tmdb_id": 606,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Drama",
-                "tmdb_id": 614,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Drama",
-                "tmdb_id": 5957,
                 "media_type": "tv",
                 "is_winner": false
             },
@@ -2354,42 +1634,6 @@
                 "is_winner": false
             },
             {
-                "category": "Best Fantasy",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Fantasy",
-                "tmdb_id": 5957,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Fantasy",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Fantasy",
-                "tmdb_id": 562619,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Fantasy",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Fantasy",
-                "tmdb_id": 606080761,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
                 "category": "Best Film",
                 "tmdb_id": 912598,
                 "media_type": "movie",
@@ -2422,42 +1666,6 @@
             {
                 "category": "Best Film",
                 "tmdb_id": 633844,
-                "media_type": "movie",
-                "is_winner": false
-            },
-            {
-                "category": "Best Film",
-                "tmdb_id": 61,
-                "media_type": "movie",
-                "is_winner": false
-            },
-            {
-                "category": "Best Film",
-                "tmdb_id": 5,
-                "media_type": "movie",
-                "is_winner": false
-            },
-            {
-                "category": "Best Film",
-                "tmdb_id": 5,
-                "media_type": "movie",
-                "is_winner": false
-            },
-            {
-                "category": "Best Film",
-                "tmdb_id": 0,
-                "media_type": "movie",
-                "is_winner": true
-            },
-            {
-                "category": "Best Film",
-                "tmdb_id": 61997,
-                "media_type": "movie",
-                "is_winner": false
-            },
-            {
-                "category": "Best Film",
-                "tmdb_id": 5,
                 "media_type": "movie",
                 "is_winner": false
             },
@@ -2498,42 +1706,6 @@
                 "is_winner": false
             },
             {
-                "category": "Best New Series",
-                "tmdb_id": 618,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best New Series",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best New Series",
-                "tmdb_id": 61,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best New Series",
-                "tmdb_id": 60766172,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best New Series",
-                "tmdb_id": 6042,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best New Series",
-                "tmdb_id": 618,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
                 "category": "Best Original Anime",
                 "tmdb_id": 137390,
                 "media_type": "tv",
@@ -2566,42 +1738,6 @@
             {
                 "category": "Best Original Anime",
                 "tmdb_id": 158131,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Original Anime",
-                "tmdb_id": 617,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Original Anime",
-                "tmdb_id": 608,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Original Anime",
-                "tmdb_id": 61,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Original Anime",
-                "tmdb_id": 6189,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Original Anime",
-                "tmdb_id": 0,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Original Anime",
-                "tmdb_id": 62124,
                 "media_type": "tv",
                 "is_winner": false
             },
@@ -2640,63 +1776,9 @@
                 "tmdb_id": 115694,
                 "media_type": "tv",
                 "is_winner": false
-            },
-            {
-                "category": "Best Romance",
-                "tmdb_id": 618,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Romance",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Romance",
-                "tmdb_id": 607,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Romance",
-                "tmdb_id": 60670,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Romance",
-                "tmdb_id": 60766172,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Romance",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
             }
         ],
         "2022": [
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5000000,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5256,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
             {
                 "category": "Anime of the Year",
                 "tmdb_id": 100565,
@@ -2807,18 +1889,6 @@
             },
             {
                 "category": "Best Comedy",
-                "tmdb_id": 105556,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 123876,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Comedy",
                 "tmdb_id": 105044,
                 "media_type": "tv",
                 "is_winner": false
@@ -2840,6 +1910,18 @@
                 "tmdb_id": 116727,
                 "media_type": "tv",
                 "is_winner": false
+            },
+            {
+                "category": "Best Comedy",
+                "tmdb_id": 105556,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy",
+                "tmdb_id": 123876,
+                "media_type": "tv",
+                "is_winner": true
             },
             {
                 "category": "Best Drama",
@@ -2989,42 +2071,6 @@
         "2021": [
             {
                 "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
                 "tmdb_id": 92579,
                 "media_type": "tv",
                 "is_winner": false
@@ -3061,42 +2107,6 @@
             },
             {
                 "category": "Best Animation",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 0,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5000,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
                 "tmdb_id": 92579,
                 "media_type": "tv",
                 "is_winner": true
@@ -3128,36 +2138,6 @@
             {
                 "category": "Best Animation",
                 "tmdb_id": 90937,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 50,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 5,
                 "media_type": "tv",
                 "is_winner": false
             },
@@ -3273,42 +2253,6 @@
         "2020": [
             {
                 "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 578413,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
                 "tmdb_id": 85937,
                 "media_type": "tv",
                 "is_winner": true
@@ -3340,42 +2284,6 @@
             {
                 "category": "Anime of the Year",
                 "tmdb_id": 83097,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5256,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 578413,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5,
                 "media_type": "tv",
                 "is_winner": false
             },
@@ -3417,42 +2325,6 @@
             },
             {
                 "category": "Best Comedy",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
                 "tmdb_id": 78941,
                 "media_type": "tv",
                 "is_winner": false
@@ -3489,42 +2361,6 @@
             },
             {
                 "category": "Best Drama",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Drama",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Drama",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Drama",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Drama",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Drama",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Drama",
                 "tmdb_id": 92835,
                 "media_type": "tv",
                 "is_winner": false
@@ -3556,42 +2392,6 @@
             {
                 "category": "Best Drama",
                 "tmdb_id": 92599,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Fantasy",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Fantasy",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Fantasy",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Fantasy",
-                "tmdb_id": 5256,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Fantasy",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Fantasy",
-                "tmdb_id": 5,
                 "media_type": "tv",
                 "is_winner": false
             },
@@ -3635,42 +2435,6 @@
         "2019": [
             {
                 "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
                 "tmdb_id": 75208,
                 "media_type": "tv",
                 "is_winner": true
@@ -3707,42 +2471,6 @@
             },
             {
                 "category": "Best Animation",
-                "tmdb_id": 56,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Animation",
                 "tmdb_id": 65930,
                 "media_type": "tv",
                 "is_winner": false
@@ -3776,42 +2504,6 @@
                 "tmdb_id": 75214,
                 "media_type": "tv",
                 "is_winner": true
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 59,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 555,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 598,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 569,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 5258,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 58,
-                "media_type": "tv",
-                "is_winner": false
             },
             {
                 "category": "Best Continuing Series",
@@ -3889,42 +2581,6 @@
         "2018": [
             {
                 "category": "Anime of the Year",
-                "tmdb_id": 569,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5957,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 59,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 56,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 576,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 5863,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
                 "tmdb_id": 65336,
                 "media_type": "tv",
                 "is_winner": false
@@ -3997,36 +2653,6 @@
             },
             {
                 "category": "Best Animation",
-                "tmdb_id": 56,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 59,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5863,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 5863,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 569,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
                 "tmdb_id": 65930,
                 "media_type": "tv",
                 "is_winner": true
@@ -4093,30 +2719,6 @@
             },
             {
                 "category": "Best Comedy",
-                "tmdb_id": 5863,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 591,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 5863,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 56,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
                 "tmdb_id": 69291,
                 "media_type": "tv",
                 "is_winner": true
@@ -4148,42 +2750,6 @@
             {
                 "category": "Best Comedy",
                 "tmdb_id": 72426,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 569,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 563,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 555,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 52589,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 57,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Continuing Series",
-                "tmdb_id": 5258,
                 "media_type": "tv",
                 "is_winner": false
             },
@@ -4335,57 +2901,9 @@
         "2017": [
             {
                 "category": "Anime of the Year",
-                "tmdb_id": 57,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 576,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 56943,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 56,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 56,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 578413,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 56,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Anime of the Year",
                 "tmdb_id": 68129,
                 "media_type": "tv",
                 "is_winner": true
-            },
-            {
-                "category": "Anime of the Year",
-                "tmdb_id": 56,
-                "media_type": "tv",
-                "is_winner": false
             },
             {
                 "category": "Anime of the Year",
@@ -4431,30 +2949,6 @@
             },
             {
                 "category": "Best Action",
-                "tmdb_id": 578413,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Action",
-                "tmdb_id": 56,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Action",
-                "tmdb_id": 57,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Action",
-                "tmdb_id": 56,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Action",
                 "tmdb_id": 67075,
                 "media_type": "tv",
                 "is_winner": true
@@ -4479,24 +2973,6 @@
             },
             {
                 "category": "Best Animation",
-                "tmdb_id": 57,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 57,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
-                "tmdb_id": 578413,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Animation",
                 "tmdb_id": 68129,
                 "media_type": "tv",
                 "is_winner": true
@@ -4510,30 +2986,6 @@
             {
                 "category": "Best Animation",
                 "tmdb_id": 67075,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 56,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 57,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 56,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Comedy",
-                "tmdb_id": 56,
                 "media_type": "tv",
                 "is_winner": false
             },
@@ -4558,30 +3010,6 @@
             {
                 "category": "Best Comedy",
                 "tmdb_id": 66107,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Drama",
-                "tmdb_id": 56943,
-                "media_type": "tv",
-                "is_winner": true
-            },
-            {
-                "category": "Best Drama",
-                "tmdb_id": 576,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Drama",
-                "tmdb_id": 56,
-                "media_type": "tv",
-                "is_winner": false
-            },
-            {
-                "category": "Best Drama",
-                "tmdb_id": 56,
                 "media_type": "tv",
                 "is_winner": false
             },

@@ -1,5 +1,19 @@
 [
     {
+        "id": 1,
+        "imdb_id": "ev0000003",
+        "name": "Academy Awards",
+        "slug": "oscar",
+        "icon": "https://media.themoviedb.org/t/p/w300/1mAyfJSMw7WaZr3f6zVpKkCLGb2.svg"
+    },
+    {
+        "id": 27,
+        "imdb_id": "",
+        "name": "Actor Awards",
+        "slug": "actor-awards",
+        "icon": "https://media.themoviedb.org/t/p/w300/wt47GBXuRVBbXynv511LpXZLnX6.png"
+    },
+    {
         "id": 84,
         "imdb_id": "",
         "name": "Anime Awards",
@@ -7,101 +21,73 @@
         "icon": "https://media.themoviedb.org/t/p/w300/vG1I5bKd9zYYRF6MxDicz10np56.png"
     },
     {
-        "id": 0,
+        "id": 38,
         "imdb_id": "",
-        "name": "Astra TV Awards",
-        "slug": "astra-tv-awards-2025",
-        "icon": ""
+        "name": "Annie Awards",
+        "slug": "annie-awards",
+        "icon": "https://media.themoviedb.org/t/p/w300/6B5h69NuysXdanLW3cJPYfhfydM.svg"
     },
     {
-        "id": 0,
+        "id": 5,
         "imdb_id": "",
-        "name": "BAFTA Awards",
-        "slug": "bafta",
-        "icon": "fa-mask"
+        "name": "BAFTA Film Awards",
+        "slug": "bafta-film-awards",
+        "icon": "https://media.themoviedb.org/t/p/w300/7BEyDYZbB6zwXcFcL3naipHzHPK.png"
     },
     {
-        "id": 0,
-        "imdb_id": "",
-        "name": "Berlin International Film Festival",
-        "slug": "berlinale",
-        "icon": "fa-bear"
-    },
-    {
-        "id": 0,
-        "imdb_id": "",
-        "name": "Cannes Film Festival",
-        "slug": "cannes",
-        "icon": "fa-palm-tree"
-    },
-    {
-        "id": 0,
-        "imdb_id": "",
+        "id": 7,
+        "imdb_id": "ev0000133",
         "name": "Critics Choice Awards",
         "slug": "critics-choice",
-        "icon": "fa-star"
+        "icon": "https://media.themoviedb.org/t/p/w300/wS8P139CybPMbEgj1WDQnL15e8F.svg"
+    },
+    {
+        "id": 2,
+        "imdb_id": "",
+        "name": "Czech Lion Awards",
+        "slug": "czech-lion-awards",
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/w5hggMJwzRkf0OvCksDTEFW0aTr.jpg"
+    },
+    {
+        "id": 82,
+        "imdb_id": "",
+        "name": "Emmy Awards",
+        "slug": "emmy-awards",
+        "icon": "https://media.themoviedb.org/t/p/w300/4T4GwYvidptRWBKa3DNDnzOO0YE.png"
+    },
+    {
+        "id": 4,
+        "imdb_id": "",
+        "name": "Golden Globes",
+        "slug": "golden-globes",
+        "icon": "https://media.themoviedb.org/t/p/w300/ofPR9818YPpn6hqmXlU6khOnqGI.png"
+    },
+    {
+        "id": 13,
+        "imdb_id": "",
+        "name": "Japan Academy Film Prize",
+        "slug": "japan-academy-film-prize",
+        "icon": "https://media.themoviedb.org/t/p/w300/rwR6QnXySV3Du0VfNa8zTDL6qqn.png"
+    },
+    {
+        "id": 6,
+        "imdb_id": "",
+        "name": "Jussi Awards",
+        "slug": "jussi-awards",
+        "icon": "https://media.themoviedb.org/t/p/w300/e627kIZnmVWWKQeS7VWHDmrAkLk.svg"
+    },
+    {
+        "id": 32,
+        "imdb_id": "",
+        "name": "Mainichi Film Awards",
+        "slug": "mainichi-film-awards",
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/m9VOqCD0JW0WGJkGdYscdlfE5Fl.jpg"
     },
     {
         "id": 0,
         "imdb_id": "",
-        "name": "César Awards",
-        "slug": "cesar",
-        "icon": "fa-flag"
-    },
-    {
-        "id": 0,
-        "imdb_id": "",
-        "name": "Film Independent Spirit Awards",
-        "slug": "spirit-awards",
-        "icon": "fa-feather"
-    },
-    {
-        "id": 0,
-        "imdb_id": "",
-        "name": "Filmfare Awards",
-        "slug": "filmfare",
-        "icon": "fa-film"
-    },
-    {
-        "id": 0,
-        "imdb_id": "",
-        "name": "German Film Awards",
-        "slug": "german-film",
-        "icon": "fa-award"
-    },
-    {
-        "id": 0,
-        "imdb_id": "",
-        "name": "Golden Globe Awards",
-        "slug": "golden-globe",
-        "icon": "fa-globe"
-    },
-    {
-        "id": 0,
-        "imdb_id": "",
-        "name": "Hong Kong Film Awards",
-        "slug": "hk-film",
-        "icon": "fa-award"
-    },
-    {
-        "id": 0,
-        "imdb_id": "",
-        "name": "IIFA Awards",
-        "slug": "iifa",
-        "icon": "fa-award"
-    },
-    {
-        "id": 0,
-        "imdb_id": "",
-        "name": "Primetime Emmy Awards",
-        "slug": "emmy",
-        "icon": "fa-tv"
-    },
-    {
-        "id": 0,
-        "imdb_id": "",
-        "name": "Zee Cine Awards",
-        "slug": "zee-cine",
-        "icon": "fa-award"
+        "name": "Popular Awards — The Movie Database (TMDB)",
+        "slug": "popular-awards--the-movie-database-tmdb",
+        "icon": ""
     }
 ]
