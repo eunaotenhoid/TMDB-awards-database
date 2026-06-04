@@ -1,0 +1,300 @@
+{
+    "award_info": {
+        "tmdb_award_id": 70,
+        "imdb_award_id": "",
+        "name": "Astra Creative Arts Awards",
+        "slug": "astra-creative-arts-awards",
+        "url": "https://www.themoviedb.org/award/70",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/1Wso2h6zQIvukoJG9Bp6w3Y3hmr.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "Best Casting",
+                "tmdb_id": 812583,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Casting",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Casting",
+                "tmdb_id": 1069905,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Casting",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Casting",
+                "tmdb_id": 1317288,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Casting",
+                "tmdb_id": 1124566,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1241983,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1317288,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 997113,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 1401281,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 1317288,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 639988,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 1124566,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Makeup and Hairstyling",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Makeup and Hairstyling",
+                "tmdb_id": 1214684,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Makeup and Hairstyling",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Makeup and Hairstyling",
+                "tmdb_id": 574452,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Makeup and Hairstyling",
+                "tmdb_id": 1078605,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Makeup and Hairstyling",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Marketing Campaign",
+                "tmdb_id": 1114967,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Marketing Campaign",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Marketing Campaign",
+                "tmdb_id": 1061474,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Marketing Campaign",
+                "tmdb_id": 604079,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Marketing Campaign",
+                "tmdb_id": 1078605,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Marketing Campaign",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 1137350,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 997113,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Second Unit Director",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Second Unit Director",
+                "tmdb_id": 870028,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Second Unit Director",
+                "tmdb_id": 604079,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Second Unit Director",
+                "tmdb_id": 1078605,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Second Unit Director",
+                "tmdb_id": 575265,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ]
+    }
+}

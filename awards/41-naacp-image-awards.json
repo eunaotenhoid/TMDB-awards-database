@@ -1,0 +1,1686 @@
+{
+    "award_info": {
+        "tmdb_award_id": 41,
+        "imdb_award_id": "",
+        "name": "NAACP Image Awards",
+        "slug": "naacp-image-awards",
+        "url": "https://www.themoviedb.org/award/41",
+        "location": ",         Pasadena Civic Auditorium,         Pasadena, California,",
+        "presenter": ",         Deon Cole ,",
+        "icon": "https://media.themoviedb.org/t/p/w300/3ZKta9Dkpyr15Lt1TJbOvwehZWE.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Outstanding Actor in a Comedy Series",
+                "tmdb_id": 5726,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Actor in a Comedy Series",
+                "tmdb_id": 58563,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actor in a Comedy Series",
+                "tmdb_id": 35013,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actor in a Comedy Series",
+                "tmdb_id": 51944,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actor in a Comedy Series",
+                "tmdb_id": 1892921,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actor in a Drama Series",
+                "tmdb_id": 2178,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actor in a Drama Series",
+                "tmdb_id": 3218467,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actor in a Drama Series",
+                "tmdb_id": 3102516,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actor in a Drama Series",
+                "tmdb_id": 9779,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actor in a Drama Series",
+                "tmdb_id": 1225953,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Actor in a Limited Television (Series, Special, or Movie)",
+                "tmdb_id": 4808,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actor in a Limited Television (Series, Special, or Movie)",
+                "tmdb_id": 17605,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actor in a Limited Television (Series, Special, or Movie)",
+                "tmdb_id": 17637,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actor in a Limited Television (Series, Special, or Movie)",
+                "tmdb_id": 1562322,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Actor in a Motion Picture",
+                "tmdb_id": 459980,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actor in a Motion Picture",
+                "tmdb_id": 5292,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actor in a Motion Picture",
+                "tmdb_id": 135651,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Actor in a Motion Picture",
+                "tmdb_id": 213058,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actor in a Motion Picture",
+                "tmdb_id": 3052321,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actress in a Comedy Series",
+                "tmdb_id": 2195140,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actress in a Comedy Series",
+                "tmdb_id": 52792,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actress in a Comedy Series",
+                "tmdb_id": 1475128,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actress in a Comedy Series",
+                "tmdb_id": 1745988,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Actress in a Comedy Series",
+                "tmdb_id": 1332680,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actress in a Drama Series",
+                "tmdb_id": 9780,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Actress in a Drama Series",
+                "tmdb_id": 929826,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actress in a Drama Series",
+                "tmdb_id": 1909534,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actress in a Drama Series",
+                "tmdb_id": 1366702,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actress in a Drama Series",
+                "tmdb_id": 15758,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actress in a Limited Television (Series, Special, or Movie)",
+                "tmdb_id": 33285,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actress in a Limited Television (Series, Special, or Movie)",
+                "tmdb_id": 1437842,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actress in a Limited Television (Series, Special, or Movie)",
+                "tmdb_id": 40036,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Actress in a Limited Television (Series, Special, or Movie)",
+                "tmdb_id": 19492,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actress in a Motion Picture",
+                "tmdb_id": 1765068,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Actress in a Motion Picture",
+                "tmdb_id": 1853909,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actress in a Motion Picture",
+                "tmdb_id": 74688,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actress in a Motion Picture",
+                "tmdb_id": 11703,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Actress in a Motion Picture",
+                "tmdb_id": 62561,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Animated Motion Picture",
+                "tmdb_id": 1022787,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Animated Motion Picture",
+                "tmdb_id": 803796,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Animated Motion Picture",
+                "tmdb_id": 1084153,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Animated Motion Picture",
+                "tmdb_id": 1175942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Animated Motion Picture",
+                "tmdb_id": 1084242,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Animated Series",
+                "tmdb_id": 228669,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Animated Series",
+                "tmdb_id": 205796,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Animated Series",
+                "tmdb_id": 283141,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Animated Series",
+                "tmdb_id": 278556,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Breakthrough Creative (Motion Picture)",
+                "tmdb_id": 3915444,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Breakthrough Creative (Motion Picture)",
+                "tmdb_id": 2037039,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Breakthrough Creative (Motion Picture)",
+                "tmdb_id": 213058,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Breakthrough Creative (Motion Picture)",
+                "tmdb_id": 2232301,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Breakthrough Creative (Motion Picture)",
+                "tmdb_id": 3260053,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Breakthrough Creative (Television)",
+                "tmdb_id": 1989316,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Breakthrough Creative (Television)",
+                "tmdb_id": 1280262,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Breakthrough Creative (Television)",
+                "tmdb_id": 2559081,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Breakthrough Creative (Television)",
+                "tmdb_id": 3958192,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Breakthrough Performance in a Motion Picture",
+                "tmdb_id": 1521445,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Breakthrough Performance in a Motion Picture",
+                "tmdb_id": 3914706,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Breakthrough Performance in a Motion Picture",
+                "tmdb_id": 4688032,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Breakthrough Performance in a Motion Picture",
+                "tmdb_id": 1305434,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Breakthrough Performance in a Motion Picture",
+                "tmdb_id": 3052321,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Character Voice Performance (Television)",
+                "tmdb_id": 15563,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Character Voice Performance (Television)",
+                "tmdb_id": 2195140,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Character Voice Performance (Television)",
+                "tmdb_id": 5726,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Character Voice Performance (Television)",
+                "tmdb_id": 31031,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Character Voice Performance - Motion Picture",
+                "tmdb_id": 53650,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Character Voice Performance - Motion Picture",
+                "tmdb_id": 64342,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Character Voice Performance - Motion Picture",
+                "tmdb_id": 1075037,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Character Voice Performance - Motion Picture",
+                "tmdb_id": 1488961,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Character Voice Performance - Motion Picture",
+                "tmdb_id": 1745988,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Children’s Program",
+                "tmdb_id": 241388,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Children’s Program",
+                "tmdb_id": 205796,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Children’s Program",
+                "tmdb_id": 103540,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Children’s Program",
+                "tmdb_id": 303271,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Cinematography in a Motion Picture",
+                "tmdb_id": 1385904,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Cinematography in a Motion Picture",
+                "tmdb_id": 1491291,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Cinematography in a Motion Picture",
+                "tmdb_id": 1611041,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Cinematography in a Motion Picture",
+                "tmdb_id": 54926,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Cinematography in a Motion Picture",
+                "tmdb_id": 2027165,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 138089,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 227139,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 242054,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 121509,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Costume Design (Television or Film)",
+                "tmdb_id": 62643,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Costume Design (Television or Film)",
+                "tmdb_id": 15524,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Costume Design (Television or Film)",
+                "tmdb_id": 1704679,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing in a Comedy Series",
+                "tmdb_id": 1692789,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing in a Comedy Series",
+                "tmdb_id": 91671,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing in a Comedy Series",
+                "tmdb_id": 70573,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing in a Comedy Series",
+                "tmdb_id": 120515,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing in a Comedy Series",
+                "tmdb_id": 1214870,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directing in a Documentary (Television or Film)",
+                "tmdb_id": 1075438,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directing in a Documentary (Television or Film)",
+                "tmdb_id": 68215,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directing in a Drama Series",
+                "tmdb_id": 2468781,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing in a Drama Series",
+                "tmdb_id": 1214867,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing in a Drama Series",
+                "tmdb_id": 1532988,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing in a Drama Series",
+                "tmdb_id": 16214,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directing in a Drama Series",
+                "tmdb_id": 53918,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing in a Motion Picture",
+                "tmdb_id": 1485381,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing in a Motion Picture",
+                "tmdb_id": 10828,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing in a Motion Picture",
+                "tmdb_id": 3191031,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing in a Motion Picture",
+                "tmdb_id": 2232301,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing in a Motion Picture",
+                "tmdb_id": 1056121,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directing in a Television Movie or Special",
+                "tmdb_id": 1025028,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing in a Television Movie or Special",
+                "tmdb_id": 169739,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing in a Television Movie or Special",
+                "tmdb_id": 62369,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directing in a Television Movie or Special",
+                "tmdb_id": 3404499,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing in a Television Movie or Special",
+                "tmdb_id": 5615597,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary (Film)",
+                "tmdb_id": 1426518,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Documentary (Film)",
+                "tmdb_id": 1463931,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary (Film)",
+                "tmdb_id": 1358573,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary (Film)",
+                "tmdb_id": 1400782,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary (Film)",
+                "tmdb_id": 1281300,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary (Television)",
+                "tmdb_id": 282670,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary (Television)",
+                "tmdb_id": 280961,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary (Television)",
+                "tmdb_id": 304995,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary (Television)",
+                "tmdb_id": 285310,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 107365,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 248361,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 248394,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 245927,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 205272,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Editing in a Motion Picture or Television Series, Movie, or Special",
+                "tmdb_id": 2675075,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Editing in a Motion Picture or Television Series, Movie, or Special",
+                "tmdb_id": 1643464,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Editing in a Motion Picture or Television Series, Movie, or Special",
+                "tmdb_id": 3896071,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Ensemble Cast in a Motion Picture",
+                "tmdb_id": 1242434,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Ensemble Cast in a Motion Picture",
+                "tmdb_id": 1290159,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Ensemble Cast in a Motion Picture",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Ensemble Cast in a Motion Picture",
+                "tmdb_id": 1280672,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Ensemble Cast in a Motion Picture",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Guest Performance",
+                "tmdb_id": 2247642,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Performance",
+                "tmdb_id": 4169,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Performance",
+                "tmdb_id": 536346,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Performance",
+                "tmdb_id": 40259,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Guest Performance",
+                "tmdb_id": 9779,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Hairstyling (Television or Film)",
+                "tmdb_id": 1930144,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Hairstyling (Television or Film)",
+                "tmdb_id": 4180461,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Hairstyling (Television or Film)",
+                "tmdb_id": 5103437,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Hairstyling (Television or Film)",
+                "tmdb_id": 1649358,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Host in a Reality/Reality Competition, Game Show or Variety (Series or Special) – Individual or Ensemble",
+                "tmdb_id": 143240,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host in a Reality/Reality Competition, Game Show or Variety (Series or Special) – Individual or Ensemble",
+                "tmdb_id": 169440,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host in a Reality/Reality Competition, Game Show or Variety (Series or Special) – Individual or Ensemble",
+                "tmdb_id": 1240877,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host in a Reality/Reality Competition, Game Show or Variety (Series or Special) – Individual or Ensemble",
+                "tmdb_id": 2283540,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host in a Reality/Reality Competition, Game Show or Variety (Series or Special) – Individual or Ensemble",
+                "tmdb_id": 470172,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host in a Reality/Reality Competition, Game Show or Variety (Series or Special) – Individual or Ensemble",
+                "tmdb_id": 1880745,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host in a Reality/Reality Competition, Game Show or Variety (Series or Special) – Individual or Ensemble",
+                "tmdb_id": 1659491,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host in a Reality/Reality Competition, Game Show or Variety (Series or Special) – Individual or Ensemble",
+                "tmdb_id": 2420669,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host in a Reality/Reality Competition, Game Show or Variety (Series or Special) – Individual or Ensemble",
+                "tmdb_id": 11669,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host in a Reality/Reality Competition, Game Show or Variety (Series or Special) – Individual or Ensemble",
+                "tmdb_id": 4403975,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host in a Reality/Reality Competition, Game Show or Variety (Series or Special) – Individual or Ensemble",
+                "tmdb_id": 55638,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host in a Reality/Reality Competition, Game Show or Variety (Series or Special) – Individual or Ensemble",
+                "tmdb_id": 82587,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Host in a Talk or News/Information (Series or Special) – Individual or Ensemble",
+                "tmdb_id": 2727083,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host in a Talk or News/Information (Series or Special) – Individual or Ensemble",
+                "tmdb_id": 1395060,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Host in a Talk or News/Information (Series or Special) – Individual or Ensemble",
+                "tmdb_id": 1236595,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host in a Talk or News/Information (Series or Special) – Individual or Ensemble",
+                "tmdb_id": 109561,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Independent Motion Picture",
+                "tmdb_id": 1319951,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Independent Motion Picture",
+                "tmdb_id": 1398910,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Independent Motion Picture",
+                "tmdb_id": 784524,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Independent Motion Picture",
+                "tmdb_id": 1202479,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Independent Motion Picture",
+                "tmdb_id": 1530523,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding International Motion Picture",
+                "tmdb_id": 1319951,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding International Motion Picture",
+                "tmdb_id": 1432605,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding International Motion Picture",
+                "tmdb_id": 1158996,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding International Motion Picture",
+                "tmdb_id": 1320422,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding International Motion Picture",
+                "tmdb_id": 1220564,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited Television (Series, Special, or Movie)",
+                "tmdb_id": 1045938,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited Television (Series, Special, or Movie)",
+                "tmdb_id": 1371189,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited Television (Series, Special, or Movie)",
+                "tmdb_id": 1426776,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Makeup (Television or Film)",
+                "tmdb_id": 229801,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Makeup (Television or Film)",
+                "tmdb_id": 2118238,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Makeup (Television or Film)",
+                "tmdb_id": 61996,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Motion Picture",
+                "tmdb_id": 1325678,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Motion Picture",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Motion Picture",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Motion Picture",
+                "tmdb_id": 1242434,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Motion Picture",
+                "tmdb_id": 1280672,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding News/Information (Series or Special)",
+                "tmdb_id": 2683,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding News/Information (Series or Special)",
+                "tmdb_id": 43221,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding News/Information (Series or Special)",
+                "tmdb_id": 194968,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Performance by a Youth (Series, Special, Television Movie, or Limited Series)",
+                "tmdb_id": 1754752,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance by a Youth (Series, Special, Television Movie, or Limited Series)",
+                "tmdb_id": 4216864,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance by a Youth (Series, Special, Television Movie, or Limited Series)",
+                "tmdb_id": 4570760,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance by a Youth (Series, Special, Television Movie, or Limited Series)",
+                "tmdb_id": 1438277,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Performance by a Youth (Series, Special, Television Movie, or Limited Series)",
+                "tmdb_id": 2215763,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance by a Youth in a Motion Picture",
+                "tmdb_id": 4019844,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance by a Youth in a Motion Picture",
+                "tmdb_id": 4697723,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance by a Youth in a Motion Picture",
+                "tmdb_id": 3594874,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance by a Youth in a Motion Picture",
+                "tmdb_id": 3095757,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Performance by a Youth in a Motion Picture",
+                "tmdb_id": 2170322,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Program/Reality Competition Series/Game Show",
+                "tmdb_id": 82108,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Reality Program/Reality Competition Series/Game Show",
+                "tmdb_id": 1508,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Program/Reality Competition Series/Game Show",
+                "tmdb_id": 254060,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Program/Reality Competition Series/Game Show",
+                "tmdb_id": 86882,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Program/Reality Competition Series/Game Show",
+                "tmdb_id": 94785,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Short Form (Animated)",
+                "tmdb_id": 1570726,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Short Form (Animated)",
+                "tmdb_id": 1573615,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Short Form (Animated)",
+                "tmdb_id": 1493310,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Short Form (Animated)",
+                "tmdb_id": 1458124,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Short Form (Animated)",
+                "tmdb_id": 1427126,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Short Form (Live Action)",
+                "tmdb_id": 1457080,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Short Form (Live Action)",
+                "tmdb_id": 1614788,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Short Form (Live Action)",
+                "tmdb_id": 1486982,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Short Form (Live Action)",
+                "tmdb_id": 1614783,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Short Form (Live Action)",
+                "tmdb_id": 1517561,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Short Form Documentary (Film)",
+                "tmdb_id": 1522477,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Short Form Documentary (Film)",
+                "tmdb_id": 1537847,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Short Form Documentary (Film)",
+                "tmdb_id": 1484072,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Short Form Documentary (Film)",
+                "tmdb_id": 1505013,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Short Form Documentary (Film)",
+                "tmdb_id": 1481216,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Stunt Ensemble (Television or Film)",
+                "tmdb_id": 911430,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Stunt Ensemble (Television or Film)",
+                "tmdb_id": 1045938,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Stunt Ensemble (Television or Film)",
+                "tmdb_id": 757725,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Stunt Ensemble (Television or Film)",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Comedy Series",
+                "tmdb_id": 91671,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Comedy Series",
+                "tmdb_id": 4808,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Comedy Series",
+                "tmdb_id": 2600521,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Comedy Series",
+                "tmdb_id": 17859,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Comedy Series",
+                "tmdb_id": 1227552,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Drama Series",
+                "tmdb_id": 33348,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Drama Series",
+                "tmdb_id": 5377,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Drama Series",
+                "tmdb_id": 1474123,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Drama Series",
+                "tmdb_id": 512316,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Drama Series",
+                "tmdb_id": 65829,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Limited Television (Series, Special, or Movie)",
+                "tmdb_id": 114674,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Limited Television (Series, Special, or Movie)",
+                "tmdb_id": 17345,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Motion Picture",
+                "tmdb_id": 1521445,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Motion Picture",
+                "tmdb_id": 1837297,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Motion Picture",
+                "tmdb_id": 18792,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Motion Picture",
+                "tmdb_id": 2954,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Motion Picture",
+                "tmdb_id": 4688032,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Comedy Series",
+                "tmdb_id": 1478382,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Comedy Series",
+                "tmdb_id": 1726786,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Comedy Series",
+                "tmdb_id": 2692283,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Comedy Series",
+                "tmdb_id": 2551196,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Comedy Series",
+                "tmdb_id": 27102,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Drama Series",
+                "tmdb_id": 1192492,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Drama Series",
+                "tmdb_id": 187565,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Drama Series",
+                "tmdb_id": 1398879,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Drama Series",
+                "tmdb_id": 1398879,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Drama Series",
+                "tmdb_id": 87243,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Limited Television (Series, Special, or Movie)",
+                "tmdb_id": 1407498,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Limited Television (Series, Special, or Movie)",
+                "tmdb_id": 109561,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Limited Television (Series, Special, or Movie)",
+                "tmdb_id": 964679,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Motion Picture",
+                "tmdb_id": 2692283,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Motion Picture",
+                "tmdb_id": 2455272,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Motion Picture",
+                "tmdb_id": 35705,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Motion Picture",
+                "tmdb_id": 964679,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Motion Picture",
+                "tmdb_id": 134774,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Talk Series",
+                "tmdb_id": 210081,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Talk Series",
+                "tmdb_id": 93449,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Talk Series",
+                "tmdb_id": 204746,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Talk Series",
+                "tmdb_id": 2221,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Comedy Series",
+                "tmdb_id": 1294737,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Writing in a Comedy Series",
+                "tmdb_id": 3713260,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Comedy Series",
+                "tmdb_id": 3729125,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Comedy Series",
+                "tmdb_id": 3908760,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Comedy Series",
+                "tmdb_id": 1974164,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Drama Series",
+                "tmdb_id": 3935919,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Drama Series",
+                "tmdb_id": 2176378,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Drama Series",
+                "tmdb_id": 2176379,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Drama Series",
+                "tmdb_id": 2257261,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Drama Series",
+                "tmdb_id": 2482479,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Writing in a Drama Series",
+                "tmdb_id": 56011,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Motion Picture",
+                "tmdb_id": 1395183,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Motion Picture",
+                "tmdb_id": 3967628,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Motion Picture",
+                "tmdb_id": 2906933,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Motion Picture",
+                "tmdb_id": 1056121,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Writing in a Motion Picture",
+                "tmdb_id": 2377758,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Motion Picture",
+                "tmdb_id": 56011,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Motion Picture",
+                "tmdb_id": 2348264,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Television Movie or Special",
+                "tmdb_id": 2413536,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Writing in a Television Movie or Special",
+                "tmdb_id": 4749100,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Television Movie or Special",
+                "tmdb_id": 1400880,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Television Movie or Special",
+                "tmdb_id": 166479,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Television Movie or Special",
+                "tmdb_id": 88129,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Television Movie or Special",
+                "tmdb_id": 3620352,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing in a Television Movie or Special",
+                "tmdb_id": 2027825,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ]
+    }
+}

@@ -1,0 +1,1154 @@
+{
+    "award_info": {
+        "tmdb_award_id": 55,
+        "imdb_award_id": "",
+        "name": "SDSA Awards Television",
+        "slug": "sdsa-awards-television",
+        "url": "https://www.themoviedb.org/award/55",
+        "location": "",
+        "presenter": "",
+        "icon": "",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 248361,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 6647,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 881,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 987,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 1054,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 80550,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 195241,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 261363,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 81144,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 135959,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 82782,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 83631,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 42009,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 120998,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 241609,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 90228,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 94997,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 84773,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 157744,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 91239,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 207333,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 110382,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 117488,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 243316,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 212246,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 120549,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 225634,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 246992,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2024": [
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 6647,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 881,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 108178,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 82873,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 1054,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 92461,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 80550,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 195241,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 81144,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 202101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 83631,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 60622,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 236235,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 90282,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 118642,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 46648,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 108545,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 106379,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 87917,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 84958,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 125988,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 69851,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 81723,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 157367,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 126308,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 155421,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 241259,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 137893,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 117303,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 94028,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2023": [
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 6647,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 881,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 987,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 82873,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 1054,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 92461,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 80550,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 124010,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 202101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 135959,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 154385,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 82596,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 97546,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 111800,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 120998,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 73586,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 82856,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 119051,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 83659,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 84773,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 157744,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 93812,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 113988,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 70796,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 85853,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 124394,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 95555,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 109377,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 130567,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 96237,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 196454,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2022": [
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 6647,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 881,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 129899,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 987,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 1054,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 92461,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 113627,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 156915,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 124010,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 81144,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 117910,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 65495,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 89901,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 82596,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 67883,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 84977,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 69740,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 73586,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 113036,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 69478,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 84958,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 66732,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 85949,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 91239,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 81723,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 93812,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 70796,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 124067,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 139064,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 122066,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 107407,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 92830,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 114925,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Variety, Reality or Competition Series",
+                "tmdb_id": 1508,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Variety, Reality or Competition Series",
+                "tmdb_id": 133723,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Variety, Reality or Competition Series",
+                "tmdb_id": 157903,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Variety, Reality or Competition Series",
+                "tmdb_id": 110838,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Variety, Reality or Competition Series",
+                "tmdb_id": 1667,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2021": [
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 6647,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 881,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 987,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 82873,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Daytime Series",
+                "tmdb_id": 1054,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 111260,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 80550,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 49011,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 117910,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Multi-Camera Series",
+                "tmdb_id": 74321,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 81357,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 89901,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 82596,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Half-Hour Single-Camera Series",
+                "tmdb_id": 81290,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 62852,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 85552,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 93287,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 69740,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Contemporary Series",
+                "tmdb_id": 73586,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 87917,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 69478,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 82816,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 82856,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Fantasy or Science Fiction Series",
+                "tmdb_id": 75006,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 91239,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 83685,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 85853,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a One Hour Period Series",
+                "tmdb_id": 81354,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 60622,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 99617,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 87050,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 115004,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Television Movie or Limited Series",
+                "tmdb_id": 87739,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Variety, Reality or Competition Series",
+                "tmdb_id": 1508,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Variety, Reality or Competition Series",
+                "tmdb_id": 84910,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Variety, Reality or Competition Series",
+                "tmdb_id": 1667,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Variety, Reality or Competition Series",
+                "tmdb_id": 110838,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Décor/Design of a Variety, Reality or Competition Series",
+                "tmdb_id": 37678,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ]
+    }
+}

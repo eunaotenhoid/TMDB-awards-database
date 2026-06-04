@@ -1,0 +1,2328 @@
+{
+    "award_info": {
+        "tmdb_award_id": 47,
+        "imdb_award_id": "",
+        "name": "Artios Awards",
+        "slug": "artios-awards",
+        "url": "https://www.themoviedb.org/award/47",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/50Bcrvc2yiksZzxvTFWGDHWFKSx.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 135926,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 32726,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 74204,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 207318,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 1434,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 114500,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 274382,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 138503,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 1069905,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 1136867,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 1035259,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 1137350,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 812583,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 911430,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 1317288,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 1275886,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 1169789,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 1275974,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 1255718,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 1205515,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 1206864,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 1259102,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 1239655,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 1339658,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 1208348,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 1278827,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 1245347,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 1299655,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 1212271,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 1214931,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 1287141,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 1124566,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 1241983,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – Animated",
+                "tmdb_id": 1022787,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – Animated",
+                "tmdb_id": 1175942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – Animated",
+                "tmdb_id": 1084242,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – International",
+                "tmdb_id": 1379266,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – International",
+                "tmdb_id": 1221061,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – International",
+                "tmdb_id": 1320422,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 1272149,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 1005331,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 1417059,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 1151039,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 971606,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 646097,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 996821,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – International Television Series",
+                "tmdb_id": 257885,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – International Television Series",
+                "tmdb_id": 286537,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – International Television Series",
+                "tmdb_id": 133784,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 249042,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 147050,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 241405,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 225634,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 194764,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 220564,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Live Action Children & Family Series",
+                "tmdb_id": 256693,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Live Action Children & Family Series",
+                "tmdb_id": 224737,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Live Action Children & Family Series",
+                "tmdb_id": 254653,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Live Action Children & Family Series",
+                "tmdb_id": 245026,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Live Action Children & Family Series",
+                "tmdb_id": 195670,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Reality Series – Competition",
+                "tmdb_id": 90521,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Reality Series – Competition",
+                "tmdb_id": 8514,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Reality Series – Competition",
+                "tmdb_id": 62,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Reality Series – Competition",
+                "tmdb_id": 97083,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Reality Series – Competition",
+                "tmdb_id": 254444,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Reality Series – Competition",
+                "tmdb_id": 41822,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Reality Series – Structured and Unstructured",
+                "tmdb_id": 76922,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Reality Series – Structured and Unstructured",
+                "tmdb_id": 30703,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Reality Series – Structured and Unstructured",
+                "tmdb_id": 69720,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Reality Series – Structured and Unstructured",
+                "tmdb_id": 105177,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Reality Series – Structured and Unstructured",
+                "tmdb_id": 245263,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 1457080,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 1463484,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 1329597,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 1338572,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 1339383,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 1458752,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 1364283,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 226346,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 258902,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 225383,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 250923,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 247619,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 245703,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 226174,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 245927,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 222766,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 250307,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 241609,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 136311,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 227139,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 199318,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 95480,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 203857,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 69478,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2025": [
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 74204,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 225180,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 32726,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 235997,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 1434,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 60625,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 917496,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 937287,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 533535,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 728949,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 1120911,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 402431,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 661539,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 896151,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 929590,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 558449,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 1059128,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 1048923,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 1058617,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 1037035,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 1143128,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 989662,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 1013850,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 977262,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 974635,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 947891,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 1051891,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 974576,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 1138194,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 832964,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 1028196,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 1211472,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 1182047,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – Animated",
+                "tmdb_id": 1022789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – Animated",
+                "tmdb_id": 1241982,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – Animated",
+                "tmdb_id": 762509,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – Animated",
+                "tmdb_id": 592983,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – Animated",
+                "tmdb_id": 1184918,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – International",
+                "tmdb_id": 974950,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – International",
+                "tmdb_id": 1187308,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – International",
+                "tmdb_id": 1180629,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – International",
+                "tmdb_id": 1178684,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – International",
+                "tmdb_id": 1053348,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – International",
+                "tmdb_id": 989589,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – International",
+                "tmdb_id": 1032472,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 626332,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 787781,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 930094,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 1083658,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 800513,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 843527,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – International Television Series",
+                "tmdb_id": 209479,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – International Television Series",
+                "tmdb_id": 316232,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – International Television Series",
+                "tmdb_id": 133784,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – International Television Series",
+                "tmdb_id": 199352,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – International Television Series",
+                "tmdb_id": 228477,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 155421,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 241259,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 60622,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 69851,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 94028,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 46648,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Live Action Children & Family Series",
+                "tmdb_id": 82452,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Live Action Children & Family Series",
+                "tmdb_id": 157004,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Live Action Children & Family Series",
+                "tmdb_id": 85801,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Live Action Children & Family Series",
+                "tmdb_id": 199001,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Live Action Children & Family Series",
+                "tmdb_id": 103540,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Live Action Children & Family Series",
+                "tmdb_id": 138492,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 1284124,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 1205611,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 1217185,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 1301791,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 1351782,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 1135111,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 203614,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 157367,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 227139,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 227004,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 236235,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 108545,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 226285,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 106379,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 118642,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 126308,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 203744,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 114655,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 105532,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 116761,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 197449,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 95215,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 72071,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 95480,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 81723,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 90282,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 194766,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2024": [
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 74204,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 1433,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 32726,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 1434,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 126725,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 555285,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 964980,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 747188,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 804150,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 787699,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 466420,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 558915,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 523607,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 872585,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 930564,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 979097,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 1058638,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 707103,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 1072371,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 540549,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Micro Budget – Comedy or Drama",
+                "tmdb_id": 1060839,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Micro Budget – Comedy or Drama",
+                "tmdb_id": 1081683,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Micro Budget – Comedy or Drama",
+                "tmdb_id": 1183500,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Micro Budget – Comedy or Drama",
+                "tmdb_id": 1005731,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Micro Budget – Comedy or Drama",
+                "tmdb_id": 923993,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 840430,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 1056360,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 814776,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 864168,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 986054,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 666277,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 850165,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 839369,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 1020006,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 898713,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – Animated",
+                "tmdb_id": 569094,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – Animated",
+                "tmdb_id": 976573,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – Animated",
+                "tmdb_id": 1075794,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – Animated",
+                "tmdb_id": 614930,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – Animated",
+                "tmdb_id": 1022796,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 846250,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 673271,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 881164,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 642885,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 928344,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 154385,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 155537,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 113988,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 95555,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 156401,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Live Action Children & Family Series",
+                "tmdb_id": 135615,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Live Action Children & Family Series",
+                "tmdb_id": 205441,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Live Action Children & Family Series",
+                "tmdb_id": 62875,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Live Action Children & Family Series",
+                "tmdb_id": 130372,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Live Action Children & Family Series",
+                "tmdb_id": 85801,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Live Television Performance, Variety, or Sketch – Comedy, Drama, or Musical",
+                "tmdb_id": 90877,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Live Television Performance, Variety, or Sketch – Comedy, Drama, or Musical",
+                "tmdb_id": 88728,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 1144684,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 1640976,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 1293832,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 1575933,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 1063354,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Form Series",
+                "tmdb_id": 157060,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Form Series",
+                "tmdb_id": 114502,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Form Series",
+                "tmdb_id": 99072,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Form Series",
+                "tmdb_id": 210625,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Form Series",
+                "tmdb_id": 316458,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 222023,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 107005,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 120998,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 136311,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 199318,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 203857,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 111800,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 194766,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 97546,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 95215,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 73107,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 60059,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 76479,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 69478,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 117488,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "The Zeitgeist Award",
+                "tmdb_id": 346698,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "The Zeitgeist Award",
+                "tmdb_id": 298618,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The Zeitgeist Award",
+                "tmdb_id": 695721,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The Zeitgeist Award",
+                "tmdb_id": 848326,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The Zeitgeist Award",
+                "tmdb_id": 667538,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2023": [
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 74204,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 32726,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 98198,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 1434,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Animated Program for Television",
+                "tmdb_id": 60625,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 614939,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 661374,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 593643,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 668482,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Comedy",
+                "tmdb_id": 744594,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 505642,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 614934,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 804095,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 817758,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Big Budget – Drama",
+                "tmdb_id": 854239,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 862965,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 787767,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 785037,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 703285,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Low Budget – Comedy or Drama",
+                "tmdb_id": 826754,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Micro Budget – Comedy or Drama",
+                "tmdb_id": 854546,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Micro Budget – Comedy or Drama",
+                "tmdb_id": 838889,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Micro Budget – Comedy or Drama",
+                "tmdb_id": 964985,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Micro Budget – Comedy or Drama",
+                "tmdb_id": 872779,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Micro Budget – Comedy or Drama",
+                "tmdb_id": 866076,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 765119,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 795109,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 819309,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 876825,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Comedy",
+                "tmdb_id": 507903,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 615952,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 674324,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 595586,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 814340,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature Studio or Independent – Drama",
+                "tmdb_id": 785084,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – Animated",
+                "tmdb_id": 629542,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – Animated",
+                "tmdb_id": 718789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – Animated",
+                "tmdb_id": 869626,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – Animated",
+                "tmdb_id": 315162,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Feature – Animated",
+                "tmdb_id": 508947,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 696806,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 826953,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 619979,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 618162,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Film, First Released for Television or Streaming",
+                "tmdb_id": 606870,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 110695,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 95665,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 111141,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 122066,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Limited Series",
+                "tmdb_id": 122196,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 892929,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 958589,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 1050370,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 977233,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Film",
+                "tmdb_id": 872788,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Form Series",
+                "tmdb_id": 321879,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Form Series",
+                "tmdb_id": 86831,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Short Form Series",
+                "tmdb_id": 87984,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 126027,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 116761,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 95215,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Comedy",
+                "tmdb_id": 134373,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 99652,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 110382,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 81723,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 124067,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Pilot and First Season – Drama",
+                "tmdb_id": 117488,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 73107,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 97546,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 70796,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Comedy",
+                "tmdb_id": 85519,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 60059,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 85552,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 69740,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Casting – Television Series – Drama",
+                "tmdb_id": 90282,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "The Zeitgeist Award",
+                "tmdb_id": 76600,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The Zeitgeist Award",
+                "tmdb_id": 414906,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The Zeitgeist Award",
+                "tmdb_id": 545611,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "The Zeitgeist Award",
+                "tmdb_id": 646385,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The Zeitgeist Award",
+                "tmdb_id": 361743,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ]
+    }
+}

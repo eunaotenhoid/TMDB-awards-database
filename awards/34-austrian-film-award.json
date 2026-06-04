@@ -1,0 +1,530 @@
+{
+    "award_info": {
+        "tmdb_award_id": 34,
+        "imdb_award_id": "",
+        "name": "Austrian Film Award",
+        "slug": "austrian-film-award",
+        "url": "https://www.themoviedb.org/award/34",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/5EPSNmOqx2TLfXpR2V2cuFA19KG.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1195657,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1444998,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1411186,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1445025,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1427830,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1373020,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1369364,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1373983,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1373976,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1477638,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1381634,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1421148,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1364543,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1445182,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1583381,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1370112,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1249152,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1404180,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1418954,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1318811,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1457025,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2025": [
+            {
+                "category": "Beste Kamera",
+                "tmdb_id": 1172244,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Beste Kamera",
+                "tmdb_id": 1245728,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Beste Kamera",
+                "tmdb_id": 1012241,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Beste Kamera",
+                "tmdb_id": 1103264,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Beste Montage",
+                "tmdb_id": 1172244,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Beste Montage",
+                "tmdb_id": 1315351,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Beste Montage",
+                "tmdb_id": 940770,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Beste Montage",
+                "tmdb_id": 1221622,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Beste Musik",
+                "tmdb_id": 1361688,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Beste Musik",
+                "tmdb_id": 1301221,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Beste Musik",
+                "tmdb_id": 990169,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Beste Musik",
+                "tmdb_id": 1245728,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Beste Regie",
+                "tmdb_id": 1067822,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Beste Regie",
+                "tmdb_id": 1685215,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Beste Regie",
+                "tmdb_id": 2733927,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Beste Tongestaltung",
+                "tmdb_id": 900235,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Beste Tongestaltung",
+                "tmdb_id": 990169,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Beste Tongestaltung",
+                "tmdb_id": 1315351,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Beste Tongestaltung",
+                "tmdb_id": 1083015,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Beste männliche Hauptrolle",
+                "tmdb_id": 39905,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Beste männliche Hauptrolle",
+                "tmdb_id": 49053,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Beste männliche Hauptrolle",
+                "tmdb_id": 1111158,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Beste männliche Nebenrolle",
+                "tmdb_id": 67010,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Beste männliche Nebenrolle",
+                "tmdb_id": 907352,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Beste männliche Nebenrolle",
+                "tmdb_id": 1497805,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Beste weibliche Hauptrolle",
+                "tmdb_id": 1948966,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Beste weibliche Hauptrolle",
+                "tmdb_id": 8800,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Beste weibliche Hauptrolle",
+                "tmdb_id": 4245554,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Beste weibliche Nebenrolle",
+                "tmdb_id": 40525,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Beste weibliche Nebenrolle",
+                "tmdb_id": 45151,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Beste weibliche Nebenrolle",
+                "tmdb_id": 3167840,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Dokumentarfilm",
+                "tmdb_id": 1315351,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Dokumentarfilm",
+                "tmdb_id": 1268760,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Dokumentarfilm",
+                "tmdb_id": 940770,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Bester Dokumentarfilm",
+                "tmdb_id": 1221622,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Kurzfilm",
+                "tmdb_id": 1283592,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Kurzfilm",
+                "tmdb_id": 1103251,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Bester Kurzfilm",
+                "tmdb_id": 1329177,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Kurzfilm",
+                "tmdb_id": 1277971,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 900235,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 990169,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1172244,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1012241,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1292252,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1231180,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bester Spielfilm",
+                "tmdb_id": 1245728,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bestes Casting",
+                "tmdb_id": 990169,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bestes Casting",
+                "tmdb_id": 1172244,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bestes Casting",
+                "tmdb_id": 1012241,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Bestes Drehbuch",
+                "tmdb_id": 39905,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Bestes Drehbuch",
+                "tmdb_id": 4460392,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Bestes Drehbuch",
+                "tmdb_id": 1067822,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Bestes Drehbuch",
+                "tmdb_id": 1685215,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Bestes Drehbuch",
+                "tmdb_id": 2733927,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Bestes Kostümbild",
+                "tmdb_id": 1231180,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bestes Kostümbild",
+                "tmdb_id": 1176932,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bestes Kostümbild",
+                "tmdb_id": 1078810,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Bestes Maskenbild",
+                "tmdb_id": 1231180,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bestes Maskenbild",
+                "tmdb_id": 1292252,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bestes Maskenbild",
+                "tmdb_id": 990169,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Bestes Szenenbild",
+                "tmdb_id": 1231180,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Bestes Szenenbild",
+                "tmdb_id": 990169,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Bestes Szenenbild",
+                "tmdb_id": 1078810,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Publikumsstärkster Kinofilm",
+                "tmdb_id": 1300344,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ]
+    }
+}

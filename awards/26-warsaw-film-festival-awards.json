@@ -1,0 +1,426 @@
+{
+    "award_info": {
+        "tmdb_award_id": 26,
+        "imdb_award_id": "",
+        "name": "Warsaw Film Festival Awards",
+        "slug": "warsaw-film-festival-awards",
+        "url": "https://www.themoviedb.org/award/26",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/6yBzfI6xt0vFGD6bN4YGfFqtvuq.jpg",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1551334,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1556561,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1401878,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1449942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1478057,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1447821,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1556569,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1556573,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1422031,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1556575,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1531982,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1548664,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1530613,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1544061,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1525928,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "International Competition",
+                "tmdb_id": 1551878,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "International Competition",
+                "tmdb_id": 1356474,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "International Competition",
+                "tmdb_id": 1416589,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "International Competition",
+                "tmdb_id": 1423777,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "International Competition",
+                "tmdb_id": 1035047,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "International Competition",
+                "tmdb_id": 1457705,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "International Competition",
+                "tmdb_id": 1551900,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "International Competition",
+                "tmdb_id": 1316326,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "International Competition",
+                "tmdb_id": 1313229,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "International Competition",
+                "tmdb_id": 1516518,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "International Competition",
+                "tmdb_id": 1126336,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "International Competition",
+                "tmdb_id": 1232494,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "International Competition",
+                "tmdb_id": 1513026,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "International Competition",
+                "tmdb_id": 1317512,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "International Competition",
+                "tmdb_id": 1551892,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1114967,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1323409,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1309735,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 524635,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1257406,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1227739,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1242015,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1262773,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1283671,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1283320,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1309725,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1277884,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1315702,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 999075,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 682012,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 760329,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1294698,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1235746,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1220564,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1456349,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1517123,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1212310,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1290432,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Polish Film Institute Award",
+                "tmdb_id": 1092936,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The 1-2 Competition Award",
+                "tmdb_id": 1248679,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The 1-2 Competition Award",
+                "tmdb_id": 1166170,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The 1-2 Competition Award",
+                "tmdb_id": 1483477,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The 1-2 Competition Award",
+                "tmdb_id": 1461539,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The 1-2 Competition Award",
+                "tmdb_id": 1313226,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The 1-2 Competition Award",
+                "tmdb_id": 1469464,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The 1-2 Competition Award",
+                "tmdb_id": 1233655,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "The 1-2 Competition Award",
+                "tmdb_id": 1364904,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The 1-2 Competition Award",
+                "tmdb_id": 1442918,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The 1-2 Competition Award",
+                "tmdb_id": 1471537,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The 1-2 Competition Award",
+                "tmdb_id": 1339586,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The 1-2 Competition Award",
+                "tmdb_id": 1020829,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The 1-2 Competition Award",
+                "tmdb_id": 1433728,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The 1-2 Competition Award",
+                "tmdb_id": 1369661,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ]
+    }
+}

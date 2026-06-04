@@ -1,0 +1,80 @@
+{
+    "award_info": {
+        "tmdb_award_id": 36,
+        "imdb_award_id": "",
+        "name": "Nagroda Polskiego Stowarzyszenia MontaÅ¼ystÃ³w",
+        "slug": "nagroda-polskiego-stowarzyszenia-montaystw",
+        "url": "https://www.themoviedb.org/award/36",
+        "location": "",
+        "presenter": "",
+        "icon": "",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Najlepszy montaÅ¼",
+                "tmdb_id": 2099662,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Najlepszy montaÅ¼",
+                "tmdb_id": 4428967,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Najlepszy montaÅ¼",
+                "tmdb_id": 1482889,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Najlepszy montaÅ¼",
+                "tmdb_id": 1142943,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Najlepszy montaÅ¼",
+                "tmdb_id": 4305172,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2025": [
+            {
+                "category": "Najlepszy montaÅ¼",
+                "tmdb_id": 4428967,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Najlepszy montaÅ¼",
+                "tmdb_id": 1610560,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Najlepszy montaÅ¼",
+                "tmdb_id": 1341727,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Najlepszy montaÅ¼",
+                "tmdb_id": 2785260,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Najlepszy montaÅ¼",
+                "tmdb_id": 1610570,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ]
+    }
+}

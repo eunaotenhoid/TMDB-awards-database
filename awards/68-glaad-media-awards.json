@@ -1,0 +1,744 @@
+{
+    "award_info": {
+        "tmdb_award_id": 68,
+        "imdb_award_id": "",
+        "name": "GLAAD Media Awards",
+        "slug": "glaad-media-awards",
+        "url": "https://www.themoviedb.org/award/68",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/857yENYJRwvZH6CqCwBeYtaX0N8.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Outstanding Children's Programming",
+                "tmdb_id": 225303,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Children's Programming",
+                "tmdb_id": 138987,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Children's Programming",
+                "tmdb_id": 227101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Children's Programming",
+                "tmdb_id": 502,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Children's Programming",
+                "tmdb_id": 202998,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 202851,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 126027,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 94954,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 197449,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 157367,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 82782,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 227139,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 121509,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 237748,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 213338,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 239770,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 81723,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 124394,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 90802,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 66732,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 117488,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Limited Theatrical Release",
+                "tmdb_id": 1052155,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Limited Theatrical Release",
+                "tmdb_id": 1122584,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Limited Theatrical Release",
+                "tmdb_id": 1205515,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Limited Theatrical Release",
+                "tmdb_id": 1232449,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Limited Theatrical Release",
+                "tmdb_id": 1288748,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Limited Theatrical Release",
+                "tmdb_id": 997955,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Limited Theatrical Release",
+                "tmdb_id": 1275974,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Limited Theatrical Release",
+                "tmdb_id": 1022888,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Limited Theatrical Release",
+                "tmdb_id": 1128614,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Film – Limited Theatrical Release",
+                "tmdb_id": 1255718,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Film – Streaming or TV",
+                "tmdb_id": 1400032,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Streaming or TV",
+                "tmdb_id": 1547929,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Streaming or TV",
+                "tmdb_id": 1097311,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Streaming or TV",
+                "tmdb_id": 997113,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Streaming or TV",
+                "tmdb_id": 1547913,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Streaming or TV",
+                "tmdb_id": 1486246,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Streaming or TV",
+                "tmdb_id": 1261825,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Streaming or TV",
+                "tmdb_id": 846422,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Streaming or TV",
+                "tmdb_id": 850920,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Streaming or TV",
+                "tmdb_id": 1321656,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Film – Wide Theatrical Release",
+                "tmdb_id": 1299655,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Wide Theatrical Release",
+                "tmdb_id": 1287322,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Wide Theatrical Release",
+                "tmdb_id": 713364,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Wide Theatrical Release",
+                "tmdb_id": 1289936,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Wide Theatrical Release",
+                "tmdb_id": 891584,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Wide Theatrical Release",
+                "tmdb_id": 1083433,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Wide Theatrical Release",
+                "tmdb_id": 1214684,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Film – Wide Theatrical Release",
+                "tmdb_id": 1092506,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Wide Theatrical Release",
+                "tmdb_id": 1245347,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Film – Wide Theatrical Release",
+                "tmdb_id": 1278827,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Kids & Family Programming – Animated",
+                "tmdb_id": 131378,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Kids & Family Programming – Animated",
+                "tmdb_id": 90617,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Kids & Family Programming – Animated",
+                "tmdb_id": 237512,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Kids & Family Programming – Animated",
+                "tmdb_id": 92788,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Kids & Family Programming – Animated",
+                "tmdb_id": 125438,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Kids & Family Programming – Live Action",
+                "tmdb_id": 281666,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Kids & Family Programming – Live Action",
+                "tmdb_id": 118534,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Kids & Family Programming – Live Action",
+                "tmdb_id": 208397,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Kids & Family Programming – Live Action",
+                "tmdb_id": 156390,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Kids & Family Programming – Live Action",
+                "tmdb_id": 195670,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 250504,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 196890,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 257534,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 245640,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 42009,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 255117,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 252133,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 88989,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 246381,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 255859,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding New TV Series",
+                "tmdb_id": 225647,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding New TV Series",
+                "tmdb_id": 247168,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding New TV Series",
+                "tmdb_id": 279836,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding New TV Series",
+                "tmdb_id": 243316,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding New TV Series",
+                "tmdb_id": 301507,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding New TV Series",
+                "tmdb_id": 244447,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding New TV Series",
+                "tmdb_id": 271053,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding New TV Series",
+                "tmdb_id": 262375,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding New TV Series",
+                "tmdb_id": 261363,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding New TV Series",
+                "tmdb_id": 247619,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding New TV Series",
+                "tmdb_id": 225171,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Competition Program",
+                "tmdb_id": 37913,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Competition Program",
+                "tmdb_id": 210079,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Competition Program",
+                "tmdb_id": 1508,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Competition Program",
+                "tmdb_id": 261318,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Competition Program",
+                "tmdb_id": 217439,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Competition Program",
+                "tmdb_id": 252660,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Competition Program",
+                "tmdb_id": 1685,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Competition Program",
+                "tmdb_id": 8514,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Competition Program",
+                "tmdb_id": 215943,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Reality Competition Program",
+                "tmdb_id": 37678,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Program",
+                "tmdb_id": 293349,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Program",
+                "tmdb_id": 256318,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Program",
+                "tmdb_id": 285652,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Program",
+                "tmdb_id": 303650,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Program",
+                "tmdb_id": 200731,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Program",
+                "tmdb_id": 288453,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Program",
+                "tmdb_id": 87826,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Program",
+                "tmdb_id": 62185,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Program",
+                "tmdb_id": 203448,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Reality Program",
+                "tmdb_id": 224710,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Scripted Television Series – Spanish-Language",
+                "tmdb_id": 211855,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Scripted Television Series – Spanish-Language",
+                "tmdb_id": 250836,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Scripted Television Series – Spanish-Language",
+                "tmdb_id": 237015,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Scripted Television Series – Spanish-Language",
+                "tmdb_id": 259669,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Scripted Television Series – Spanish-Language",
+                "tmdb_id": 255810,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Variety or Talk Show Episode",
+                "tmdb_id": 93449,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Variety or Talk Show Episode",
+                "tmdb_id": 1489,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Variety or Talk Show Episode",
+                "tmdb_id": 204746,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Variety or Talk Show Episode",
+                "tmdb_id": 82873,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Variety or Talk Show Episode",
+                "tmdb_id": 302228,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Variety or Talk Show Episode",
+                "tmdb_id": 2221,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Variety or Talk Show Episode",
+                "tmdb_id": 22980,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Variety or Talk Show Episode",
+                "tmdb_id": 63770,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Variety or Talk Show Episode",
+                "tmdb_id": 60694,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Variety or Talk Show Episode",
+                "tmdb_id": 2224,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ]
+    }
+}

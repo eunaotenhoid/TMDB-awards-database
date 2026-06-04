@@ -1,0 +1,308 @@
+{
+    "award_info": {
+        "tmdb_award_id": 30,
+        "imdb_award_id": "",
+        "name": "Krzysztof Krauze Award",
+        "slug": "krzysztof-krauze-award",
+        "url": "https://www.themoviedb.org/award/30",
+        "location": "",
+        "presenter": "",
+        "icon": "",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 1315739,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 1374313,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 1157322,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 1232827,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 1352472,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 1276160,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 1139954,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 1035047,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 1443693,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 1252178,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2024": [
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 1139774,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 1153213,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 1152794,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 1047128,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 1114911,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 1121956,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 1047917,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 1126786,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 1058685,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2022": [
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 878761,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 854537,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 712121,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 737496,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 788931,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 878327,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 728122,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 840355,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2017": [
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 418587,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 376386,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 409094,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 406449,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 424094,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 428150,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 405782,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 412150,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 436448,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 420259,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 413764,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2016": [
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 334364,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 361073,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 358511,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 336806,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 303976,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 302065,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 322142,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 375742,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Krzysztof Krauze Award",
+                "tmdb_id": 319999,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ]
+    }
+}

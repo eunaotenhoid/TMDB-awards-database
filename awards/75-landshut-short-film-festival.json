@@ -1,0 +1,280 @@
+{
+    "award_info": {
+        "tmdb_award_id": 75,
+        "imdb_award_id": "",
+        "name": "Landshut Short Film Festival",
+        "slug": "landshut-short-film-festival",
+        "url": "https://www.themoviedb.org/award/75",
+        "location": ",         Salzstadel, Landshut,",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/i8ZmTwMTSfVr1YssnwyHlvbIq3U.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Animation Award",
+                "tmdb_id": 1648492,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BBI International Audience Award",
+                "tmdb_id": 1652694,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Bayernwerk Audience Award",
+                "tmdb_id": 1618477,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "DaHome Award",
+                "tmdb_id": 1423357,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Deadline_Audience Award",
+                "tmdb_id": 1542946,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Deadline_Award",
+                "tmdb_id": 1447426,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Dräxlmaier International Short Film Award",
+                "tmdb_id": 1471256,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Grand BMW Short Film Award",
+                "tmdb_id": 1651752,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Honorable Mention of the Jury",
+                "tmdb_id": 1394421,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Honorable Mention of the Jury",
+                "tmdb_id": 1529906,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Honorable Mention of the Jury",
+                "tmdb_id": 1512600,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Isarkies DOK Award",
+                "tmdb_id": 1559176,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Landshuter Zeitung Lokalrunden Award",
+                "tmdb_id": 1651855,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Shorts for Kids Award",
+                "tmdb_id": 1493302,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2025": [
+            {
+                "category": "Animation Award",
+                "tmdb_id": 1175668,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BBI International Audience Award",
+                "tmdb_id": 1320487,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Bayernwerk Audience Award",
+                "tmdb_id": 1481787,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Comedy",
+                "tmdb_id": 1365619,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "DaHome Award",
+                "tmdb_id": 1314881,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Deadline_Audience Award",
+                "tmdb_id": 1242721,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Deadline_Award",
+                "tmdb_id": 1369733,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Dräxlmaier International Short Film Award",
+                "tmdb_id": 1220420,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Grand BMW Short Film Award",
+                "tmdb_id": 1414667,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Honorable Mention of the Jury",
+                "tmdb_id": 1366837,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Honorable Mention of the Jury",
+                "tmdb_id": 1242721,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Honorable Mention of the Jury",
+                "tmdb_id": 1181279,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Isarkies DOK Award",
+                "tmdb_id": 1440393,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Landshuter Zeitung Lokalrunden Award",
+                "tmdb_id": 1577544,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Shorts for Kids Award",
+                "tmdb_id": 1331522,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2024": [
+            {
+                "category": "Animation Award",
+                "tmdb_id": 1202813,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BBI International Audience Award",
+                "tmdb_id": 1001337,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Bayernwerk Audience Award",
+                "tmdb_id": 1098856,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Comedy",
+                "tmdb_id": 1290790,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Deadline_Audience Award",
+                "tmdb_id": 1142526,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Deadline_Award",
+                "tmdb_id": 1155625,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Dräxlmaier International Short Film Award",
+                "tmdb_id": 1095623,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Grand BMW Short Film Award",
+                "tmdb_id": 1124757,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Honorable Mention of the Jury",
+                "tmdb_id": 1258113,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Honorable Mention of the Jury",
+                "tmdb_id": 1174012,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Honorable Mention of the Jury",
+                "tmdb_id": 1113494,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Isarkies DOK Award",
+                "tmdb_id": 1183507,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Landshuter Zeitung Lokalrunden Award",
+                "tmdb_id": 1651847,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Shorts for Kids Award",
+                "tmdb_id": 1578757,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ]
+    }
+}

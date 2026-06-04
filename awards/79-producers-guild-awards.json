@@ -1,0 +1,1888 @@
+{
+    "award_info": {
+        "tmdb_award_id": 79,
+        "imdb_award_id": "",
+        "name": "Producers Guild Awards",
+        "slug": "producers-guild-awards",
+        "url": "https://www.themoviedb.org/award/79",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/7m4dKYV3r7ePVNcxthQHRqKp5D1.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Outstanding Children's Program",
+                "tmdb_id": 289411,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Children's Program",
+                "tmdb_id": 1877,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Children's Program",
+                "tmdb_id": 502,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Children's Program",
+                "tmdb_id": 387,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 1175942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 1311031,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 1022787,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 803796,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 1084242,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1413805,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1516391,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1393151,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1461714,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1448497,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1400782,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1517130,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 2190,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 203857,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 250307,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 225171,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Game & Competition Television",
+                "tmdb_id": 30957,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Game & Competition Television",
+                "tmdb_id": 2912,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 249042,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 250504,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 42009,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 249039,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 241405,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Non-Fiction Television",
+                "tmdb_id": 298234,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Non-Fiction Television",
+                "tmdb_id": 287967,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Non-Fiction Television",
+                "tmdb_id": 292130,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Non-Fiction Television",
+                "tmdb_id": 277685,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Non-Fiction Television",
+                "tmdb_id": 279299,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 1272149,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 950396,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 1492608,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 1417059,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 1151039,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 911430,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 1317288,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 1124566,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 1241983,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 1078605,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Sports Program",
+                "tmdb_id": 121481,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Sports Program",
+                "tmdb_id": 87083,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Sports Program",
+                "tmdb_id": 12940,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Sports Program",
+                "tmdb_id": 229671,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2025": [
+            {
+                "category": "Outstanding Children's Program",
+                "tmdb_id": 82452,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Children's Program",
+                "tmdb_id": 104002,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Children's Program",
+                "tmdb_id": 103540,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Children's Program",
+                "tmdb_id": 502,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Children's Program",
+                "tmdb_id": 387,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 823219,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 1022789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 1241982,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 929204,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 1184918,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1214457,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1201460,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1156649,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1214527,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1128559,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1254258,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 4546,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 199318,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 203857,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 106379,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 126308,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 95480,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 241259,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 69851,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 194764,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 94028,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 46648,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 1005331,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 1226841,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 970347,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 646097,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 844185,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 1064213,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 549509,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 661539,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 974576,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 974950,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 1013850,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 1211472,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 933260,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 402431,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Sports Program",
+                "tmdb_id": 87083,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Sports Program",
+                "tmdb_id": 257916,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Sports Program",
+                "tmdb_id": 237890,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Sports Program",
+                "tmdb_id": 254930,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2024": [
+            {
+                "category": "Outstanding Children's Program",
+                "tmdb_id": 157004,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Children's Program",
+                "tmdb_id": 90808,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Children's Program",
+                "tmdb_id": 502,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Children's Program",
+                "tmdb_id": 105971,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 508883,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 976573,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 569094,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 502356,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 614930,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1058616,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1171816,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1070032,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1058648,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1112527,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1058688,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 949808,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 73107,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 222023,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 97546,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 203857,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 90282,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 155421,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 154385,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 95555,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 60622,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 117303,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 1100795,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 787781,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 985617,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 930094,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 1056360,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 915935,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 346698,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 840430,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 466420,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 523607,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 872585,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 666277,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 792307,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 467244,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Sports Program",
+                "tmdb_id": 12940,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Sports Program",
+                "tmdb_id": 229154,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Sports Program",
+                "tmdb_id": 121481,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Sports Program",
+                "tmdb_id": 235345,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Sports Program",
+                "tmdb_id": 87083,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2023": [
+            {
+                "category": "Outstanding Children's Program",
+                "tmdb_id": 502,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Children's Program",
+                "tmdb_id": 104002,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Children's Program",
+                "tmdb_id": 86957,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Children's Program",
+                "tmdb_id": 212438,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 555604,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 869626,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 438148,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 315162,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 508947,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 913838,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 913822,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 913823,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 926676,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 913845,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 1019391,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 913849,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 73107,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 60059,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 69740,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Game & Competition Television",
+                "tmdb_id": 30957,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Game & Competition Television",
+                "tmdb_id": 157903,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 113988,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 122066,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 95665,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 92830,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 114925,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Non-Fiction Television",
+                "tmdb_id": 31677,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Non-Fiction Television",
+                "tmdb_id": 651,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Non-Fiction Television",
+                "tmdb_id": 201123,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Non-Fiction Television",
+                "tmdb_id": 119033,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 846250,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 642885,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 532639,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 766507,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 928344,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 76600,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 674324,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 505642,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 614934,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 545611,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 804095,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 661374,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 817758,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 361743,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 785084,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2022": [
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 568124,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 508943,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 501929,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 527774,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 438695,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 822138,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 811769,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 680813,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 776518,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 680058,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 698499,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 776527,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 776557,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 77169,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 4546,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 97546,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 69478,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 90282,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 93405,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 73586,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 110695,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 115004,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 80039,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 85271,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Live Entertainment, Variety, Sketch, Standup & Talk Television",
+                "tmdb_id": 2224,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Live Entertainment, Variety, Sketch, Standup & Talk Television",
+                "tmdb_id": 60694,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Live Entertainment, Variety, Sketch, Standup & Talk Television",
+                "tmdb_id": 63770,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Live Entertainment, Variety, Sketch, Standup & Talk Television",
+                "tmdb_id": 1667,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Non-Fiction Television",
+                "tmdb_id": 651,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Non-Fiction Television",
+                "tmdb_id": 118321,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Non-Fiction Television",
+                "tmdb_id": 128876,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Non-Fiction Television",
+                "tmdb_id": 76922,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Non-Fiction Television",
+                "tmdb_id": 119033,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 802217,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 727333,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 553087,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 729766,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 810873,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 797481,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 517088,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 777270,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 776503,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 646380,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 438631,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 614917,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 718032,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 600583,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 537116,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 511809,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2021": [
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 529203,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 508439,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 560050,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 508442,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Animated Theatrical Motion Picture",
+                "tmdb_id": 441130,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 664280,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 653574,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 682110,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 653761,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 653731,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 653729,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Documentary Motion Picture",
+                "tmdb_id": 653762,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 4546,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 93287,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 61662,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 97546,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Comedy",
+                "tmdb_id": 83631,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 60059,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 91239,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 82856,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Episodic Television – Drama",
+                "tmdb_id": 69740,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 102619,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 89905,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 87739,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 83851,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Limited or Anthology Series Television",
+                "tmdb_id": 99581,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Non-Fiction Television",
+                "tmdb_id": 651,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Non-Fiction Television",
+                "tmdb_id": 79525,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Non-Fiction Television",
+                "tmdb_id": 100248,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Non-Fiction Television",
+                "tmdb_id": 96213,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Non-Fiction Television",
+                "tmdb_id": 100698,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 530723,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 747349,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 556574,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 694059,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Televised or Streamed Motion Pictures",
+                "tmdb_id": 744174,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 740985,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 583406,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 615667,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 614560,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 615643,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 581734,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 661914,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 582014,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 502033,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Producer of Theatrical Motion Picture",
+                "tmdb_id": 556984,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ]
+    }
+}

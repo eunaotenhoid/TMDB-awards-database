@@ -1,0 +1,2664 @@
+{
+    "award_info": {
+        "tmdb_award_id": 9,
+        "imdb_award_id": "",
+        "name": "Czech Film Critics' Awards",
+        "slug": "czech-film-critics-awards",
+        "url": "https://www.themoviedb.org/award/9",
+        "location": "",
+        "presenter": ",         Jan Špaček,",
+        "icon": "https://media.themoviedb.org/t/p/w300/sxoFfecDplKC4niPTfAXTmTmEf2.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 1361935,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 1516518,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 1413229,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 5358180,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 1166880,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 1261323,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 72865,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 1848161,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 5447555,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 1461539,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 1516518,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 1483477,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1378593,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1301942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1517176,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 1461539,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 1516518,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 1483477,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 1481097,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 1516518,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 1483477,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Film",
+                "tmdb_id": 1285514,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Short Film",
+                "tmdb_id": 1416917,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Film",
+                "tmdb_id": 1524585,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 3975586,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 5447555,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 4697457,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2025": [
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 1147401,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 883126,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 947512,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 1311716,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 2396407,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 72792,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 4686477,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 1350595,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 1404040,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 1147401,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 883126,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 1251621,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1367520,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1208992,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 883126,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 1147401,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 883126,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 1251621,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 1147401,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 1160566,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 1251621,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Film",
+                "tmdb_id": 1282837,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Short Film",
+                "tmdb_id": 1339081,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Film",
+                "tmdb_id": 1279238,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 223654,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 2294414,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 4763112,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ],
+        "2024": [
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 1071815,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 1071815,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 947650,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 652610,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 2215936,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 10841,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 1269921,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 235655,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 1078302,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 1141135,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 947650,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 1135286,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 997993,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1157275,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1060548,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 1141135,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 947650,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 1135286,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 1027618,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 1141135,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 1135286,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Film",
+                "tmdb_id": 1061665,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Film",
+                "tmdb_id": 1121059,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Short Film",
+                "tmdb_id": 1142097,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 2465025,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 1975921,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 2201362,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2023": [
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 1030715,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 669653,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 951196,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 1158220,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 2230972,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 138196,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 1434418,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 3473608,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 1348607,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 859572,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 852052,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 669653,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1030715,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 951196,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 993283,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 859572,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 852052,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 669653,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 859572,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 924742,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 1004895,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Film",
+                "tmdb_id": 889061,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Film",
+                "tmdb_id": 1068507,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Short Film",
+                "tmdb_id": 1073640,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 2230972,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 1815173,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 2117956,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2022": [
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 831738,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 588890,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 833005,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 47840,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 1049274,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 222799,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 2143510,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 97192,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 1350289,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 653963,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 833005,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 653936,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 845997,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 852456,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 689283,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 831738,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 833005,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 653936,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 653963,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 831738,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 833005,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Short Film",
+                "tmdb_id": 846618,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Short Film",
+                "tmdb_id": 865481,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Film",
+                "tmdb_id": 843053,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 2135516,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 2360955,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 3101908,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outside the Theater",
+                "tmdb_id": 832992,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2021": [
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 663131,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 638596,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 642942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 1364513,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 544235,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 96381,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 72865,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 2190932,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 588924,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 642942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 501738,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 599876,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 673008,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 719460,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 599876,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 642942,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 501738,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 599876,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 642942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 637236,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 501738,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Film",
+                "tmdb_id": 810001,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Short Film",
+                "tmdb_id": 694246,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Film",
+                "tmdb_id": 694223,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 2588001,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 1385681,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2020": [
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 477428,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 477428,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 514550,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 213453,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 107946,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 140440,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 231149,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 1078302,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 140533,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 477428,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 619374,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 637895,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 626117,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 637850,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 597690,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 477428,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 619374,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 637895,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 626394,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 619374,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 637895,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 1523559,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 2397044,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 2071344,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outside the Theater",
+                "tmdb_id": 613221,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2019": [
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 533919,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 390066,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 493299,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 231246,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 72794,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 2117554,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 1397115,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 231149,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 544227,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 533919,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 545289,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 532498,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 500783,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 533839,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 493299,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 533919,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 545289,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 532498,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 532231,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 545289,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 532498,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 1462363,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 1477339,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 2117554,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outside the Theater",
+                "tmdb_id": 509231,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2018": [
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 509439,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 467600,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 434847,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 83880,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 10841,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 10841,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 550394,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 1180344,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 1848161,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 453204,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 467600,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 434847,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 604655,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 479210,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 574921,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 453204,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 467600,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 434847,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 453204,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 467600,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 434847,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 1648213,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 1364726,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 2543511,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outside the Theater",
+                "tmdb_id": 1103685,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outside the Theater",
+                "tmdb_id": 680817,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2017": [
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 382143,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 415031,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 362243,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 1161741,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 10841,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 143620,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 1537079,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 111220,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 35119,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 382143,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 383221,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 362243,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 476966,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 444396,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 378814,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 382143,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 415031,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 362243,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 382143,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 532399,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 362243,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 1625845,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 1575779,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Innogy Award for Discovery of the Year",
+                "tmdb_id": 1575780,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outside the Theater",
+                "tmdb_id": 399219,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2016": [
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 371266,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 338440,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audiovisual Achievement",
+                "tmdb_id": 314635,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 136796,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 233574,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 15486,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 97192,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 996558,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 1350595,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 346723,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 324820,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 321779,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 324819,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 364706,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 324779,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 346723,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 324820,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 321779,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 346723,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 324820,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 321779,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "RWE Award for Discovery of the Year",
+                "tmdb_id": 1406422,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "RWE Award for Discovery of the Year",
+                "tmdb_id": 1702483,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "RWE Award for Discovery of the Year",
+                "tmdb_id": 1482819,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2015": [
+            {
+                "category": "Best Actor",
+                "tmdb_id": 30737,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 932854,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 1405290,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 233574,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 1623518,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 1428657,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 47834,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 1162340,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 326072,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 282113,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 268726,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 303555,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 299280,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 304065,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 326072,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 282113,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 268726,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 326072,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 282113,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 268726,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "RWE Award for Discovery of the Year",
+                "tmdb_id": 1428657,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "RWE Award for Discovery of the Year",
+                "tmdb_id": 544235,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "RWE Award for Discovery of the Year",
+                "tmdb_id": 1338503,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2014": [
+            {
+                "category": "Best Actor in a Leading Role",
+                "tmdb_id": 140440,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Leading Role",
+                "tmdb_id": 72792,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 140438,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 1078360,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Leading Role",
+                "tmdb_id": 1078986,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Leading Role",
+                "tmdb_id": 136806,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 566150,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 5999,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 199644,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 275160,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 256791,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 275160,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 415319,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 259173,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 226099,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 256791,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 298659,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Music",
+                "tmdb_id": 199644,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Music",
+                "tmdb_id": 207990,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 256791,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 275160,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "RWE Award for Discovery of the Year",
+                "tmdb_id": 1300924,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "RWE Award for Discovery of the Year",
+                "tmdb_id": 1261687,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2013": [
+            {
+                "category": "Best Actor in a Leading Role",
+                "tmdb_id": 107944,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Leading Role",
+                "tmdb_id": 96384,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Leading Role",
+                "tmdb_id": 96381,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 10841,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 11685,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 222800,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 8197,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Leading Role",
+                "tmdb_id": 72865,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Leading Role",
+                "tmdb_id": 1404048,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Leading Role",
+                "tmdb_id": 1105210,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 5971524,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 136807,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 1348607,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 930324,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 84202,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 329247,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 136190,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 84202,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 135017,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 136190,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 351724,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 137690,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 154811,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 84202,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 135017,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 136190,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Music",
+                "tmdb_id": 329247,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Music",
+                "tmdb_id": 123479,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Music",
+                "tmdb_id": 136190,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 84202,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 135017,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 136190,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "RWE Award for Discovery of the Year",
+                "tmdb_id": 1139257,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "RWE Award for Discovery of the Year",
+                "tmdb_id": 1517405,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "RWE Award for Discovery of the Year",
+                "tmdb_id": 1107520,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2012": [
+            {
+                "category": "Best Actor in a Leading Role",
+                "tmdb_id": 96384,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Leading Role",
+                "tmdb_id": 138828,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Leading Role",
+                "tmdb_id": 222795,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 1161739,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 1027759,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 222800,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Leading Role",
+                "tmdb_id": 72865,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Leading Role",
+                "tmdb_id": 1071349,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Leading Role",
+                "tmdb_id": 222782,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 566150,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 1161740,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 223734,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 86819,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 76596,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 467603,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 119896,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 133447,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 86819,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 119896,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 133447,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 1625553,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 137078,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 75287,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 86819,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 119896,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 133447,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Music",
+                "tmdb_id": 86819,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Music",
+                "tmdb_id": 76596,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Music",
+                "tmdb_id": 119896,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 125205,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 119896,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 133447,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "RWE Award for Discovery of the Year",
+                "tmdb_id": 1524343,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ],
+        "2011": [
+            {
+                "category": "Best Actor in a Leading Role",
+                "tmdb_id": 107944,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Leading Role",
+                "tmdb_id": 1350051,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Leading Role",
+                "tmdb_id": 1308034,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 10841,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 150426,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 222800,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Leading Role",
+                "tmdb_id": 544227,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Leading Role",
+                "tmdb_id": 223734,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Leading Role",
+                "tmdb_id": 72865,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 1421787,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 231153,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 138191,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 86045,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 50294,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 51507,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 50294,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 56102,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 51507,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Direction",
+                "tmdb_id": 76638,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 75283,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 68294,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Film",
+                "tmdb_id": 123421,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 50294,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 56102,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 51507,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Music",
+                "tmdb_id": 75283,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Music",
+                "tmdb_id": 55637,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Music",
+                "tmdb_id": 51507,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 50294,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 56102,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 51507,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 76638,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "RWE Award for Discovery of the Year",
+                "tmdb_id": 1308034,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "RWE Award for Discovery of the Year",
+                "tmdb_id": 1350051,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "RWE Award for Discovery of the Year",
+                "tmdb_id": 464784,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ]
+    }
+}

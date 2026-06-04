@@ -1,0 +1,1442 @@
+{
+    "award_info": {
+        "tmdb_award_id": 37,
+        "imdb_award_id": "",
+        "name": "National Board of Review Awards",
+        "slug": "national-board-of-review-awards",
+        "url": "https://www.themoviedb.org/award/37",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/rp3iaR19tZjAD589raB02BZHPNU.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "Best Actor",
+                "tmdb_id": 6193,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 9827,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1590194,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1572120,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Feature",
+                "tmdb_id": 804370,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 4762,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Directorial Debut",
+                "tmdb_id": 2425998,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary",
+                "tmdb_id": 1516391,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best International Film",
+                "tmdb_id": 1456349,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 1056121,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actor",
+                "tmdb_id": 1121,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actress",
+                "tmdb_id": 1421850,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Performance",
+                "tmdb_id": 3914706,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "NBR Freedom of Expression Award",
+                "tmdb_id": 1465560,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 1385904,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Stunt Artistry",
+                "tmdb_id": 575265,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1421990,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1151031,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1159206,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1239655,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1422096,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1160360,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1352624,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1211442,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1205515,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1283320,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 1400789,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 1400780,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 1461714,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 1465655,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 1098534,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 999075,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 1258509,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 1220564,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 1124566,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 1151272,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 83533,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 911430,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 1069905,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 1317288,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 1208348,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 1241983,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 812583,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2024": [
+            {
+                "category": "Best Actor",
+                "tmdb_id": 8784,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 2227,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1572120,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1590194,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Feature",
+                "tmdb_id": 823219,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 54507,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Directorial Debut",
+                "tmdb_id": 2355854,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary",
+                "tmdb_id": 1158874,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Ensemble",
+                "tmdb_id": 974576,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 402431,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best International Film",
+                "tmdb_id": 1278263,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 65452,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actor",
+                "tmdb_id": 18793,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actress",
+                "tmdb_id": 18050,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Performance",
+                "tmdb_id": 1640439,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "NBR Freedom of Expression Award",
+                "tmdb_id": 1232493,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 1135102,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Stunt Artistry",
+                "tmdb_id": 786892,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1128752,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 989662,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1158915,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1214469,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1122618,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1013154,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1154762,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 948549,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 947891,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1051891,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 1214499,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 1101256,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 951029,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 1128559,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 1214506,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 927547,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 1232827,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 1000837,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 1233208,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 988397,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 1064213,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 1097549,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 661539,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 974576,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 786892,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 558449,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 1106739,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 1059128,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 1013850,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 1155828,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2023": [
+            {
+                "category": "Best Actor",
+                "tmdb_id": 13242,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 1183917,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 77723,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Feature",
+                "tmdb_id": 569094,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1032,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Directorial Debut",
+                "tmdb_id": 2518227,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary",
+                "tmdb_id": 1058699,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Ensemble",
+                "tmdb_id": 850165,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 466420,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best International Film",
+                "tmdb_id": 915935,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 1224468,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actor",
+                "tmdb_id": 103,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actress",
+                "tmdb_id": 1180099,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Performance",
+                "tmdb_id": 964679,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 275,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Stunt Artistry",
+                "tmdb_id": 603692,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 800227,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 994108,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1016084,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 980537,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1059811,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 1058620,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 935906,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 790416,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 986054,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 855263,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 1058616,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 929310,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 1032760,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 1155770,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 1058668,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 837335,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 986280,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 998022,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 958186,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 467244,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 346698,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 508883,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 365620,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 840430,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 850165,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 523607,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 872585,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 666277,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 792307,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2022": [
+            {
+                "category": "Best Actor",
+                "tmdb_id": 72466,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 1620,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1684737,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1684738,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 221522,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Feature",
+                "tmdb_id": 869626,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 488,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Directorial Debut",
+                "tmdb_id": 1904110,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary",
+                "tmdb_id": 1013577,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Ensemble",
+                "tmdb_id": 777245,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 361743,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best International Film",
+                "tmdb_id": 901563,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 54472,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actor",
+                "tmdb_id": 2039,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actress",
+                "tmdb_id": 1005852,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Performance",
+                "tmdb_id": 1853909,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Performance",
+                "tmdb_id": 1476330,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "NBR Freedom of Expression Award",
+                "tmdb_id": 1004663,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "NBR Freedom of Expression Award",
+                "tmdb_id": 714888,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 51333,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 615952,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 862965,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 790867,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 583095,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 837938,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 760099,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 913851,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 843932,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 823766,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 823147,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 1004663,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 913838,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 913822,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 965405,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 1019446,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 49046,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 714888,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 705996,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 785398,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 International Films",
+                "tmdb_id": 925943,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 965150,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 76600,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 674324,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 545611,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 804095,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 661374,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 579974,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 854239,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 724495,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 777245,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2021": [
+            {
+                "category": "Best Actor",
+                "tmdb_id": 2888,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 2217977,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1223,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Feature",
+                "tmdb_id": 568124,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 4762,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Directorial Debut",
+                "tmdb_id": 2580328,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary",
+                "tmdb_id": 776527,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Ensemble",
+                "tmdb_id": 618162,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 718032,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Foreign Language Film",
+                "tmdb_id": 672208,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 229931,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actor",
+                "tmdb_id": 8785,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actress",
+                "tmdb_id": 53923,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Performance",
+                "tmdb_id": 1741367,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Performance",
+                "tmdb_id": 2764542,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "NBR Freedom of Expression Award",
+                "tmdb_id": 680813,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 2423,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 643532,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 632617,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 776503,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 559907,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 665886,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 776511,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 785663,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 635731,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 664300,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 10 Independent Films",
+                "tmdb_id": 473021,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 822138,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 858059,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 680813,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 680058,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Documentaries",
+                "tmdb_id": 642732,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Foreign Language Films",
+                "tmdb_id": 454527,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Foreign Language Films",
+                "tmdb_id": 788929,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Foreign Language Films",
+                "tmdb_id": 820693,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Foreign Language Films",
+                "tmdb_id": 630240,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top 5 Foreign Language Films",
+                "tmdb_id": 660120,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 511809,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 777270,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 646380,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 438631,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 614917,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 617653,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 597208,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 763329,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Top Films",
+                "tmdb_id": 591538,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ]
+    }
+}

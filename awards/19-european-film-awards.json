@@ -1,0 +1,1420 @@
+{
+    "award_info": {
+        "tmdb_award_id": 19,
+        "imdb_award_id": "",
+        "name": "European Film Awards",
+        "slug": "european-film-awards",
+        "url": "https://www.themoviedb.org/award/19",
+        "location": ",         Haus der Kulturen der Welt,         Berlin, Germany,",
+        "presenter": ",         Fernando Tiberini,",
+        "icon": "https://media.themoviedb.org/t/p/w300/kAdSjeJ4DuqXiV3NieCCHlVKiLy.svg",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "European Actor",
+                "tmdb_id": 1640,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "European Actor",
+                "tmdb_id": 4537244,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actor",
+                "tmdb_id": 72782,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actor",
+                "tmdb_id": 16972,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actor",
+                "tmdb_id": 1019,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actress",
+                "tmdb_id": 1576786,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "European Actress",
+                "tmdb_id": 19360,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actress",
+                "tmdb_id": 5077,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actress",
+                "tmdb_id": 119065,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actress",
+                "tmdb_id": 1080195,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Animated Feature Film",
+                "tmdb_id": 804370,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Animated Feature Film",
+                "tmdb_id": 1282280,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Animated Feature Film",
+                "tmdb_id": 682012,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Animated Feature Film",
+                "tmdb_id": 676679,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Animated Feature Film",
+                "tmdb_id": 587370,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Casting Director",
+                "tmdb_id": 1151272,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Casting Director",
+                "tmdb_id": 1124566,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Casting Director",
+                "tmdb_id": 1221061,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Cinematographer",
+                "tmdb_id": 1151272,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Cinematographer",
+                "tmdb_id": 1221061,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Cinematographer",
+                "tmdb_id": 1429348,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Composer (Original Score)",
+                "tmdb_id": 1124566,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Composer (Original Score)",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Composer (Original Score)",
+                "tmdb_id": 1221061,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Costume Designer",
+                "tmdb_id": 1221061,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Costume Designer",
+                "tmdb_id": 1291202,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Costume Designer",
+                "tmdb_id": 1157322,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Director",
+                "tmdb_id": 1124566,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Director",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Director",
+                "tmdb_id": 1456349,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Director",
+                "tmdb_id": 1151272,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Director",
+                "tmdb_id": 1221061,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Discovery – Prix FIPRESCI",
+                "tmdb_id": 1225624,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Discovery – Prix FIPRESCI",
+                "tmdb_id": 1019871,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Discovery – Prix FIPRESCI",
+                "tmdb_id": 1432605,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Discovery – Prix FIPRESCI",
+                "tmdb_id": 1320279,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Discovery – Prix FIPRESCI",
+                "tmdb_id": 1313001,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Discovery – Prix FIPRESCI",
+                "tmdb_id": 1252178,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Documentary",
+                "tmdb_id": 1403843,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Documentary",
+                "tmdb_id": 975324,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Documentary",
+                "tmdb_id": 1081077,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Documentary",
+                "tmdb_id": 1052599,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Documentary",
+                "tmdb_id": 1510306,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Editor",
+                "tmdb_id": 1151272,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Editor",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Editor",
+                "tmdb_id": 1033148,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 1124566,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 975324,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 804370,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 1282280,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 1403843,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 1456349,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 682012,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 676679,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 1081077,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 1151272,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 1052599,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 1221061,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 587370,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 1480382,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 1510306,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Make-Up & Hair Artist",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Make-Up & Hair Artist",
+                "tmdb_id": 1157322,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Make-Up & Hair Artist",
+                "tmdb_id": 1221061,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Production Designer",
+                "tmdb_id": 1151272,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Production Designer",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Production Designer",
+                "tmdb_id": 1124566,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Screenwriter",
+                "tmdb_id": 1124566,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Screenwriter",
+                "tmdb_id": 1456349,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Screenwriter",
+                "tmdb_id": 1397364,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Screenwriter",
+                "tmdb_id": 1151272,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Screenwriter",
+                "tmdb_id": 1221061,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Short Film – Prix Vimeo",
+                "tmdb_id": 1233396,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Short Film – Prix Vimeo",
+                "tmdb_id": 1327129,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Short Film – Prix Vimeo",
+                "tmdb_id": 1356884,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Short Film – Prix Vimeo",
+                "tmdb_id": 1304281,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Short Film – Prix Vimeo",
+                "tmdb_id": 1335789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Sound Designer",
+                "tmdb_id": 1151272,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Sound Designer",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Sound Designer",
+                "tmdb_id": 1480382,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Young Audience Award",
+                "tmdb_id": 1421309,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Young Audience Award",
+                "tmdb_id": 804370,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Young Audience Award",
+                "tmdb_id": 1142501,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "LUX Audience Award",
+                "tmdb_id": 1303613,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "LUX Audience Award",
+                "tmdb_id": 1290242,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "LUX Audience Award",
+                "tmdb_id": 1456349,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "LUX Audience Award",
+                "tmdb_id": 1290450,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "LUX Audience Award",
+                "tmdb_id": 1124566,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2024": [
+            {
+                "category": "European Actor",
+                "tmdb_id": 4343059,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "European Actor",
+                "tmdb_id": 1285450,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actor",
+                "tmdb_id": 5469,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actor",
+                "tmdb_id": 111420,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actor",
+                "tmdb_id": 8784,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actress",
+                "tmdb_id": 1505938,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "European Actress",
+                "tmdb_id": 1576786,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actress",
+                "tmdb_id": 1141086,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actress",
+                "tmdb_id": 4460,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actress",
+                "tmdb_id": 3063,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Animated Feature Film",
+                "tmdb_id": 823219,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Animated Feature Film",
+                "tmdb_id": 947512,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Animated Feature Film",
+                "tmdb_id": 589018,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Animated Feature Film",
+                "tmdb_id": 947643,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Animated Feature Film",
+                "tmdb_id": 646265,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Cinematographer",
+                "tmdb_id": 933260,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Composer (Original Score)",
+                "tmdb_id": 1232827,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Costume Designer",
+                "tmdb_id": 931944,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Director",
+                "tmdb_id": 974950,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Director",
+                "tmdb_id": 1128752,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Director",
+                "tmdb_id": 1088514,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Director",
+                "tmdb_id": 1278263,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Director",
+                "tmdb_id": 1151244,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Discovery – Prix FIPRESCI",
+                "tmdb_id": 1144681,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Discovery – Prix FIPRESCI",
+                "tmdb_id": 996087,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Discovery – Prix FIPRESCI",
+                "tmdb_id": 1180629,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Discovery – Prix FIPRESCI",
+                "tmdb_id": 1233208,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Discovery – Prix FIPRESCI",
+                "tmdb_id": 1320276,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Discovery – Prix FIPRESCI",
+                "tmdb_id": 1315091,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Documentary",
+                "tmdb_id": 1232493,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Documentary",
+                "tmdb_id": 1156646,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Documentary",
+                "tmdb_id": 1101256,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Documentary",
+                "tmdb_id": 1276897,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Documentary",
+                "tmdb_id": 1214539,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Editor",
+                "tmdb_id": 974950,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 974950,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 1156646,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 1101256,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 823219,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 1276897,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 947512,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 1232493,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 589018,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 1214539,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 947643,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 1088514,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 1278263,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 933260,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 646265,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 1151244,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Make-Up & Hair Artist",
+                "tmdb_id": 1257407,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Production Designer",
+                "tmdb_id": 1232827,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Screenwriter",
+                "tmdb_id": 1278263,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Screenwriter",
+                "tmdb_id": 933260,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Screenwriter",
+                "tmdb_id": 974950,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Screenwriter",
+                "tmdb_id": 1232827,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Screenwriter",
+                "tmdb_id": 1088514,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Short Film – Prix Vimeo",
+                "tmdb_id": 1279229,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Short Film – Prix Vimeo",
+                "tmdb_id": 1108464,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Short Film – Prix Vimeo",
+                "tmdb_id": 1194904,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Short Film – Prix Vimeo",
+                "tmdb_id": 1316541,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Short Film – Prix Vimeo",
+                "tmdb_id": 1156605,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Sound Designer",
+                "tmdb_id": 1158996,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European University Film Award",
+                "tmdb_id": 1278338,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European University Film Award",
+                "tmdb_id": 1064021,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European University Film Award",
+                "tmdb_id": 1144681,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European University Film Award",
+                "tmdb_id": 1180629,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European University Film Award",
+                "tmdb_id": 1172244,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Visual Effects",
+                "tmdb_id": 933260,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Young Audience Award",
+                "tmdb_id": 1167027,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Young Audience Award",
+                "tmdb_id": 1136765,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Young Audience Award",
+                "tmdb_id": 1220549,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "LUX Audience Award",
+                "tmdb_id": 998022,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "LUX Audience Award",
+                "tmdb_id": 1053600,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "LUX Audience Award",
+                "tmdb_id": 986280,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "LUX Audience Award",
+                "tmdb_id": 1070449,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "LUX Audience Award",
+                "tmdb_id": 1058688,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2023": [
+            {
+                "category": "European Actor",
+                "tmdb_id": 1019,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "European Actor",
+                "tmdb_id": 907352,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actor",
+                "tmdb_id": 226030,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actor",
+                "tmdb_id": 1206334,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actor",
+                "tmdb_id": 71374,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actress",
+                "tmdb_id": 7152,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "European Actress",
+                "tmdb_id": 3164289,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actress",
+                "tmdb_id": 1364782,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actress",
+                "tmdb_id": 113236,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actress",
+                "tmdb_id": 119065,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Actress",
+                "tmdb_id": 7152,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "European Animated Feature Film",
+                "tmdb_id": 838240,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Animated Feature Film",
+                "tmdb_id": 588564,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Animated Feature Film",
+                "tmdb_id": 589026,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Animated Feature Film",
+                "tmdb_id": 676710,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Animated Feature Film",
+                "tmdb_id": 587384,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Cinematographer",
+                "tmdb_id": 980026,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Composer (Original Score)",
+                "tmdb_id": 938250,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Costume Designer",
+                "tmdb_id": 980026,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Director",
+                "tmdb_id": 915935,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Director",
+                "tmdb_id": 986280,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Director",
+                "tmdb_id": 1121956,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Director",
+                "tmdb_id": 937746,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Director",
+                "tmdb_id": 467244,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Discovery – Prix FIPRESCI",
+                "tmdb_id": 1075175,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Discovery – Prix FIPRESCI",
+                "tmdb_id": 1053600,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Discovery – Prix FIPRESCI",
+                "tmdb_id": 977954,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Discovery – Prix FIPRESCI",
+                "tmdb_id": 997659,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Discovery – Prix FIPRESCI",
+                "tmdb_id": 1061658,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Discovery – Prix FIPRESCI",
+                "tmdb_id": 965890,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Documentary",
+                "tmdb_id": 1058688,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Documentary",
+                "tmdb_id": 1047128,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Documentary",
+                "tmdb_id": 1069193,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Documentary",
+                "tmdb_id": 961289,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Documentary",
+                "tmdb_id": 1070449,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Editor",
+                "tmdb_id": 915935,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 915935,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 986280,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 1121956,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 937746,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Film",
+                "tmdb_id": 467244,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Make-Up & Hair Artist",
+                "tmdb_id": 906126,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Production Designer",
+                "tmdb_id": 837335,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Screenwriter",
+                "tmdb_id": 915935,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Screenwriter",
+                "tmdb_id": 986280,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Screenwriter",
+                "tmdb_id": 1121956,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Screenwriter",
+                "tmdb_id": 998022,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Screenwriter",
+                "tmdb_id": 467244,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Short Film – Prix Vimeo",
+                "tmdb_id": 998856,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Short Film – Prix Vimeo",
+                "tmdb_id": 715222,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Short Film – Prix Vimeo",
+                "tmdb_id": 1064665,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Short Film – Prix Vimeo",
+                "tmdb_id": 1045454,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Short Film – Prix Vimeo",
+                "tmdb_id": 1073292,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Sound Designer",
+                "tmdb_id": 467244,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European University Film Award",
+                "tmdb_id": 915935,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European University Film Award",
+                "tmdb_id": 1121956,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European University Film Award",
+                "tmdb_id": 1081593,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European University Film Award",
+                "tmdb_id": 1075175,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European University Film Award",
+                "tmdb_id": 998022,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Visual Effects",
+                "tmdb_id": 906126,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Young Audience Award",
+                "tmdb_id": 935906,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "European Young Audience Award",
+                "tmdb_id": 1002190,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "European Young Audience Award",
+                "tmdb_id": 991388,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "LUX Audience Award",
+                "tmdb_id": 901563,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "LUX Audience Award",
+                "tmdb_id": 804251,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "LUX Audience Award",
+                "tmdb_id": 682152,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "LUX Audience Award",
+                "tmdb_id": 497828,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "LUX Audience Award",
+                "tmdb_id": 964704,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ]
+    }
+}

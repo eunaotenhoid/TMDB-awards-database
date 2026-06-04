@@ -1,0 +1,192 @@
+{
+    "award_info": {
+        "tmdb_award_id": 61,
+        "imdb_award_id": "",
+        "name": "CAS Awards",
+        "slug": "cas-awards",
+        "url": "https://www.themoviedb.org/award/61",
+        "location": "",
+        "presenter": "",
+        "icon": "",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Outstanding Achievement in Sound Mixing for Television Series – Half Hour",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for Television Series – Half Hour",
+                "tmdb_id": 241554,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for Television Series – Half Hour",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for Television Series – Half Hour",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for Television Series – Half Hour",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for Television Series – One Hour",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for Television Series – One Hour",
+                "tmdb_id": 225171,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for Television Series – One Hour",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for Television Series – One Hour",
+                "tmdb_id": 66732,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for Television Series – One Hour",
+                "tmdb_id": 250307,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for a Motion Picture – Animated",
+                "tmdb_id": 1022787,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for a Motion Picture – Animated",
+                "tmdb_id": 803796,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for a Motion Picture – Animated",
+                "tmdb_id": 1175942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for a Motion Picture – Animated",
+                "tmdb_id": 991494,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for a Motion Picture – Animated",
+                "tmdb_id": 1084242,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for a Motion Picture – Documentary",
+                "tmdb_id": 857800,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for a Motion Picture – Documentary",
+                "tmdb_id": 1132493,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for a Motion Picture – Documentary",
+                "tmdb_id": 1400381,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for a Motion Picture – Documentary",
+                "tmdb_id": 1314862,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for a Motion Picture – Documentary",
+                "tmdb_id": 1422600,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for a Motion Picture – Live Action",
+                "tmdb_id": 911430,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for a Motion Picture – Live Action",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for a Motion Picture – Live Action",
+                "tmdb_id": 575265,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for a Motion Picture – Live Action",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for a Motion Picture – Live Action",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for a Non-Theatrical Motion Picture or Limited Series",
+                "tmdb_id": 249042,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for a Non-Theatrical Motion Picture or Limited Series",
+                "tmdb_id": 42009,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for a Non-Theatrical Motion Picture or Limited Series",
+                "tmdb_id": 196890,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Mixing for a Non-Theatrical Motion Picture or Limited Series",
+                "tmdb_id": 86831,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ]
+    }
+}

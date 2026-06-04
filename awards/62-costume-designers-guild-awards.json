@@ -1,0 +1,722 @@
+{
+    "award_info": {
+        "tmdb_award_id": 62,
+        "imdb_award_id": "",
+        "name": "Costume Designers Guild Awards",
+        "slug": "costume-designers-guild-awards",
+        "url": "https://www.themoviedb.org/award/62",
+        "location": "",
+        "presenter": ",         Courtney Hope,",
+        "icon": "https://media.themoviedb.org/t/p/w300/tpHuZxHCaZRSS4vwXxluTGCVcBj.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 911430,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 812583,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 1078605,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 82596,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 82782,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 119051,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 1289936,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 997113,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Television",
+                "tmdb_id": 157744,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Television",
+                "tmdb_id": 196890,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Television",
+                "tmdb_id": 81723,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Television",
+                "tmdb_id": 250988,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Television",
+                "tmdb_id": 157367,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 83533,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 1087192,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 986056,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 533533,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Television",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Television",
+                "tmdb_id": 42009,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Television",
+                "tmdb_id": 241554,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Television",
+                "tmdb_id": 71914,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Television",
+                "tmdb_id": 71912,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2025": [
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 937287,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 974576,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 974950,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 746036,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 933260,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 138501,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 241259,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 82596,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 236235,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 976584,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 558449,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 1038263,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 426063,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 1120911,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Television",
+                "tmdb_id": 91239,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Television",
+                "tmdb_id": 69851,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Television",
+                "tmdb_id": 157367,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Television",
+                "tmdb_id": 94028,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Television",
+                "tmdb_id": 126308,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 917496,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 365177,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 786892,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 402431,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Television",
+                "tmdb_id": 138501,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Television",
+                "tmdb_id": 90228,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Television",
+                "tmdb_id": 106379,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Television",
+                "tmdb_id": 94997,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Television",
+                "tmdb_id": 84773,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2024": [
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 1056360,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 839369,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 895549,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 649609,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 930564,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 154385,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 90282,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 120998,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 466420,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 523607,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 753342,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 872585,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 792307,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Period Television",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Television",
+                "tmdb_id": 95555,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Television",
+                "tmdb_id": 109377,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Television",
+                "tmdb_id": 81723,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Television",
+                "tmdb_id": 93812,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 346698,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 616747,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 695721,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 447277,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 848326,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Television",
+                "tmdb_id": 114461,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Television",
+                "tmdb_id": 84958,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Television",
+                "tmdb_id": 82856,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Television",
+                "tmdb_id": 83631,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Television",
+                "tmdb_id": 71912,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2023": [
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 661374,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 762504,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 817758,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 361743,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Film",
+                "tmdb_id": 777245,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 82596,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 85552,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 119051,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Contemporary Television",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 615777,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 619730,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 614934,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 754609,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Period Film",
+                "tmdb_id": 724495,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 76600,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 505642,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 545611,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 642885,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Sci-Fi/Fantasy Film",
+                "tmdb_id": 616037,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "1999": [
+            {
+                "category": "Excellence in Film",
+                "tmdb_id": 39437,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Film",
+                "tmdb_id": 9313,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Film",
+                "tmdb_id": 9342,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Film",
+                "tmdb_id": 2657,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Excellence in Film",
+                "tmdb_id": 37165,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Excellence in Television",
+                "tmdb_id": 3556,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ]
+    }
+}

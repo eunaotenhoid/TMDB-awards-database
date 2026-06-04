@@ -1,0 +1,576 @@
+{
+    "award_info": {
+        "tmdb_award_id": 35,
+        "imdb_award_id": "",
+        "name": "DGA Awards",
+        "slug": "dga-awards",
+        "url": "https://www.themoviedb.org/award/35",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/7JrnV2Ikm7Wu1kLVVLUszhjKYC7.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Outstanding Directorial Achievement in Comedy Series",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Comedy Series",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Comedy Series",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Comedy Series",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Comedy Series",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary Film",
+                "tmdb_id": 3820182,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary Film",
+                "tmdb_id": 1106893,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary Film",
+                "tmdb_id": 2198253,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary Film",
+                "tmdb_id": 3228577,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary Film",
+                "tmdb_id": 1490105,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary Film",
+                "tmdb_id": 220691,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary Film",
+                "tmdb_id": 90228,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary Series / News",
+                "tmdb_id": 279299,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary Series / News",
+                "tmdb_id": 287967,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary Series / News",
+                "tmdb_id": 292130,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary Series / News",
+                "tmdb_id": 255251,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary Series / News",
+                "tmdb_id": 277685,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Dramatic Series",
+                "tmdb_id": 203857,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Dramatic Series",
+                "tmdb_id": 250307,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Dramatic Series",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Dramatic Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Dramatic Series",
+                "tmdb_id": 250307,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 2834376,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 1941982,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 1194121,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 1940372,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 2425998,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Limited & Anthology Series",
+                "tmdb_id": 249039,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Limited & Anthology Series",
+                "tmdb_id": 250504,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Limited & Anthology Series",
+                "tmdb_id": 216082,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Limited & Anthology Series",
+                "tmdb_id": 241405,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Limited & Anthology Series",
+                "tmdb_id": 42009,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Movies for Television",
+                "tmdb_id": 62946,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Movies for Television",
+                "tmdb_id": 19311,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Movies for Television",
+                "tmdb_id": 55499,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Movies for Television",
+                "tmdb_id": 1366450,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Movies for Television",
+                "tmdb_id": 1254001,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 10828,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 129561,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 1395183,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 4762,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 1056121,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2025": [
+            {
+                "category": "Outstanding Directorial Achievement in Documentary",
+                "tmdb_id": 1826525,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary",
+                "tmdb_id": 4416786,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary",
+                "tmdb_id": 4191273,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary",
+                "tmdb_id": 88934,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary",
+                "tmdb_id": 223876,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary",
+                "tmdb_id": 4179518,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary",
+                "tmdb_id": 4416757,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary",
+                "tmdb_id": 4416758,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 1467320,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 55615,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 1934875,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 1502652,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 2602036,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 17496,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 118415,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 221522,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 55493,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 366,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2024": [
+            {
+                "category": "Outstanding Directorial Achievement in Documentary",
+                "tmdb_id": 1553722,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary",
+                "tmdb_id": 3637827,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary",
+                "tmdb_id": 3820182,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary",
+                "tmdb_id": 72038,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary",
+                "tmdb_id": 19012,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary",
+                "tmdb_id": 3820342,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 1893777,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 1040061,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 3449432,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 1869557,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 2518227,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 45400,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 122423,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 525,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 13235,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 1032,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2023": [
+            {
+                "category": "Outstanding Directorial Achievement in Documentary",
+                "tmdb_id": 1349268,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary",
+                "tmdb_id": 971292,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary",
+                "tmdb_id": 220691,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary",
+                "tmdb_id": 1932822,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Documentary",
+                "tmdb_id": 1549669,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 1648265,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 1017274,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 1099792,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 1753059,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in First-Time Theatrical Feature Film",
+                "tmdb_id": 1904110,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 5010,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 86270,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 1317730,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 1383612,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 54472,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directorial Achievement in Theatrical Feature Film",
+                "tmdb_id": 488,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ]
+    }
+}

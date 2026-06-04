@@ -1,0 +1,4820 @@
+{
+    "award_info": {
+        "tmdb_award_id": 57,
+        "imdb_award_id": "",
+        "name": "Critics Choice Super Awards",
+        "slug": "critics-choice-super-awards",
+        "url": "https://www.themoviedb.org/award/57",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/4onZlT6Wo8nH1w7VvJ7htzMtU00.svg",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 929590,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 746036,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 575265,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 560016,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 646097,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 1241436,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 75219,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 225385,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 222766,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 236235,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 108978,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 126308,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 2963,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 83854,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 3291,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 135651,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 137905,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 1029934,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 4724,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1488236,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 450,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2136,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1253360,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 6195,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 86654,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 1190668,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 2761308,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 11288,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 1030513,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 996701,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1475239,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 27740,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 8688,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 36801,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2028037,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1659144,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 35029,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 2524,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 6968,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 53650,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 1700685,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 10859,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 23458,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 72466,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 27740,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 78198,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1253360,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 60373,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 500,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 1303037,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 30614,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 76788,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 1763709,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 1030513,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1225953,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 587020,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 37632,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 64295,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 9195,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 17064,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 1459885,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 1318650,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 39658,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 3416,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 134774,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 240724,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1971031,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1038,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 102137,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 15091,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 63231,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1668004,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 1537686,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 1267329,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 1683343,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 1981044,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 227454,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 505710,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1371297,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 147056,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 17696,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 973497,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 204392,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 2324569,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 1958515,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 237405,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 9278,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 15886,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 1373737,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 82104,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 17696,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 204392,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 990393,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 989325,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1668004,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 5081,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 224513,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 205,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 1683343,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 35515,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 1397778,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 9780,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 116,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1360281,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 8691,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1434487,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 1151031,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 1138194,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 1226578,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 426063,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 933260,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 128098,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 86848,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 124364,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 46648,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 83631,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 945961,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 1084199,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 653346,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 696506,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 1184918,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 42009,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 239770,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 90228,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 253254,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 822119,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 533535,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 808482,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 838240,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 986056,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 912649,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 138501,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 76479,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 106379,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 194764,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 95057,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 533535,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 1138194,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 986056,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 558449,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 7132,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2136,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 72466,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1082509,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 86034,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 88124,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2024": [
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 697843,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 335977,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 603692,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 575264,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 840326,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 75219,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 202297,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 129552,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 94244,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 108978,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 113962,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 73375,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 73544,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 543530,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 2144,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 2963,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 73421,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 125660,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 70303,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 21089,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1561268,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 47296,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1253360,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 4886,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 1190668,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 5293,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 225730,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 62064,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 103,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1475239,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1664716,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 56675,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 6856,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 19277,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2387,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 51329,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 1303037,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 17288,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 1185997,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 587506,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 66743,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 91606,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 47296,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1253360,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 690,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 3033265,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 500,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 74568,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 6384,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 5292,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 1341,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 222122,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 17605,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1658375,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 17697,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2879,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 64295,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 1255540,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 2043430,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 1137824,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 974169,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 220620,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 3115932,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1676520,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 17832,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 15091,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 95517,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 53485,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1668004,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 39187,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 481337,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 1516266,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 54693,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 4068148,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 5916,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 92572,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2892801,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1392140,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1213613,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1620,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 2195140,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 56734,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 8691,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 130640,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 2798462,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1376782,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 5916,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1252533,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1668004,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1449596,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1620,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 39459,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 933238,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 3554544,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 139820,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 2337629,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 9780,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1399806,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 77234,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 15758,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 8691,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2123496,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 713704,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 536554,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 934433,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 1008042,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 744857,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 117488,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 157065,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 126027,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 88055,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 220116,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 211684,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 83631,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 747188,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 508883,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 670292,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 940721,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 792307,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 114461,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 135615,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 42009,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 239770,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 87917,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 202411,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 85949,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 103516,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 565770,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 447365,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 961323,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 569094,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 614930,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 114461,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 135615,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 60735,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 205715,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 84958,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 95057,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 194583,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 940721,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 447365,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 536554,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 385687,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 713704,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 17832,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 41686,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 15091,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1581,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 71158,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 99,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2023": [
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 724495,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 718930,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 579974,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 361743,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 648579,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 75219,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 77169,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 114165,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 108978,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 153312,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 116135,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 569,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 45754,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 5469,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 139549,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 15033,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 964792,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1488236,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 450,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 210172,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 55089,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 589650,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 72466,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 206919,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 690,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 10859,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 28846,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 5294,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2231,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 8688,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 56675,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 36801,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 136532,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 71580,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 17142,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 72466,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 87265,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 11288,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 56446,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 18269,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 122616,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 25072,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 27578,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 60373,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 2963,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 147023,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 500,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 287,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 148037,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1269,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 17697,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2877,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 64295,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 16483,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 56124,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 1498158,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 103390,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 1425924,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 1137824,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 15556,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 38334,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1971031,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 102137,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 63231,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 974169,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 6886,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 543261,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 1381186,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 1654001,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 74688,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 8691,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 1620,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2046128,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 4687,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1321628,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2042908,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 10981,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 5606,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 9780,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 37153,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 550843,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 524,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 1083010,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1075037,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 144250,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1046143,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 61134,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 990393,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2798462,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 18277,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 6161,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 19492,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 125025,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 125025,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 9780,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 15758,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2640253,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 968006,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 15735,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 17521,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 913290,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 756999,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 949423,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 882598,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 833339,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 760104,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 128098,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 90462,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 113988,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 86848,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1402,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 119051,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 83631,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 76600,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 545611,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 762504,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 639933,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 766507,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 87917,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 94997,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 84773,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 103516,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 66732,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 414906,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 505642,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 539681,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 453395,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 616037,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 76479,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 79501,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 92782,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 110492,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 92783,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 414906,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 949423,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 505642,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 718930,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 453395,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 791177,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 569,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1370,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 136532,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 17244,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 60373,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2136,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 83356,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2022": [
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 574060,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 618162,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 617653,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 615457,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 370172,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 637649,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 75219,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 77169,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 92553,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 114165,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 96677,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 93405,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 1639847,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 2963,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 1367309,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 5443,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 2037,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 1429453,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 3490,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 450,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 70303,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 10989,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 184581,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 20644,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 932967,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 1190668,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 6193,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 31,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 76788,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 10859,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 73968,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1652371,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1247,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 15440,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 72095,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 21088,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 56446,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 17605,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 37625,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 1136406,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 1337,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 1489211,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 6162,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 192944,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 18269,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 91606,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 78198,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 53650,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 8784,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 18918,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 1674162,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 1019,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 3896,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 59410,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1423520,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 73249,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 23498,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2877,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 78423,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 56124,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 27995,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 15556,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 1397778,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 1356758,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 2418333,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 1815539,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 54470,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 102137,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 77133,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 15091,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 932076,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1331981,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 112,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 1388593,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 933238,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 1172108,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 72129,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 227454,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1110405,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 95706,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1031067,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 20374,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 66431,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1257565,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 90633,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 1245,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 1373737,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 234352,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 1620,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 505710,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1252533,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 17696,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1697199,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1216606,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 550843,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 130640,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 1388593,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 224513,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 543261,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 9788,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 1360281,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 21045,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 9780,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 587677,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 3194501,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 15758,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2640253,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1980,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 565028,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 576845,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 619778,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 547565,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 520763,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 630240,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 90462,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 93749,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 86848,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 97400,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 88055,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 117488,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 646380,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 438631,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 550988,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 559907,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 501929,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 765245,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 93740,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 96580,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 79680,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 67198,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 90972,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 71912,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 497698,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 524434,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 566525,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 634649,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 436969,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 791373,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 79501,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 88329,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 84958,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 63174,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 95057,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 85271,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 617653,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 634649,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 618162,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 566525,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 619778,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 565028,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 7132,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2136,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 17696,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 11866,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1674162,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1331981,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2021": [
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 38700,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 581859,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 545609,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 516486,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 514847,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 337401,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 531876,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Movie",
+                "tmdb_id": 577922,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 75219,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 54155,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 79622,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 71790,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 44217,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 73544,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 1479869,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 80997,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 91520,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 221018,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Movie",
+                "tmdb_id": 4937,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 49624,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 450,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2136,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1674162,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 77335,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 49623,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 39390,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 984629,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 1481235,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 53650,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 62861,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 18999,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1223726,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 77700,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 209326,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2959,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1253360,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 17039,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2387,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 73128,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 206,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 5294,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 3061,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Superhero Movie",
+                "tmdb_id": 222121,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 69718,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 192944,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 122616,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 60373,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1372,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 157847,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 31,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 74568,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 572541,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 18792,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 2888,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Movie",
+                "tmdb_id": 1117313,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1658375,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 33235,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 23498,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 50266,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1158,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1652371,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 58754,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 32799,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 32798,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 221192,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Movie",
+                "tmdb_id": 220573,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 58502,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1765068,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 102137,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 109325,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 134774,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2117434,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 59017,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 1483660,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 1636738,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 141526,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 204392,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Movie",
+                "tmdb_id": 127558,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 147056,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1602451,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1971031,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1031067,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 9030,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 448,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 66431,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 1884703,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 1768964,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 234352,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 59017,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Movie",
+                "tmdb_id": 6885,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 129104,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 133451,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1010157,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 126713,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1136940,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 71189,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 92572,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 122503,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 59175,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 96316,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Movie",
+                "tmdb_id": 448,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 9780,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 6161,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 79510,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 175826,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 26723,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in an Action Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1257565,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Movie",
+                "tmdb_id": 508439,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Movie",
+                "tmdb_id": 560050,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Movie",
+                "tmdb_id": 422803,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Movie",
+                "tmdb_id": 508442,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Movie",
+                "tmdb_id": 560044,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Movie",
+                "tmdb_id": 441130,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Series",
+                "tmdb_id": 10283,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Series",
+                "tmdb_id": 61222,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Series",
+                "tmdb_id": 74204,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Series",
+                "tmdb_id": 98198,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Series",
+                "tmdb_id": 74440,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Series",
+                "tmdb_id": 60625,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Series",
+                "tmdb_id": 85948,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 551804,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 570670,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 539181,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 587496,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Movie",
+                "tmdb_id": 594718,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 86848,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 109958,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 82816,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 84661,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1622,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1402,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 590223,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 587792,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 435615,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 549294,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Movie",
+                "tmdb_id": 565743,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 82856,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 56570,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 85723,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 67198,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 85949,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 86248,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction/Fantasy Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 83631,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 495764,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 547016,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 621870,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 454626,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Movie",
+                "tmdb_id": 618354,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 76479,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 62643,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 79501,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 60735,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 63174,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 75006,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 454626,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 551804,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 560044,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 587792,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Movie",
+                "tmdb_id": 514847,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 192944,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 1036288,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 2206,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 34490,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 60373,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Villain in a Series, Limited Series or Made-for-TV Movie",
+                "tmdb_id": 168877,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actor in an Animated Movie",
+                "tmdb_id": 134,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Voice Actor in an Animated Movie",
+                "tmdb_id": 62831,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actor in an Animated Movie",
+                "tmdb_id": 1136406,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actor in an Animated Movie",
+                "tmdb_id": 17697,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actor in an Animated Movie",
+                "tmdb_id": 73457,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actor in an Animated Movie",
+                "tmdb_id": 6807,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actor in an Animated Series",
+                "tmdb_id": 21200,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Voice Actor in an Animated Series",
+                "tmdb_id": 185773,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actor in an Animated Series",
+                "tmdb_id": 208519,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actor in an Animated Series",
+                "tmdb_id": 933558,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actor in an Animated Series",
+                "tmdb_id": 1030513,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actor in an Animated Series",
+                "tmdb_id": 1245733,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actor in an Animated Series",
+                "tmdb_id": 65920,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actress in an Animated Movie",
+                "tmdb_id": 56323,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Voice Actress in an Animated Movie",
+                "tmdb_id": 1363045,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actress in an Animated Movie",
+                "tmdb_id": 52792,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actress in an Animated Movie",
+                "tmdb_id": 1631814,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actress in an Animated Movie",
+                "tmdb_id": 6944,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actress in an Animated Movie",
+                "tmdb_id": 2770089,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actress in an Animated Series",
+                "tmdb_id": 53862,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Voice Actress in an Animated Series",
+                "tmdb_id": 1697336,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actress in an Animated Series",
+                "tmdb_id": 52792,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actress in an Animated Series",
+                "tmdb_id": 12110,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actress in an Animated Series",
+                "tmdb_id": 38674,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Voice Actress in an Animated Series",
+                "tmdb_id": 41232,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ]
+    }
+}

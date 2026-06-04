@@ -1,0 +1,36 @@
+{
+    "award_info": {
+        "tmdb_award_id": 64,
+        "imdb_award_id": "",
+        "name": "Blauer Panther",
+        "slug": "blauer-panther",
+        "url": "https://www.themoviedb.org/award/64",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/Atemhjre1Suetv0wiHmlnzr3zbj.svg",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "Beste Regie",
+                "tmdb_id": 220694,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Beste Schauspielerin",
+                "tmdb_id": 248982,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Beste Serie",
+                "tmdb_id": 254721,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ]
+    }
+}

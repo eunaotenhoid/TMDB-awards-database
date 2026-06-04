@@ -1,0 +1,138 @@
+{
+    "award_info": {
+        "tmdb_award_id": 50,
+        "imdb_award_id": "",
+        "name": "German Television Award",
+        "slug": "german-television-award",
+        "url": "https://www.themoviedb.org/award/50",
+        "location": "",
+        "presenter": "",
+        "icon": "",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 252372,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 276395,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 292213,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy/Late Night",
+                "tmdb_id": 46112,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 239362,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 276129,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 243864,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Entertainment Reality",
+                "tmdb_id": 254721,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Entertainment Show",
+                "tmdb_id": 287123,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Hosting / Individual Achievement Entertainment",
+                "tmdb_id": 1166063,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Film",
+                "tmdb_id": 1276116,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Film",
+                "tmdb_id": 1308599,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Beste Kamera",
+                "tmdb_id": 2084628,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Beste Kamera",
+                "tmdb_id": 1888189,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Beste Musik",
+                "tmdb_id": 1671565,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Beste Regie Unterhaltung",
+                "tmdb_id": 3324304,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Beste Regie Unterhaltung",
+                "tmdb_id": 5024157,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Beste Schauspielerin",
+                "tmdb_id": 44328,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Bester Schauspieler",
+                "tmdb_id": 1824940,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Bestes Buch Fiktion",
+                "tmdb_id": 2300389,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ]
+    }
+}

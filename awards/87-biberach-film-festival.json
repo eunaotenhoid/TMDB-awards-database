@@ -1,0 +1,174 @@
+{
+    "award_info": {
+        "tmdb_award_id": 87,
+        "imdb_award_id": "",
+        "name": "Biberach Film Festival",
+        "slug": "biberach-film-festival",
+        "url": "https://www.themoviedb.org/award/87",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/j2gOTD4lzVzyj5YTp1VeklhfeWf.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "Debüt-Biber",
+                "tmdb_id": 1412182,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Doku-Biber",
+                "tmdb_id": 1489036,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Fernseh-Biber",
+                "tmdb_id": 1556697,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Goldener Biber",
+                "tmdb_id": 1421148,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Kurzfilm-Biber",
+                "tmdb_id": 1566395,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Mittellange-Filme-Biber",
+                "tmdb_id": 1566369,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Publikums-Biber",
+                "tmdb_id": 1412182,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Schüler-Biber",
+                "tmdb_id": 1356474,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2024": [
+            {
+                "category": "Debüt-Biber",
+                "tmdb_id": 1303227,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Doku-Biber",
+                "tmdb_id": 1258975,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Fernseh-Biber",
+                "tmdb_id": 1458727,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Goldener Biber",
+                "tmdb_id": 1303237,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Kurzfilm-Biber",
+                "tmdb_id": 1558711,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Mittellange-Filme-Biber",
+                "tmdb_id": 1232324,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Publikums-Biber",
+                "tmdb_id": 1317113,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Schüler-Biber",
+                "tmdb_id": 1675427,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2023": [
+            {
+                "category": "Goldener Biber",
+                "tmdb_id": 989750,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2022": [
+            {
+                "category": "Debüt-Biber",
+                "tmdb_id": 1080011,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Doku-Biber",
+                "tmdb_id": 915929,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Fernseh-Biber",
+                "tmdb_id": 982300,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Goldener Biber",
+                "tmdb_id": 885787,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Kurzfilm-Biber",
+                "tmdb_id": 1043647,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Mittellange-Filme-Biber",
+                "tmdb_id": 974432,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Schüler-Biber",
+                "tmdb_id": 726888,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Biber",
+                "tmdb_id": 569349,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ]
+    }
+}

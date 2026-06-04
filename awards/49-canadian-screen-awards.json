@@ -1,0 +1,438 @@
+{
+    "award_info": {
+        "tmdb_award_id": 49,
+        "imdb_award_id": "",
+        "name": "Canadian Screen Awards",
+        "slug": "canadian-screen-awards",
+        "url": "https://www.themoviedb.org/award/49",
+        "location": "",
+        "presenter": ",         Lisa Gilroy,",
+        "icon": "https://media.themoviedb.org/t/p/w300/lMe1ptOsAGAZwwBWrpV3UHvFaNc.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "Achievement in Direction",
+                "tmdb_id": 1206082,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Achievement in Direction",
+                "tmdb_id": 1484620,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Achievement in Direction",
+                "tmdb_id": 1322985,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Achievement in Direction",
+                "tmdb_id": 56205,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Achievement in Direction",
+                "tmdb_id": 1291233,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Achievement in Direction",
+                "tmdb_id": 1689281,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Award",
+                "tmdb_id": 201836,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 154167,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 260253,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 243732,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 272429,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 234725,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 240936,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 230047,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 228026,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 278687,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 242535,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature Length Documentary",
+                "tmdb_id": 1170053,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature Length Documentary",
+                "tmdb_id": 1265320,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature Length Documentary",
+                "tmdb_id": 1261100,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature Length Documentary",
+                "tmdb_id": 1245188,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature Length Documentary",
+                "tmdb_id": 1242947,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Lead Performer, Comedy",
+                "tmdb_id": 56262,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lead Performer, Comedy",
+                "tmdb_id": 303020,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lead Performer, Comedy",
+                "tmdb_id": 7005,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lead Performer, Comedy",
+                "tmdb_id": 1166834,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lead Performer, Comedy",
+                "tmdb_id": 2276925,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lead Performer, Comedy",
+                "tmdb_id": 2284541,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lead Performer, Comedy",
+                "tmdb_id": 1193895,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Lead Performer, Comedy",
+                "tmdb_id": 1245422,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lead Performer, Drama Series",
+                "tmdb_id": 240936,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lead Performer, Drama Series",
+                "tmdb_id": 230047,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Lead Performer, Drama Series",
+                "tmdb_id": 14929,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lead Performer, Drama Series",
+                "tmdb_id": 87940,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lead Performer, Drama Series",
+                "tmdb_id": 228026,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lead Performer, Drama Series",
+                "tmdb_id": 228026,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lead Performer, Drama Series",
+                "tmdb_id": 12786,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lead Performer, Drama Series",
+                "tmdb_id": 212055,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 1182047,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 1013855,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 1162501,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 988397,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 1293488,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 794090,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Reality/Competition Program or Series",
+                "tmdb_id": 94038,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Reality/Competition Program or Series",
+                "tmdb_id": 215442,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Reality/Competition Program or Series",
+                "tmdb_id": 38206,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Reality/Competition Program or Series",
+                "tmdb_id": 245738,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Reality/Competition Program or Series",
+                "tmdb_id": 37649,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Kids' Choice Award",
+                "tmdb_id": 115895,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Kids' Choice Award",
+                "tmdb_id": 62404,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Kids' Choice Award",
+                "tmdb_id": 304170,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Kids' Choice Award",
+                "tmdb_id": 315040,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Kids' Choice Award",
+                "tmdb_id": 315041,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Performance in a Leading Role, Comedy",
+                "tmdb_id": 4306963,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Performance in a Leading Role, Comedy",
+                "tmdb_id": 147967,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Performance in a Leading Role, Comedy",
+                "tmdb_id": 1580788,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Performance in a Leading Role, Comedy",
+                "tmdb_id": 1906040,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Performance in a Leading Role, Comedy",
+                "tmdb_id": 112,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Performance in a Leading Role, Comedy",
+                "tmdb_id": 70787,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Performance in a Leading Role, Comedy",
+                "tmdb_id": 4656066,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Performance in a Leading Role, Comedy",
+                "tmdb_id": 2477204,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Performance in a Leading Role, Drama",
+                "tmdb_id": 60898,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Performance in a Leading Role, Drama",
+                "tmdb_id": 4305524,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Performance in a Leading Role, Drama",
+                "tmdb_id": 973497,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Performance in a Leading Role, Drama",
+                "tmdb_id": 530,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Performance in a Leading Role, Drama",
+                "tmdb_id": 4276075,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Performance in a Leading Role, Drama",
+                "tmdb_id": 2937148,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Performance in a Leading Role, Drama",
+                "tmdb_id": 1159394,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Performance in a Leading Role, Drama",
+                "tmdb_id": 1431050,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ]
+    }
+}

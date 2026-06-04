@@ -1,0 +1,3186 @@
+{
+    "award_info": {
+        "tmdb_award_id": 48,
+        "imdb_award_id": "",
+        "name": "Saturn Awards",
+        "slug": "saturn-awards",
+        "url": "https://www.themoviedb.org/award/48",
+        "location": ",         Hilton Los Angeles/Universal City,         Universal City, California,",
+        "presenter": ",         Joel McHale,",
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/iX0D5C6FMfyAKnGz6o7OLCpOBkt.jpg",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Best 4K Home Media Release",
+                "tmdb_id": 575265,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best 4K Home Media Release",
+                "tmdb_id": 597208,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best 4K Home Media Release",
+                "tmdb_id": 617126,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best 4K Home Media Release",
+                "tmdb_id": 986056,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best 4K Home Media Release",
+                "tmdb_id": 744857,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best 4K Home Media Release",
+                "tmdb_id": 402431,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Action/Adventure Film",
+                "tmdb_id": 541671,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action/Adventure Film",
+                "tmdb_id": 911430,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action/Adventure Film",
+                "tmdb_id": 575265,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Action/Adventure Film",
+                "tmdb_id": 1195506,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action/Adventure Film",
+                "tmdb_id": 425274,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action/Adventure Film",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action/Adventure Television Series",
+                "tmdb_id": 77169,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action/Adventure Television Series",
+                "tmdb_id": 113959,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Action/Adventure Television Series",
+                "tmdb_id": 245927,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action/Adventure Television Series",
+                "tmdb_id": 108978,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action/Adventure Television Series",
+                "tmdb_id": 93405,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action/Adventure Television Series",
+                "tmdb_id": 133748,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 1785590,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 500,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 91606,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 25072,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 135651,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 1253360,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 65731,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Television Series",
+                "tmdb_id": 1225953,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Television Series",
+                "tmdb_id": 56446,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Television Series",
+                "tmdb_id": 53820,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Television Series",
+                "tmdb_id": 209326,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Television Series",
+                "tmdb_id": 8688,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Television Series",
+                "tmdb_id": 4886,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Television Series",
+                "tmdb_id": 36801,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 993774,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 1765068,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 18050,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 936970,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 556356,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 8691,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 54693,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Television Series",
+                "tmdb_id": 147056,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Television Series",
+                "tmdb_id": 1356210,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Television Series",
+                "tmdb_id": 2754753,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Television Series",
+                "tmdb_id": 973497,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Television Series",
+                "tmdb_id": 31535,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Television Series",
+                "tmdb_id": 974169,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Television Series",
+                "tmdb_id": 62765,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 870360,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 1175942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 1022787,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 803796,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 991494,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 1084242,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Television Series or Special",
+                "tmdb_id": 219543,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Television Series or Special",
+                "tmdb_id": 74440,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Television Series or Special",
+                "tmdb_id": 138505,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Television Series or Special",
+                "tmdb_id": 288055,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Television Series or Special",
+                "tmdb_id": 138503,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Television Series or Special",
+                "tmdb_id": 127532,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematic Film Adaptation (From Another Medium)",
+                "tmdb_id": 1197137,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematic Film Adaptation (From Another Medium)",
+                "tmdb_id": 822119,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematic Film Adaptation (From Another Medium)",
+                "tmdb_id": 617126,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Cinematic Film Adaptation (From Another Medium)",
+                "tmdb_id": 950387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematic Film Adaptation (From Another Medium)",
+                "tmdb_id": 1061474,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematic Film Adaptation (From Another Medium)",
+                "tmdb_id": 986056,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Classic Film Home Media Release",
+                "tmdb_id": 13581,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Classic Film Home Media Release",
+                "tmdb_id": 12149,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Classic Film Home Media Release",
+                "tmdb_id": 1495,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Classic Film Home Media Release",
+                "tmdb_id": 44686,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Classic Film Home Media Release",
+                "tmdb_id": 19185,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Classic Film Home Media Release",
+                "tmdb_id": 1694,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Classic Film Home Media Release",
+                "tmdb_id": 11969,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Film",
+                "tmdb_id": 1125257,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Film",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Film",
+                "tmdb_id": 1087192,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Film",
+                "tmdb_id": 842924,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Film",
+                "tmdb_id": 552524,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Film",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Fantasy Television Series",
+                "tmdb_id": 207863,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Television Series",
+                "tmdb_id": 126027,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Television Series",
+                "tmdb_id": 226749,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Television Series",
+                "tmdb_id": 56570,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Fantasy Television Series",
+                "tmdb_id": 66732,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Television Series",
+                "tmdb_id": 119051,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Costume",
+                "tmdb_id": 617126,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Costume",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Costume",
+                "tmdb_id": 1242898,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Costume",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Costume",
+                "tmdb_id": 1061474,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Costume",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Direction",
+                "tmdb_id": 2710,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Direction",
+                "tmdb_id": 1056121,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Direction",
+                "tmdb_id": 10828,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Direction",
+                "tmdb_id": 15218,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Direction",
+                "tmdb_id": 9033,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Direction",
+                "tmdb_id": 1212522,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Direction",
+                "tmdb_id": 568322,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 83533,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 617126,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 575265,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 1242898,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Make-Up",
+                "tmdb_id": 1100988,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Make-Up",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Make-Up",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Make-Up",
+                "tmdb_id": 533533,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Make-Up",
+                "tmdb_id": 1078605,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Make-Up",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Music",
+                "tmdb_id": 83533,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Music",
+                "tmdb_id": 617126,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Music",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Music",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Music",
+                "tmdb_id": 533533,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Music",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Production Design",
+                "tmdb_id": 83533,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Production Design",
+                "tmdb_id": 617126,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Production Design",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Production Design",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Production Design",
+                "tmdb_id": 1061474,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Production Design",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Screenwriting",
+                "tmdb_id": 83533,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Screenwriting",
+                "tmdb_id": 1043197,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Screenwriting",
+                "tmdb_id": 617126,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Screenwriting",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Screenwriting",
+                "tmdb_id": 575265,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Screenwriting",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Screenwriting",
+                "tmdb_id": 1078605,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Star in a Television Series",
+                "tmdb_id": 83854,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Guest Star in a Television Series",
+                "tmdb_id": 22970,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Star in a Television Series",
+                "tmdb_id": 2713,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Star in a Television Series",
+                "tmdb_id": 1736,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Star in a Television Series",
+                "tmdb_id": 137905,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Star in a Television Series",
+                "tmdb_id": 1274719,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Star in a Television Series",
+                "tmdb_id": 83141,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 1100988,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 1038392,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 574475,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 1124620,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 1078605,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Television Series",
+                "tmdb_id": 256624,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Television Series",
+                "tmdb_id": 253372,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Television Series",
+                "tmdb_id": 200875,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Horror Television Series",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Television Series",
+                "tmdb_id": 194583,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Television Series",
+                "tmdb_id": 117488,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Independent Film",
+                "tmdb_id": 1083420,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Independent Film",
+                "tmdb_id": 1042834,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Independent Film",
+                "tmdb_id": 1043197,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Independent Film",
+                "tmdb_id": 1422096,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Independent Film",
+                "tmdb_id": 1212742,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Independent Film",
+                "tmdb_id": 1370814,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Independent Film",
+                "tmdb_id": 338969,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Animated Film",
+                "tmdb_id": 1333100,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Animated Film",
+                "tmdb_id": 1218925,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Animated Film",
+                "tmdb_id": 1056444,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Animated Film",
+                "tmdb_id": 1311031,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best International Animated Film",
+                "tmdb_id": 980477,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Animated Film",
+                "tmdb_id": 1214130,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Film",
+                "tmdb_id": 1319951,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Film",
+                "tmdb_id": 1151031,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Film",
+                "tmdb_id": 1235746,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Film",
+                "tmdb_id": 1001274,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Film",
+                "tmdb_id": 1284120,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Film",
+                "tmdb_id": 1223601,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best New Genre Series",
+                "tmdb_id": 157239,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Genre Series",
+                "tmdb_id": 207484,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Genre Series",
+                "tmdb_id": 225171,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best New Genre Series",
+                "tmdb_id": 272418,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Genre Series",
+                "tmdb_id": 240459,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Genre Series",
+                "tmdb_id": 202879,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Film",
+                "tmdb_id": 83533,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Science Fiction Film",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Film",
+                "tmdb_id": 1234821,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Film",
+                "tmdb_id": 1242898,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Film",
+                "tmdb_id": 798645,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Film",
+                "tmdb_id": 533533,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Television Series",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Science Fiction Television Series",
+                "tmdb_id": 47663,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Television Series",
+                "tmdb_id": 93740,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Television Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Television Series",
+                "tmdb_id": 125988,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Television Series",
+                "tmdb_id": 103516,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Television Series",
+                "tmdb_id": 202555,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Television Series",
+                "tmdb_id": 205715,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Television Series",
+                "tmdb_id": 95557,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Television Series",
+                "tmdb_id": 114471,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Television Series",
+                "tmdb_id": 110492,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Superhero Television Series",
+                "tmdb_id": 90802,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Film",
+                "tmdb_id": 2034418,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actor in a Film",
+                "tmdb_id": 39391,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Film",
+                "tmdb_id": 4785,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Film",
+                "tmdb_id": 32747,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Film",
+                "tmdb_id": 18792,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Film",
+                "tmdb_id": 1019,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Film",
+                "tmdb_id": 21042,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Television Series",
+                "tmdb_id": 2638213,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Television Series",
+                "tmdb_id": 886,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Television Series",
+                "tmdb_id": 9642,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Television Series",
+                "tmdb_id": 11006,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Television Series",
+                "tmdb_id": 41044,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Television Series",
+                "tmdb_id": 119586,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Television Series",
+                "tmdb_id": 1640,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actress in a Film",
+                "tmdb_id": 566331,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Film",
+                "tmdb_id": 1137824,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Film",
+                "tmdb_id": 226001,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Film",
+                "tmdb_id": 23882,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Film",
+                "tmdb_id": 1373737,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Film",
+                "tmdb_id": 130640,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Film",
+                "tmdb_id": 10205,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actress in a Television Series",
+                "tmdb_id": 472632,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Television Series",
+                "tmdb_id": 1182597,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Television Series",
+                "tmdb_id": 86034,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Television Series",
+                "tmdb_id": 87165,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Television Series",
+                "tmdb_id": 139654,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Television Series",
+                "tmdb_id": 139,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Television Series",
+                "tmdb_id": 210829,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Home Media Release",
+                "tmdb_id": 90462,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Home Media Release",
+                "tmdb_id": 86686,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Home Media Release",
+                "tmdb_id": 2384,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Home Media Release",
+                "tmdb_id": 967,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Home Media Release",
+                "tmdb_id": 194764,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Presentation or Limited Series",
+                "tmdb_id": 250504,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Presentation or Limited Series",
+                "tmdb_id": 42009,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Presentation or Limited Series",
+                "tmdb_id": 241554,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Presentation or Limited Series",
+                "tmdb_id": 131835,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Presentation or Limited Series",
+                "tmdb_id": 250307,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Presentation or Limited Series",
+                "tmdb_id": 211684,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Thriller Film",
+                "tmdb_id": 1242434,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Film",
+                "tmdb_id": 1368166,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Film",
+                "tmdb_id": 604079,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Film",
+                "tmdb_id": 1317288,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Film",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Thriller Film",
+                "tmdb_id": 812583,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Television Series",
+                "tmdb_id": 128904,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Television Series",
+                "tmdb_id": 259909,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Thriller Television Series",
+                "tmdb_id": 273247,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Television Series",
+                "tmdb_id": 247718,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Television Series",
+                "tmdb_id": 256711,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Television Series",
+                "tmdb_id": 241609,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual/Special Effects",
+                "tmdb_id": 83533,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Visual/Special Effects",
+                "tmdb_id": 617126,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual/Special Effects",
+                "tmdb_id": 1087192,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual/Special Effects",
+                "tmdb_id": 575265,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual/Special Effects",
+                "tmdb_id": 1061474,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual/Special Effects",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Younger Performer in a Film",
+                "tmdb_id": 4688032,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Younger Performer in a Film",
+                "tmdb_id": 1895760,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Younger Performer in a Film",
+                "tmdb_id": 3988423,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Younger Performer in a Film",
+                "tmdb_id": 1530558,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Younger Performer in a Film",
+                "tmdb_id": 3969369,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Younger Performer in a Film",
+                "tmdb_id": 2803710,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Younger Performer in a Television Series",
+                "tmdb_id": 1969888,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Younger Performer in a Television Series",
+                "tmdb_id": 4718547,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Younger Performer in a Television Series",
+                "tmdb_id": 3224159,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Younger Performer in a Television Series",
+                "tmdb_id": 1393177,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Younger Performer in a Television Series",
+                "tmdb_id": 1449596,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Younger Performer in a Television Series",
+                "tmdb_id": 1590797,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Younger Performer in a Television Series",
+                "tmdb_id": 2426851,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2025": [
+            {
+                "category": "Best 4K Home Media Release",
+                "tmdb_id": 9387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best 4K Home Media Release",
+                "tmdb_id": 201085,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best 4K Home Media Release",
+                "tmdb_id": 9495,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best 4K Home Media Release",
+                "tmdb_id": 754,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best 4K Home Media Release",
+                "tmdb_id": 13509,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best 4K Home Media Release",
+                "tmdb_id": 951491,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Action/Adventure Film",
+                "tmdb_id": 533535,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Action/Adventure Film",
+                "tmdb_id": 746036,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action/Adventure Film",
+                "tmdb_id": 956842,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action/Adventure Film",
+                "tmdb_id": 799583,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action/Adventure Film",
+                "tmdb_id": 718821,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action/Adventure Film",
+                "tmdb_id": 848538,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 1524100,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 2963,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 1190668,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 83854,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 59219,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 2232,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 10859,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 1318650,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 3416,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 1267329,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 1920,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 240724,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 35515,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 1397778,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 508883,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 519182,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 1022789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 1011985,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 1062807,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 698687,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 1184918,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Television Series or Special",
+                "tmdb_id": 125909,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Television Series or Special",
+                "tmdb_id": 90808,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Television Series or Special",
+                "tmdb_id": 207468,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Television Series or Special",
+                "tmdb_id": 85948,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Television Series or Special",
+                "tmdb_id": 105971,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Television Series or Special",
+                "tmdb_id": 138502,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Classic Film Home Media Release",
+                "tmdb_id": 27130,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Classic Film Home Media Release",
+                "tmdb_id": 20945,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Classic Film Home Media Release",
+                "tmdb_id": 11549,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Classic Film Home Media Release",
+                "tmdb_id": 5506,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Classic Film Home Media Release",
+                "tmdb_id": 377,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Classic Film Home Media Release",
+                "tmdb_id": 13820,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Classic Film Home Media Release",
+                "tmdb_id": 21266,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Film",
+                "tmdb_id": 917496,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Fantasy Film",
+                "tmdb_id": 967847,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Film",
+                "tmdb_id": 823464,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Film",
+                "tmdb_id": 947891,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Film",
+                "tmdb_id": 792307,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Film",
+                "tmdb_id": 787699,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Television Series",
+                "tmdb_id": 82452,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Television Series",
+                "tmdb_id": 87917,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Television Series",
+                "tmdb_id": 94997,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Fantasy Television Series",
+                "tmdb_id": 84773,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Television Series",
+                "tmdb_id": 103540,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Television Series",
+                "tmdb_id": 138492,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Costume",
+                "tmdb_id": 917496,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Costume",
+                "tmdb_id": 533535,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Costume",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Costume",
+                "tmdb_id": 967847,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Costume",
+                "tmdb_id": 695721,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Costume",
+                "tmdb_id": 787699,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Direction",
+                "tmdb_id": 932248,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Direction",
+                "tmdb_id": 1179066,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Direction",
+                "tmdb_id": 510,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Direction",
+                "tmdb_id": 17825,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Direction",
+                "tmdb_id": 1283814,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Direction",
+                "tmdb_id": 137427,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Direction",
+                "tmdb_id": 43652,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 917496,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 929590,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 533535,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 786892,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 1029281,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Make-Up",
+                "tmdb_id": 945961,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Make-Up",
+                "tmdb_id": 917496,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Make-Up",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Make-Up",
+                "tmdb_id": 1226578,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Make-Up",
+                "tmdb_id": 1100782,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Make-Up",
+                "tmdb_id": 933260,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Music",
+                "tmdb_id": 917496,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Music",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Music",
+                "tmdb_id": 967847,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Music",
+                "tmdb_id": 695721,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Music",
+                "tmdb_id": 653346,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Music",
+                "tmdb_id": 1100782,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Production Design",
+                "tmdb_id": 945961,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Production Design",
+                "tmdb_id": 917496,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Production Design",
+                "tmdb_id": 533535,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Production Design",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Production Design",
+                "tmdb_id": 653346,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Production Design",
+                "tmdb_id": 1226578,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Screenwriting",
+                "tmdb_id": 917496,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Screenwriting",
+                "tmdb_id": 533535,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Screenwriting",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Screenwriting",
+                "tmdb_id": 940721,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Screenwriting",
+                "tmdb_id": 1226578,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Screenwriting",
+                "tmdb_id": 653346,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Screenwriting",
+                "tmdb_id": 1029281,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Genre Comedy Television Series",
+                "tmdb_id": 126027,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Genre Comedy Television Series",
+                "tmdb_id": 90462,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Genre Comedy Television Series",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Genre Comedy Television Series",
+                "tmdb_id": 96580,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Genre Comedy Television Series",
+                "tmdb_id": 201834,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Genre Comedy Television Series",
+                "tmdb_id": 83631,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 762441,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 1111873,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 945961,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 437342,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 1214509,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 1226578,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 1100782,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Television Series",
+                "tmdb_id": 86686,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Television Series",
+                "tmdb_id": 86848,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Television Series",
+                "tmdb_id": 124364,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Horror Television Series",
+                "tmdb_id": 247518,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Television Series",
+                "tmdb_id": 128098,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Television Series",
+                "tmdb_id": 247721,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Television Series",
+                "tmdb_id": 211684,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Independent Film",
+                "tmdb_id": 823482,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Independent Film",
+                "tmdb_id": 938614,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Independent Film",
+                "tmdb_id": 1023922,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Independent Film",
+                "tmdb_id": 933260,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Independent Film",
+                "tmdb_id": 1051891,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Independent Film",
+                "tmdb_id": 395817,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Film",
+                "tmdb_id": 943134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Film",
+                "tmdb_id": 940721,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best International Film",
+                "tmdb_id": 1160018,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Film",
+                "tmdb_id": 560016,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Film",
+                "tmdb_id": 1216191,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Film",
+                "tmdb_id": 906126,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Film",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Science Fiction Film",
+                "tmdb_id": 786892,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Film",
+                "tmdb_id": 695721,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Film",
+                "tmdb_id": 653346,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Film",
+                "tmdb_id": 592831,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Film",
+                "tmdb_id": 912649,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Television Series",
+                "tmdb_id": 108545,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Television Series",
+                "tmdb_id": 114461,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Television Series",
+                "tmdb_id": 47663,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Television Series",
+                "tmdb_id": 196322,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Television Series",
+                "tmdb_id": 106379,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Science Fiction Television Series",
+                "tmdb_id": 67198,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Television Series",
+                "tmdb_id": 138501,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Superhero Television Series",
+                "tmdb_id": 76479,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Television Series",
+                "tmdb_id": 84958,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Television Series",
+                "tmdb_id": 194764,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Television Series",
+                "tmdb_id": 95057,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Television Series",
+                "tmdb_id": 75006,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Film",
+                "tmdb_id": 16851,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Film",
+                "tmdb_id": 86654,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Film",
+                "tmdb_id": 2963,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Film",
+                "tmdb_id": 5293,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Film",
+                "tmdb_id": 6968,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actor in a Film",
+                "tmdb_id": 2761308,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Film",
+                "tmdb_id": 1586047,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Film",
+                "tmdb_id": 2324569,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Film",
+                "tmdb_id": 933238,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actress in a Film",
+                "tmdb_id": 10767,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Film",
+                "tmdb_id": 3196,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Film",
+                "tmdb_id": 1392137,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Film",
+                "tmdb_id": 1683343,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Film",
+                "tmdb_id": 505710,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Film",
+                "tmdb_id": 840705,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Film",
+                "tmdb_id": 929590,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Film",
+                "tmdb_id": 930564,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Film",
+                "tmdb_id": 1114513,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Film",
+                "tmdb_id": 1029281,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Thriller Film",
+                "tmdb_id": 877817,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual/Special Effects",
+                "tmdb_id": 945961,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual/Special Effects",
+                "tmdb_id": 917496,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual/Special Effects",
+                "tmdb_id": 533535,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual/Special Effects",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Visual/Special Effects",
+                "tmdb_id": 940721,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual/Special Effects",
+                "tmdb_id": 653346,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual/Special Effects",
+                "tmdb_id": 718821,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Younger Performer in a Film",
+                "tmdb_id": 2146942,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Younger Performer in a Film",
+                "tmdb_id": 1172108,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Younger Performer in a Film",
+                "tmdb_id": 2948491,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Younger Performer in a Film",
+                "tmdb_id": 1939373,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Younger Performer in a Film",
+                "tmdb_id": 974169,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Younger Performer in a Film",
+                "tmdb_id": 2442117,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Younger Performer in a Film",
+                "tmdb_id": 2217977,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2024": [
+            {
+                "category": "Best Action/Adventure Film",
+                "tmdb_id": 718930,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action/Adventure Film",
+                "tmdb_id": 926393,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action/Adventure Film",
+                "tmdb_id": 385687,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action/Adventure Film",
+                "tmdb_id": 603692,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Action/Adventure Film",
+                "tmdb_id": 575264,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Action/Adventure Film",
+                "tmdb_id": 724495,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 5469,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 3,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 2282,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 2037,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 73457,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 6384,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Film",
+                "tmdb_id": 65731,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 19492,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 1137824,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 1654001,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 234352,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 8691,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Film",
+                "tmdb_id": 1397778,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 976573,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 315162,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 569094,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 502356,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 916224,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 614930,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Film",
+                "tmdb_id": 346698,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Film",
+                "tmdb_id": 493529,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Film",
+                "tmdb_id": 616747,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fantasy Film",
+                "tmdb_id": 335977,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Fantasy Film",
+                "tmdb_id": 447277,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 913290,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 713704,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 614479,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 649609,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 934433,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 882598,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 1008042,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best New Genre Television Series",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best New Genre Television Series",
+                "tmdb_id": 47663,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Genre Television Series",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Genre Television Series",
+                "tmdb_id": 84773,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Genre Television Series",
+                "tmdb_id": 125988,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Genre Television Series",
+                "tmdb_id": 194583,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Genre Television Series",
+                "tmdb_id": 119051,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Film",
+                "tmdb_id": 76600,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Science Fiction Film",
+                "tmdb_id": 670292,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Film",
+                "tmdb_id": 536554,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Film",
+                "tmdb_id": 766507,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Science Fiction Film",
+                "tmdb_id": 667538,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Film",
+                "tmdb_id": 640146,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Film",
+                "tmdb_id": 505642,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Film",
+                "tmdb_id": 565770,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Film",
+                "tmdb_id": 298618,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Film",
+                "tmdb_id": 447365,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actor in a Film",
+                "tmdb_id": 2963,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actor in a Film",
+                "tmdb_id": 3223,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Film",
+                "tmdb_id": 619730,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Film",
+                "tmdb_id": 661374,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Film",
+                "tmdb_id": 631842,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Film",
+                "tmdb_id": 977770,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Film",
+                "tmdb_id": 593643,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Thriller Film",
+                "tmdb_id": 872585,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2022": [
+            {
+                "category": "Best Superhero Film",
+                "tmdb_id": 414906,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Film",
+                "tmdb_id": 453395,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Film",
+                "tmdb_id": 566525,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Film",
+                "tmdb_id": 634649,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Superhero Film",
+                "tmdb_id": 436969,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Superhero Film",
+                "tmdb_id": 616037,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2021": [
+            {
+                "category": "Best Comic-to-Motion Picture Release",
+                "tmdb_id": 495764,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comic-to-Motion Picture Release",
+                "tmdb_id": 338762,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comic-to-Motion Picture Release",
+                "tmdb_id": 475557,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Comic-to-Motion Picture Release",
+                "tmdb_id": 340102,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comic-to-Motion Picture Release",
+                "tmdb_id": 547016,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2019": [
+            {
+                "category": "Best Comic-to-Motion Picture Release",
+                "tmdb_id": 297802,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comic-to-Motion Picture Release",
+                "tmdb_id": 299534,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Comic-to-Motion Picture Release",
+                "tmdb_id": 299536,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comic-to-Motion Picture Release",
+                "tmdb_id": 299537,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comic-to-Motion Picture Release",
+                "tmdb_id": 287947,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comic-to-Motion Picture Release",
+                "tmdb_id": 429617,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comic-to-Motion Picture Release",
+                "tmdb_id": 324857,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "1973": [
+            {
+                "category": "Best Horror Film",
+                "tmdb_id": 30566,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Science Fiction Film",
+                "tmdb_id": 24559,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,1722 @@
+{
+    "award_info": {
+        "tmdb_award_id": 25,
+        "imdb_award_id": "",
+        "name": "Genie Awards",
+        "slug": "genie-awards",
+        "url": "https://www.themoviedb.org/award/25",
+        "location": "",
+        "presenter": ",         Bruno Gerussi,",
+        "icon": "",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "1983": [
+            {
+                "category": "Best Achievement in Art Direction/Production Design",
+                "tmdb_id": 42136,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Art Direction/Production Design",
+                "tmdb_id": 766768,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Art Direction/Production Design",
+                "tmdb_id": 241939,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Cinematography",
+                "tmdb_id": 241939,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Cinematography",
+                "tmdb_id": 346139,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Costume Design",
+                "tmdb_id": 62204,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Costume Design",
+                "tmdb_id": 162803,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Costume Design",
+                "tmdb_id": 95733,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Costume Design",
+                "tmdb_id": 766768,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Costume Design",
+                "tmdb_id": 42136,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Direction",
+                "tmdb_id": 42136,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Direction",
+                "tmdb_id": 95733,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Direction",
+                "tmdb_id": 341566,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Direction",
+                "tmdb_id": 346139,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Direction",
+                "tmdb_id": 210092,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Film Editing",
+                "tmdb_id": 62204,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Film Editing",
+                "tmdb_id": 42136,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Film Editing",
+                "tmdb_id": 241939,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Film Editing",
+                "tmdb_id": 110661,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Overall Sound",
+                "tmdb_id": 62204,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Overall Sound",
+                "tmdb_id": 42136,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Overall Sound",
+                "tmdb_id": 110661,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Overall Sound",
+                "tmdb_id": 241939,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Overall Sound",
+                "tmdb_id": 346139,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Sound Editing",
+                "tmdb_id": 62204,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Sound Editing",
+                "tmdb_id": 42136,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Sound Editing",
+                "tmdb_id": 110661,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Sound Editing",
+                "tmdb_id": 95733,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Sound Editing",
+                "tmdb_id": 241939,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 368398,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 42136,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 110661,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 346139,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 62204,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 241939,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Score",
+                "tmdb_id": 42136,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Score",
+                "tmdb_id": 241939,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Score",
+                "tmdb_id": 46885,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 42136,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 346139,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 110661,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 766768,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 65146,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 5605,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 14333,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 6905,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 4785,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 2372,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 24381,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 59962,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 27446,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 30123,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 3536,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 51544,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 33689,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 55636,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 81467,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 3712,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 85169,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 18260,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 91600,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 14902,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 62033,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 76417,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 5897,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 13312,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 11829,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 557088,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 27812,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 1156290,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 61185,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 1475507,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 1025076,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 543716,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 1054403,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "1982": [
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 128741,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 21294,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 100189,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 66764,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 9538,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 1903,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 19752,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 62036,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 38510,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 47879,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 4139,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 8873,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 9560,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 41229,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 16131,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 25282,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 49877,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 83183,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 13950,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 290,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 92461,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 3712,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 14902,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 178884,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 11086,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 91600,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 20011,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 2109,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 563092,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 1203646,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 79613,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 543211,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 545340,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 87367,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 22213,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 1239586,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "1981": [
+            {
+                "category": "Best Achievement in Art Direction/Production Design",
+                "tmdb_id": 23954,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Art Direction/Production Design",
+                "tmdb_id": 40969,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Art Direction/Production Design",
+                "tmdb_id": 198504,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Art Direction/Production Design",
+                "tmdb_id": 100984,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Art Direction/Production Design",
+                "tmdb_id": 388770,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Cinematography",
+                "tmdb_id": 100984,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Cinematography",
+                "tmdb_id": 23954,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Cinematography",
+                "tmdb_id": 337704,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Cinematography",
+                "tmdb_id": 73354,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Cinematography",
+                "tmdb_id": 198504,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Costume Design",
+                "tmdb_id": 198504,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Costume Design",
+                "tmdb_id": 23954,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Costume Design",
+                "tmdb_id": 337704,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Costume Design",
+                "tmdb_id": 94574,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Costume Design",
+                "tmdb_id": 100984,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Direction",
+                "tmdb_id": 100984,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Direction",
+                "tmdb_id": 130917,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Direction",
+                "tmdb_id": 368504,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Direction",
+                "tmdb_id": 474090,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Direction",
+                "tmdb_id": 388770,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Film Editing",
+                "tmdb_id": 100984,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Film Editing",
+                "tmdb_id": 276296,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Film Editing",
+                "tmdb_id": 36599,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Film Editing",
+                "tmdb_id": 368504,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Film Editing",
+                "tmdb_id": 107355,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Overall Sound",
+                "tmdb_id": 100984,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Overall Sound",
+                "tmdb_id": 40969,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Overall Sound",
+                "tmdb_id": 368504,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Overall Sound",
+                "tmdb_id": 107355,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Overall Sound",
+                "tmdb_id": 405409,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Overall Sound",
+                "tmdb_id": 130917,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Sound Editing",
+                "tmdb_id": 405409,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Sound Editing",
+                "tmdb_id": 130917,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Sound Editing",
+                "tmdb_id": 368504,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Sound Editing",
+                "tmdb_id": 276296,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 405409,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 130917,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 337704,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 100984,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 388770,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 368504,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 405409,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 130917,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Score",
+                "tmdb_id": 405409,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Score",
+                "tmdb_id": 94574,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Score",
+                "tmdb_id": 40969,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Score",
+                "tmdb_id": 130917,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 100984,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 276296,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 474090,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 388770,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 368504,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 3151,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 6905,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 13784,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 90172,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 522,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 4038,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 13567,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 8944,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 7071,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 855,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 189677,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 1293475,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 1179688,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 92461,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 18260,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 132823,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 83183,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 54791,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 19976,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 3142,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 86620,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 35341,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 105299,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 234809,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 1156290,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 39709,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 10559,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 120311,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 1219190,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 534894,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "1980": [
+            {
+                "category": "Best Achievement in Art Direction/Production Design",
+                "tmdb_id": 13550,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Art Direction/Production Design",
+                "tmdb_id": 28942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Art Direction/Production Design",
+                "tmdb_id": 402204,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Art Direction/Production Design",
+                "tmdb_id": 309401,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Art Direction/Production Design",
+                "tmdb_id": 330045,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Cinematography",
+                "tmdb_id": 13550,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Cinematography",
+                "tmdb_id": 215794,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Cinematography",
+                "tmdb_id": 402204,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Cinematography",
+                "tmdb_id": 34374,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Cinematography",
+                "tmdb_id": 146322,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Costume Design",
+                "tmdb_id": 496559,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Costume Design",
+                "tmdb_id": 309401,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Costume Design",
+                "tmdb_id": 256014,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Costume Design",
+                "tmdb_id": 368042,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Costume Design",
+                "tmdb_id": 68482,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Costume Design",
+                "tmdb_id": 402204,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Direction",
+                "tmdb_id": 34374,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Direction",
+                "tmdb_id": 256014,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Direction",
+                "tmdb_id": 191299,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Direction",
+                "tmdb_id": 309401,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Direction",
+                "tmdb_id": 248616,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Film Editing",
+                "tmdb_id": 34374,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Film Editing",
+                "tmdb_id": 766387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Film Editing",
+                "tmdb_id": 402204,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Film Editing",
+                "tmdb_id": 309401,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Film Editing",
+                "tmdb_id": 14035,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Film Editing",
+                "tmdb_id": 248616,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Film Editing",
+                "tmdb_id": 526338,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Overall Sound",
+                "tmdb_id": 13550,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Overall Sound",
+                "tmdb_id": 34374,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Overall Sound",
+                "tmdb_id": 14035,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Overall Sound",
+                "tmdb_id": 28942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Overall Sound",
+                "tmdb_id": 146322,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Sound Editing",
+                "tmdb_id": 13550,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Achievement in Sound Editing",
+                "tmdb_id": 215794,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Sound Editing",
+                "tmdb_id": 496559,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Sound Editing",
+                "tmdb_id": 34374,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Achievement in Sound Editing",
+                "tmdb_id": 248616,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 13550,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 402204,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 496559,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 330045,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 256014,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 13550,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 402204,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 256014,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 14035,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture",
+                "tmdb_id": 146322,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Score",
+                "tmdb_id": 34374,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Score",
+                "tmdb_id": 28942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Score",
+                "tmdb_id": 330045,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Score",
+                "tmdb_id": 256014,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Score",
+                "tmdb_id": 248616,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 14035,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 766387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 191299,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 121578,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 146322,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 593836,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 862,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 3392,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 1532,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 68301,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actor",
+                "tmdb_id": 522,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 74636,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 95788,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 46780,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 9805,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by a Foreign Actress",
+                "tmdb_id": 9599,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 290,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 201782,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 70440,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 19959,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Leading Role",
+                "tmdb_id": 57880,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 13950,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 108890,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 36173,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 112158,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 3712,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actor in a Supporting Role",
+                "tmdb_id": 20175,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 102760,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 534894,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 24902,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 1173445,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Leading Role",
+                "tmdb_id": 17388,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 35341,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 92959,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 188242,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 5942,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Performance by an Actress in a Supporting Role",
+                "tmdb_id": 1219190,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ]
+    }
+}

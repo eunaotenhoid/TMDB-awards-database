@@ -1,0 +1,940 @@
+{
+    "award_info": {
+        "tmdb_award_id": 90,
+        "imdb_award_id": "",
+        "name": "GMS Awards",
+        "slug": "gms-awards",
+        "url": "https://www.themoviedb.org/award/90",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/7EYWkG9PGgyRy23njBbx7Bu7HrS.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Best Music Supervision in Low Budget Films",
+                "tmdb_id": 891584,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Low Budget Films",
+                "tmdb_id": 1280672,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in Low Budget Films",
+                "tmdb_id": 1033148,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Low Budget Films",
+                "tmdb_id": 900407,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Low Budget Films",
+                "tmdb_id": 1239655,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Low Budget Films",
+                "tmdb_id": 849192,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Major Budget Films",
+                "tmdb_id": 950387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Major Budget Films",
+                "tmdb_id": 798645,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Major Budget Films",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Major Budget Films",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in Major Budget Films",
+                "tmdb_id": 911430,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Mid-Level Budget Films",
+                "tmdb_id": 1280282,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Mid-Level Budget Films",
+                "tmdb_id": 760329,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Mid-Level Budget Films",
+                "tmdb_id": 1317288,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in Mid-Level Budget Films",
+                "tmdb_id": 1245993,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Mid-Level Budget Films",
+                "tmdb_id": 1241921,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Mid-Level Budget Films",
+                "tmdb_id": 1371185,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Reality Television",
+                "tmdb_id": 121066,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Reality Television",
+                "tmdb_id": 60989,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Reality Television",
+                "tmdb_id": 90521,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in Reality Television",
+                "tmdb_id": 256827,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Reality Television",
+                "tmdb_id": 42910,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Documentary Film",
+                "tmdb_id": 1314862,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in a Documentary Film",
+                "tmdb_id": 1320400,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Documentary Film",
+                "tmdb_id": 826338,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Documentary Film",
+                "tmdb_id": 1326654,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Documentary Film",
+                "tmdb_id": 1484685,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Docuseries",
+                "tmdb_id": 292130,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Docuseries",
+                "tmdb_id": 285310,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Docuseries",
+                "tmdb_id": 257945,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Docuseries",
+                "tmdb_id": 294876,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in a Docuseries",
+                "tmdb_id": 218257,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 1294203,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 1272149,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 1371189,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 1151039,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 1104845,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Comedy",
+                "tmdb_id": 225383,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Comedy",
+                "tmdb_id": 195670,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Comedy",
+                "tmdb_id": 120998,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Comedy",
+                "tmdb_id": 82782,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Comedy",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in a Television Comedy",
+                "tmdb_id": 133727,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Drama",
+                "tmdb_id": 273247,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in a Television Drama",
+                "tmdb_id": 253376,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Drama",
+                "tmdb_id": 128904,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Drama",
+                "tmdb_id": 286056,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Drama",
+                "tmdb_id": 248394,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Drama",
+                "tmdb_id": 248833,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for Television",
+                "tmdb_id": 235930,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for Television",
+                "tmdb_id": 215995,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Song Written and/or Recorded for Television",
+                "tmdb_id": 201646,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for Television",
+                "tmdb_id": 248833,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for Television",
+                "tmdb_id": 128904,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for Television",
+                "tmdb_id": 88324,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 826338,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 1272149,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 911430,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 1136867,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2025": [
+            {
+                "category": "Best Music Supervision in Low Budget Films",
+                "tmdb_id": 858017,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in Low Budget Films",
+                "tmdb_id": 1038476,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Low Budget Films",
+                "tmdb_id": 1038263,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Low Budget Films",
+                "tmdb_id": 980296,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Low Budget Films",
+                "tmdb_id": 947891,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Major Budget Films",
+                "tmdb_id": 799766,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Major Budget Films",
+                "tmdb_id": 533535,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Major Budget Films",
+                "tmdb_id": 1059064,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Major Budget Films",
+                "tmdb_id": 718821,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Major Budget Films",
+                "tmdb_id": 1241982,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Major Budget Films",
+                "tmdb_id": 402431,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in Mid-Level Budget Films",
+                "tmdb_id": 804406,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Mid-Level Budget Films",
+                "tmdb_id": 998846,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Mid-Level Budget Films",
+                "tmdb_id": 974950,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Mid-Level Budget Films",
+                "tmdb_id": 661539,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in Mid-Level Budget Films",
+                "tmdb_id": 843527,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Mid-Level Budget Films",
+                "tmdb_id": 1011082,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Reality Television",
+                "tmdb_id": 121066,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Reality Television",
+                "tmdb_id": 99353,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in Reality Television",
+                "tmdb_id": 90521,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in Reality Television",
+                "tmdb_id": 42910,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Documentary Film",
+                "tmdb_id": 1278112,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Documentary Film",
+                "tmdb_id": 1076708,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Documentary Film",
+                "tmdb_id": 1214457,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Documentary Film",
+                "tmdb_id": 1695067,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Documentary Film",
+                "tmdb_id": 1370580,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in a Docuseries",
+                "tmdb_id": 241771,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in a Docuseries",
+                "tmdb_id": 245243,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Docuseries",
+                "tmdb_id": 27336,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Docuseries",
+                "tmdb_id": 246072,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Docuseries",
+                "tmdb_id": 223518,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 1104171,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 971606,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 999890,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 959429,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 739547,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 1002626,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in a Television Comedy",
+                "tmdb_id": 157367,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Comedy",
+                "tmdb_id": 197449,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Comedy",
+                "tmdb_id": 130853,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Comedy",
+                "tmdb_id": 133727,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Comedy",
+                "tmdb_id": 258902,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in a Television Drama",
+                "tmdb_id": 46518,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Drama",
+                "tmdb_id": 240667,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Drama",
+                "tmdb_id": 129398,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Drama",
+                "tmdb_id": 241485,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Drama",
+                "tmdb_id": 241259,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in a Television Drama",
+                "tmdb_id": 106379,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 843527,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 1061699,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 1184918,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 1155828,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 718821,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 798612,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2024": [
+            {
+                "category": "Best Music Supervision in a Documentary Film",
+                "tmdb_id": 1116385,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Documentary Film",
+                "tmdb_id": 1053718,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in a Documentary Film",
+                "tmdb_id": 1180562,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Documentary Film",
+                "tmdb_id": 1096369,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Documentary Film",
+                "tmdb_id": 1088152,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Documentary Film",
+                "tmdb_id": 1132535,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Documentary Film",
+                "tmdb_id": 1073098,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Docuseries",
+                "tmdb_id": 201581,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Docuseries",
+                "tmdb_id": 228550,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Docuseries",
+                "tmdb_id": 231963,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Docuseries",
+                "tmdb_id": 126929,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in a Docuseries",
+                "tmdb_id": 226135,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 776098,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 1002315,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 1049638,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 936952,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 798021,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 974931,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 1002185,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 1170944,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Non-Theatrically Released Film",
+                "tmdb_id": 551806,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Drama",
+                "tmdb_id": 93544,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Drama",
+                "tmdb_id": 92628,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Drama",
+                "tmdb_id": 128904,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Drama",
+                "tmdb_id": 117488,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Drama",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Music Supervision in a Television Drama",
+                "tmdb_id": 130567,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Music Supervision in a Television Drama",
+                "tmdb_id": 89630,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 569094,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 986054,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 695721,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 346698,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 1171816,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 864168,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 974931,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 666277,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 898713,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Song Written and/or Recorded for a Film",
+                "tmdb_id": 346698,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ]
+    }
+}

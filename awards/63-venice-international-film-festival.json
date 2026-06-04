@@ -1,0 +1,438 @@
+{
+    "award_info": {
+        "tmdb_award_id": 63,
+        "imdb_award_id": "",
+        "name": "Venice International Film Festival",
+        "slug": "venice-international-film-festival",
+        "url": "https://www.themoviedb.org/award/63",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/zX5OKGdINL31dOIPumzlzjEDHNf.svg",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "Coppa Volpi per la migliore interpretazione femminile:",
+                "tmdb_id": 1569934,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Coppa Volpi per la migliore interpretazione maschile",
+                "tmdb_id": 72782,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Leone d'argento - Gran premio della giuria",
+                "tmdb_id": 1480382,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Leone d'argento - Premio per la migliore regia",
+                "tmdb_id": 760329,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 1159206,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 1397364,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 1291659,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 1069905,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 1480382,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 1290159,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 1329673,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 1438959,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 1430820,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 1168719,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 1401281,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 1291202,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 1276271,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 803208,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 1429348,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 639988,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 1457188,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 760329,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone d'oro per il miglior film",
+                "tmdb_id": 1357759,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Leone del futuro - Premio Venezia opera prima \"Luigi De Laurentiis\"",
+                "tmdb_id": 1394398,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Premio Marcello Mastroianni",
+                "tmdb_id": 1502016,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Premio Orizzonti per il miglior cortometraggio",
+                "tmdb_id": 1516312,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Premio Orizzonti per il miglior cortometraggio",
+                "tmdb_id": 1516313,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior cortometraggio",
+                "tmdb_id": 1516306,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior cortometraggio",
+                "tmdb_id": 1504153,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior cortometraggio",
+                "tmdb_id": 1515179,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior cortometraggio",
+                "tmdb_id": 1515183,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior cortometraggio",
+                "tmdb_id": 1516305,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior cortometraggio",
+                "tmdb_id": 1515178,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior cortometraggio",
+                "tmdb_id": 1515175,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior cortometraggio",
+                "tmdb_id": 1516303,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior cortometraggio",
+                "tmdb_id": 1516307,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior cortometraggio",
+                "tmdb_id": 1514661,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior cortometraggio",
+                "tmdb_id": 1514691,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior film",
+                "tmdb_id": 1517123,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Premio Orizzonti per il miglior film",
+                "tmdb_id": 1292123,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior film",
+                "tmdb_id": 1517062,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior film",
+                "tmdb_id": 794228,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior film",
+                "tmdb_id": 1339666,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior film",
+                "tmdb_id": 1025389,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior film",
+                "tmdb_id": 1517120,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior film",
+                "tmdb_id": 1000879,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior film",
+                "tmdb_id": 1399525,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior film",
+                "tmdb_id": 1285895,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior film",
+                "tmdb_id": 1517125,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior film",
+                "tmdb_id": 1517070,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior film",
+                "tmdb_id": 1516518,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior film",
+                "tmdb_id": 1517129,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior film",
+                "tmdb_id": 1442922,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior film",
+                "tmdb_id": 1418361,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior film",
+                "tmdb_id": 1310573,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior film",
+                "tmdb_id": 1319520,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per il miglior film",
+                "tmdb_id": 1517064,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Premio Orizzonti per la miglior interpretazione femminile",
+                "tmdb_id": 1822392,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Premio Orizzonti per la miglior interpretazione maschile",
+                "tmdb_id": 5599859,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Premio Orizzonti per la miglior regia",
+                "tmdb_id": 5579690,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Premio Orizzonti per la miglior sceneggiatura",
+                "tmdb_id": 1566064,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Premio al miglior documentario sul cinema",
+                "tmdb_id": 1517282,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Premio al miglior film restaurato",
+                "tmdb_id": 43980,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Premio per la migliore sceneggiatura:",
+                "tmdb_id": 19937,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Premio per la migliore sceneggiatura:",
+                "tmdb_id": 18176,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Premio speciale della giuria",
+                "tmdb_id": 1457188,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Premio speciale della giuria",
+                "tmdb_id": 1517120,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Venice Spotlight, Premio degli spettatori - Armani Beauty",
+                "tmdb_id": 1399462,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,618 @@
+{
+    "award_info": {
+        "tmdb_award_id": 40,
+        "imdb_award_id": "ev0000091",
+        "name": "Berlin International Film Festival",
+        "slug": "berlinale",
+        "url": "https://www.themoviedb.org/award/40",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/lmb5ovn73Xk25r0jlzzsce7VqAT.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1279548,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1119547,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1135582,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1001375,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1299061,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1378791,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1315657,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1299329,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1401106,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1426957,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1152312,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1177908,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1279865,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1527449,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1021848,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1176962,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1130948,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1376457,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1476362,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 884692,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1619820,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 964849,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Silberner Bär Großer Preis der Jury",
+                "tmdb_id": 1401106,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär Preis der Jury",
+                "tmdb_id": 1021848,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für das Beste Drehbuch",
+                "tmdb_id": 1500690,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Regie",
+                "tmdb_id": 84554,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Schauspielerische Leistung in einer Hauptrolle",
+                "tmdb_id": 7152,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Schauspielerische Leistung in einer Nebenrolle",
+                "tmdb_id": 14011,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für eine Herausragende Künstlerische Leistung",
+                "tmdb_id": 1168882,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ],
+        "2025": [
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1228682,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär Großer Preis der Jury",
+                "tmdb_id": 1172265,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär Preis der Jury",
+                "tmdb_id": 1339361,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für das Beste Drehbuch",
+                "tmdb_id": 588822,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Regie",
+                "tmdb_id": 2305455,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Schauspielerische Leistung in einer Hauptrolle",
+                "tmdb_id": 9827,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Schauspielerische Leistung in einer Nebenrolle",
+                "tmdb_id": 125660,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ],
+        "2024": [
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1101256,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär Großer Preis der Jury",
+                "tmdb_id": 1146410,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär Preis der Jury",
+                "tmdb_id": 929831,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für das Beste Drehbuch",
+                "tmdb_id": 61750,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Regie",
+                "tmdb_id": 1855531,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Schauspielerische Leistung in einer Hauptrolle",
+                "tmdb_id": 60898,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Schauspielerische Leistung in einer Nebenrolle",
+                "tmdb_id": 1639,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für eine Herausragende Künstlerische Leistung",
+                "tmdb_id": 28620,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ],
+        "2023": [
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 1070449,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär Großer Preis der Jury",
+                "tmdb_id": 900379,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär Preis der Jury",
+                "tmdb_id": 1077686,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für das Beste Drehbuch",
+                "tmdb_id": 40485,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Regie",
+                "tmdb_id": 56207,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Schauspielerische Leistung in einer Hauptrolle",
+                "tmdb_id": 3925017,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Schauspielerische Leistung in einer Nebenrolle",
+                "tmdb_id": 3846249,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für eine Herausragende Künstlerische Leistung",
+                "tmdb_id": 56289,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ],
+        "2022": [
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 804251,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär Großer Preis der Jury",
+                "tmdb_id": 928713,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär Preis der Jury",
+                "tmdb_id": 928718,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für das Beste Drehbuch",
+                "tmdb_id": 13734,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Regie",
+                "tmdb_id": 9888,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Schauspielerische Leistung in einer Hauptrolle",
+                "tmdb_id": 1962697,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Schauspielerische Leistung in einer Nebenrolle",
+                "tmdb_id": 1433802,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für eine Herausragende Künstlerische Leistung",
+                "tmdb_id": 129896,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ],
+        "2021": [
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 790496,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär Großer Preis der Jury",
+                "tmdb_id": 795811,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär Preis der Jury",
+                "tmdb_id": 795812,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für das Beste Drehbuch",
+                "tmdb_id": 150975,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Regie",
+                "tmdb_id": 1521847,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Schauspielerische Leistung in einer Hauptrolle",
+                "tmdb_id": 7827,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Schauspielerische Leistung in einer Nebenrolle",
+                "tmdb_id": 2973366,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für eine Herausragende Künstlerische Leistung",
+                "tmdb_id": 965309,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ],
+        "2020": [
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 667935,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär Großer Preis der Jury",
+                "tmdb_id": 595671,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär Preis der Jury",
+                "tmdb_id": 659699,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für das Beste Drehbuch",
+                "tmdb_id": 1664305,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für das Beste Drehbuch",
+                "tmdb_id": 1664304,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Regie",
+                "tmdb_id": 150975,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Schauspielerische Leistung in einer Hauptrolle",
+                "tmdb_id": 894116,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Schauspielerische Leistung in einer Nebenrolle",
+                "tmdb_id": 59269,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für eine Herausragende Künstlerische Leistung",
+                "tmdb_id": 5639,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ],
+        "2019": [
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 501590,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär Großer Preis der Jury",
+                "tmdb_id": 509364,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für das Beste Drehbuch",
+                "tmdb_id": 72767,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Regie",
+                "tmdb_id": 40485,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Schauspielerische Leistung in einer Hauptrolle",
+                "tmdb_id": 572086,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Schauspielerische Leistung in einer Nebenrolle",
+                "tmdb_id": 1288449,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für eine Herausragende Künstlerische Leistung",
+                "tmdb_id": 18830,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ],
+        "2018": [
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 499155,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär Großer Preis der Jury",
+                "tmdb_id": 444400,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär Preis der Jury",
+                "tmdb_id": 499152,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Regie",
+                "tmdb_id": 5655,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Schauspielerische Leistung in einer Hauptrolle",
+                "tmdb_id": 1961671,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ],
+        "2017": [
+            {
+                "category": "Goldener Bär für den Besten Film",
+                "tmdb_id": 436343,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär Großer Preis der Jury",
+                "tmdb_id": 436340,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär Preis der Jury",
+                "tmdb_id": 432799,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für das Beste Drehbuch",
+                "tmdb_id": 1142171,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Regie",
+                "tmdb_id": 16767,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Schauspielerische Leistung in einer Hauptrolle",
+                "tmdb_id": 123664,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für die Beste Schauspielerische Leistung in einer Nebenrolle",
+                "tmdb_id": 40526,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Silberner Bär für eine Herausragende Künstlerische Leistung",
+                "tmdb_id": 20700,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ]
+    }
+}

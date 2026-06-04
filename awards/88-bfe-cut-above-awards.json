@@ -1,0 +1,736 @@
+{
+    "award_info": {
+        "tmdb_award_id": 88,
+        "imdb_award_id": "",
+        "name": "BFE Cut Above Awards",
+        "slug": "bfe-cut-above-awards",
+        "url": "https://www.themoviedb.org/award/88",
+        "location": "",
+        "presenter": "",
+        "icon": "",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Best Edited British Documentary or Non-Fiction Programme",
+                "tmdb_id": 857800,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited British Documentary or Non-Fiction Programme",
+                "tmdb_id": 1486460,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited British Documentary or Non-Fiction Programme",
+                "tmdb_id": 1452541,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited British Documentary or Non-Fiction Programme",
+                "tmdb_id": 1448497,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited British Drama",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited British Drama",
+                "tmdb_id": 1317149,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited British Drama",
+                "tmdb_id": 1287141,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited British Drama",
+                "tmdb_id": 1122099,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited British Drama",
+                "tmdb_id": 1241436,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Current Affairs",
+                "tmdb_id": 1400789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Current Affairs",
+                "tmdb_id": 1275774,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Current Affairs",
+                "tmdb_id": 1320400,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Current Affairs",
+                "tmdb_id": 1452058,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Current Affairs",
+                "tmdb_id": 1486460,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Series: Animation",
+                "tmdb_id": 32726,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Series: Animation",
+                "tmdb_id": 228878,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Series: Animation",
+                "tmdb_id": 86831,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Series: Animation",
+                "tmdb_id": 291904,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Series: Drama",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Series: Drama",
+                "tmdb_id": 225171,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Series: Drama",
+                "tmdb_id": 95480,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Series: Drama",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single Animation",
+                "tmdb_id": 774370,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single Animation",
+                "tmdb_id": 1022787,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single Animation",
+                "tmdb_id": 803796,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Single Animation",
+                "tmdb_id": 1084242,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single Drama",
+                "tmdb_id": 911430,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single Drama",
+                "tmdb_id": 1317288,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single Drama",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Single Drama",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single: Documentary or Non-Fiction Programme",
+                "tmdb_id": 857800,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single: Documentary or Non-Fiction Programme",
+                "tmdb_id": 1516391,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single: Documentary or Non-Fiction Programme",
+                "tmdb_id": 1486460,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Single: Documentary or Non-Fiction Programme",
+                "tmdb_id": 1400782,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "​​​​Best Edited Series: Documentary or Non-Fiction Programme",
+                "tmdb_id": 262277,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "​​​​Best Edited Series: Documentary or Non-Fiction Programme",
+                "tmdb_id": 291431,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "​​​​Best Edited Series: Documentary or Non-Fiction Programme",
+                "tmdb_id": 87083,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "​​​​Best Edited Series: Documentary or Non-Fiction Programme",
+                "tmdb_id": 257945,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "​​​​​​Best Edited Series: Comedy",
+                "tmdb_id": 255355,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "​​​​​​Best Edited Series: Comedy",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "​​​​​​Best Edited Series: Comedy",
+                "tmdb_id": 308117,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "​​​​​​Best Edited Series: Comedy",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2025": [
+            {
+                "category": "Best Edited British Documentary or Non-Fiction Programme",
+                "tmdb_id": 1128559,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited British Documentary or Non-Fiction Programme",
+                "tmdb_id": 951022,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited British Documentary or Non-Fiction Programme",
+                "tmdb_id": 1234397,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited British Documentary or Non-Fiction Programme",
+                "tmdb_id": 1139072,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited British Drama",
+                "tmdb_id": 974576,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited British Drama",
+                "tmdb_id": 929590,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited British Drama",
+                "tmdb_id": 1180629,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited British Drama",
+                "tmdb_id": 516729,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Current Affairs",
+                "tmdb_id": 1259162,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Current Affairs",
+                "tmdb_id": 1359077,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Current Affairs",
+                "tmdb_id": 1307766,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Current Affairs",
+                "tmdb_id": 1263303,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Series: Animation",
+                "tmdb_id": 32726,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Series: Animation",
+                "tmdb_id": 94605,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Series: Animation",
+                "tmdb_id": 261579,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Series: Animation",
+                "tmdb_id": 138502,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Series: Drama",
+                "tmdb_id": 241259,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Series: Drama",
+                "tmdb_id": 94028,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Series: Drama",
+                "tmdb_id": 126308,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Series: Drama",
+                "tmdb_id": 95480,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single Animation",
+                "tmdb_id": 929204,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Single Animation",
+                "tmdb_id": 823219,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single Animation",
+                "tmdb_id": 1022789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single Animation",
+                "tmdb_id": 1184918,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single Drama",
+                "tmdb_id": 974576,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Single Drama",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single Drama",
+                "tmdb_id": 1180629,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single Drama",
+                "tmdb_id": 933260,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single: Documentary or Non-Fiction Programme",
+                "tmdb_id": 1128559,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Single: Documentary or Non-Fiction Programme",
+                "tmdb_id": 951022,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single: Documentary or Non-Fiction Programme",
+                "tmdb_id": 1234397,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single: Documentary or Non-Fiction Programme",
+                "tmdb_id": 1214506,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "​​​​Best Edited Series: Documentary or Non-Fiction Programme",
+                "tmdb_id": 215307,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "​​​​Best Edited Series: Documentary or Non-Fiction Programme",
+                "tmdb_id": 255212,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "​​​​Best Edited Series: Documentary or Non-Fiction Programme",
+                "tmdb_id": 244634,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "​​​​Best Edited Series: Documentary or Non-Fiction Programme",
+                "tmdb_id": 126929,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "​​​​​​Best Edited Series: Comedy",
+                "tmdb_id": 243360,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "​​​​​​Best Edited Series: Comedy",
+                "tmdb_id": 199318,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "​​​​​​Best Edited Series: Comedy",
+                "tmdb_id": 236235,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "​​​​​​Best Edited Series: Comedy",
+                "tmdb_id": 83631,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2024": [
+            {
+                "category": "Best Edited British Documentary or Non-Fiction Programme",
+                "tmdb_id": 1083055,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited British Documentary or Non-Fiction Programme",
+                "tmdb_id": 1128145,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited British Documentary or Non-Fiction Programme",
+                "tmdb_id": 1058647,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited British Drama",
+                "tmdb_id": 792307,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited British Drama",
+                "tmdb_id": 930564,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited British Drama",
+                "tmdb_id": 726759,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited British Drama",
+                "tmdb_id": 467244,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Current Affairs",
+                "tmdb_id": 1058616,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Current Affairs",
+                "tmdb_id": 1141641,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Series: Animation",
+                "tmdb_id": 225180,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Series: Animation",
+                "tmdb_id": 60625,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Series: Animation",
+                "tmdb_id": 155292,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Series: Animation",
+                "tmdb_id": 114478,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Series: Drama",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Series: Drama",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Series: Drama",
+                "tmdb_id": 95480,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Series: Drama",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single Animation",
+                "tmdb_id": 520758,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single Animation",
+                "tmdb_id": 976573,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single Animation",
+                "tmdb_id": 569094,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Single Animation",
+                "tmdb_id": 508883,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single Drama",
+                "tmdb_id": 872585,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Single Drama",
+                "tmdb_id": 666277,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single Drama",
+                "tmdb_id": 792307,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single Drama",
+                "tmdb_id": 930564,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single: Documentary or Non-Fiction Programme",
+                "tmdb_id": 1058616,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single: Documentary or Non-Fiction Programme",
+                "tmdb_id": 1058699,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Single: Documentary or Non-Fiction Programme",
+                "tmdb_id": 1058647,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single: Documentary or Non-Fiction Programme",
+                "tmdb_id": 1128145,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "​​​​Best Edited Series: Documentary or Non-Fiction Programme",
+                "tmdb_id": 235345,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "​​​​Best Edited Series: Documentary or Non-Fiction Programme",
+                "tmdb_id": 213113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "​​​​Best Edited Series: Documentary or Non-Fiction Programme",
+                "tmdb_id": 226328,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "​​​​Best Edited Series: Documentary or Non-Fiction Programme",
+                "tmdb_id": 220499,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "​​​​​​Best Edited Series: Comedy",
+                "tmdb_id": 83631,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "​​​​​​Best Edited Series: Comedy",
+                "tmdb_id": 70796,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "​​​​​​Best Edited Series: Comedy",
+                "tmdb_id": 97546,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "​​​​​​Best Edited Series: Comedy",
+                "tmdb_id": 47907,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ]
+    }
+}

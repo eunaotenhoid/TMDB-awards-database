@@ -1,0 +1,1800 @@
+{
+    "award_info": {
+        "tmdb_award_id": 83,
+        "imdb_award_id": "",
+        "name": "Creative Arts Emmy Awards",
+        "slug": "creative-arts-emmy-awards",
+        "url": "https://www.themoviedb.org/award/83",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/7ja4PommEhllV22jyDQUif5gXcg.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "Exceptional Merit in Documentary Filmmaking",
+                "tmdb_id": 879805,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Exceptional Merit in Documentary Filmmaking",
+                "tmdb_id": 1326895,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Exceptional Merit in Documentary Filmmaking",
+                "tmdb_id": 1167027,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Animated Program",
+                "tmdb_id": 94605,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 136311,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 250307,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 95480,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Limited or Anthology Series or Movie",
+                "tmdb_id": 249042,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Casting for a Limited or Anthology Series or Movie",
+                "tmdb_id": 42009,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Limited or Anthology Series or Movie",
+                "tmdb_id": 241405,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Limited or Anthology Series or Movie",
+                "tmdb_id": 225634,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Limited or Anthology Series or Movie",
+                "tmdb_id": 194764,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Character Voice-Over Performance",
+                "tmdb_id": 5823,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Character Voice-Over Performance",
+                "tmdb_id": 5587,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Character Voice-Over Performance",
+                "tmdb_id": 52792,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Character Voice-Over Performance",
+                "tmdb_id": 21088,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Character Voice-Over Performance",
+                "tmdb_id": 2954,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Character Voice-Over Performance",
+                "tmdb_id": 215055,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Contemporary Costumes for a Series",
+                "tmdb_id": 82596,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Contemporary Costumes for a Series",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Contemporary Costumes for a Series",
+                "tmdb_id": 82782,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Contemporary Costumes for a Series",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Contemporary Costumes for a Series",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 62391,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 121481,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 254930,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 279299,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 258898,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Comedy Series",
+                "tmdb_id": 19498,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Comedy Series",
+                "tmdb_id": 17419,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Guest Actor in a Comedy Series",
+                "tmdb_id": 54697,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Comedy Series",
+                "tmdb_id": 6159,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Comedy Series",
+                "tmdb_id": 53650,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Comedy Series",
+                "tmdb_id": 1032,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Drama Series",
+                "tmdb_id": 4808,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Drama Series",
+                "tmdb_id": 349,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Drama Series",
+                "tmdb_id": 52647,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Guest Actor in a Drama Series",
+                "tmdb_id": 532,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Drama Series",
+                "tmdb_id": 2178,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Drama Series",
+                "tmdb_id": 2954,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Comedy Series",
+                "tmdb_id": 39187,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Comedy Series",
+                "tmdb_id": 8944,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Comedy Series",
+                "tmdb_id": 1765068,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Comedy Series",
+                "tmdb_id": 3042851,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Comedy Series",
+                "tmdb_id": 37153,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Comedy Series",
+                "tmdb_id": 86034,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Guest Actress in a Drama Series",
+                "tmdb_id": 13724,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Drama Series",
+                "tmdb_id": 1011904,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Drama Series",
+                "tmdb_id": 481337,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Drama Series",
+                "tmdb_id": 1956,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Drama Series",
+                "tmdb_id": 11514,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Drama Series",
+                "tmdb_id": 28044,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Host for a Game Show",
+                "tmdb_id": 9281,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Game Show",
+                "tmdb_id": 82587,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Game Show",
+                "tmdb_id": 1218568,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Game Show",
+                "tmdb_id": 1226277,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Game Show",
+                "tmdb_id": 78303,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Host for a Reality or Competition Program",
+                "tmdb_id": 8514,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Reality or Competition Program",
+                "tmdb_id": 30703,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Reality or Competition Program",
+                "tmdb_id": 215943,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Host for a Reality or Competition Program",
+                "tmdb_id": 41822,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Reality or Competition Program",
+                "tmdb_id": 14658,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Individual Achievement in Animation",
+                "tmdb_id": 94605,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Individual Achievement in Animation",
+                "tmdb_id": 94605,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Individual Achievement in Animation",
+                "tmdb_id": 86831,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Individual Achievement in Animation",
+                "tmdb_id": 86831,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Individual Achievement in Animation",
+                "tmdb_id": 86831,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Individual Achievement in Animation",
+                "tmdb_id": 86831,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 197373,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 77169,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Supervision",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Supervision",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Supervision",
+                "tmdb_id": 82782,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Supervision",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Supervision",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Music Supervision",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Main Title Theme Music",
+                "tmdb_id": 245703,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Main Title Theme Music",
+                "tmdb_id": 90228,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Main Title Theme Music",
+                "tmdb_id": 231003,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Main Title Theme Music",
+                "tmdb_id": 242054,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Main Title Theme Music",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Main Title Theme Music",
+                "tmdb_id": 241609,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 1272149,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 950396,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 1417059,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 1151039,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 646097,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2024": [
+            {
+                "category": "Exceptional Merit in Documentary Filmmaking",
+                "tmdb_id": 913821,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Exceptional Merit in Documentary Filmmaking",
+                "tmdb_id": 913860,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Exceptional Merit in Documentary Filmmaking",
+                "tmdb_id": 913849,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Exceptional Merit in Documentary Filmmaking",
+                "tmdb_id": 676456,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 222023,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 97546,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 199318,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 117488,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Limited or Anthology Series or Movie",
+                "tmdb_id": 154385,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Casting for a Limited or Anthology Series or Movie",
+                "tmdb_id": 113988,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Limited or Anthology Series or Movie",
+                "tmdb_id": 95555,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Limited or Anthology Series or Movie",
+                "tmdb_id": 156401,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Character Voice-Over Performance",
+                "tmdb_id": 5823,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Character Voice-Over Performance",
+                "tmdb_id": 24357,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Character Voice-Over Performance",
+                "tmdb_id": 14639,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Character Voice-Over Performance",
+                "tmdb_id": 52792,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Character Voice-Over Performance",
+                "tmdb_id": 27102,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Character Voice-Over Performance",
+                "tmdb_id": 591835,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 201581,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 121481,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 157199,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 216429,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 204165,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Comedy Series",
+                "tmdb_id": 19498,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Comedy Series",
+                "tmdb_id": 7002,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Comedy Series",
+                "tmdb_id": 78729,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Comedy Series",
+                "tmdb_id": 1253360,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Comedy Series",
+                "tmdb_id": 17485,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Comedy Series",
+                "tmdb_id": 1429453,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Guest Actor in a Drama Series",
+                "tmdb_id": 152416,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Drama Series",
+                "tmdb_id": 2505,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Drama Series",
+                "tmdb_id": 1397605,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Drama Series",
+                "tmdb_id": 457386,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Drama Series",
+                "tmdb_id": 17039,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Guest Actor in a Drama Series",
+                "tmdb_id": 3907669,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Comedy Series",
+                "tmdb_id": 59206,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Comedy Series",
+                "tmdb_id": 1745988,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Comedy Series",
+                "tmdb_id": 40036,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Comedy Series",
+                "tmdb_id": 80415,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Guest Actress in a Comedy Series",
+                "tmdb_id": 65447,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Comedy Series",
+                "tmdb_id": 17477,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Drama Series",
+                "tmdb_id": 765,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Drama Series",
+                "tmdb_id": 1956,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Drama Series",
+                "tmdb_id": 15091,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Drama Series",
+                "tmdb_id": 1344344,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Guest Actress in a Drama Series",
+                "tmdb_id": 30084,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Drama Series",
+                "tmdb_id": 17477,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Game Show",
+                "tmdb_id": 167640,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Game Show",
+                "tmdb_id": 82587,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Game Show",
+                "tmdb_id": 1218568,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Game Show",
+                "tmdb_id": 74688,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Host for a Game Show",
+                "tmdb_id": 1224503,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Reality or Competition Program",
+                "tmdb_id": 76922,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Reality or Competition Program",
+                "tmdb_id": 77791,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Reality or Competition Program",
+                "tmdb_id": 41822,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Reality or Competition Program",
+                "tmdb_id": 139004,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Reality or Competition Program",
+                "tmdb_id": 8514,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 119051,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Main Title Theme Music",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Main Title Theme Music",
+                "tmdb_id": 83659,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Main Title Theme Music",
+                "tmdb_id": 84773,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Main Title Theme Music",
+                "tmdb_id": 92782,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Main Title Theme Music",
+                "tmdb_id": 119051,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 60059,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 1044116,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 846250,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 642885,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 766507,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 928344,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2022": [
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 73107,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 4546,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 97546,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 85552,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 69740,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 66732,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 117488,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Limited or Anthology Series or Movie",
+                "tmdb_id": 110695,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Limited or Anthology Series or Movie",
+                "tmdb_id": 122066,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Limited or Anthology Series or Movie",
+                "tmdb_id": 95665,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Limited or Anthology Series or Movie",
+                "tmdb_id": 114925,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Limited or Anthology Series or Movie",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 158233,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 128876,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 155094,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 121481,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 153742,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Comedy Series",
+                "tmdb_id": 1400880,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Comedy Series",
+                "tmdb_id": 19278,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Comedy Series",
+                "tmdb_id": 19775,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Comedy Series",
+                "tmdb_id": 78729,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Guest Actor in a Comedy Series",
+                "tmdb_id": 4443,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Comedy Series",
+                "tmdb_id": 1429453,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Drama Series",
+                "tmdb_id": 3490,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Drama Series",
+                "tmdb_id": 2505,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Drama Series",
+                "tmdb_id": 91671,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Guest Actor in a Drama Series",
+                "tmdb_id": 457386,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Drama Series",
+                "tmdb_id": 207442,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actor in a Drama Series",
+                "tmdb_id": 28846,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Comedy Series",
+                "tmdb_id": 209,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Comedy Series",
+                "tmdb_id": 538,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Comedy Series",
+                "tmdb_id": 43775,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Comedy Series",
+                "tmdb_id": 12133,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Guest Actress in a Comedy Series",
+                "tmdb_id": 95102,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Comedy Series",
+                "tmdb_id": 17477,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Drama Series",
+                "tmdb_id": 15250,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Drama Series",
+                "tmdb_id": 4726,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Drama Series",
+                "tmdb_id": 1572541,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Drama Series",
+                "tmdb_id": 5411,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Drama Series",
+                "tmdb_id": 17477,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Guest Actress in a Drama Series",
+                "tmdb_id": 1985557,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Host for a Reality or Competition Program",
+                "tmdb_id": 76922,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Reality or Competition Program",
+                "tmdb_id": 77791,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Reality or Competition Program",
+                "tmdb_id": 30703,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Reality or Competition Program",
+                "tmdb_id": 41822,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Reality or Competition Program",
+                "tmdb_id": 74040,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Host for a Reality or Competition Program",
+                "tmdb_id": 8514,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 93287,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 84958,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 98892,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Main Title Theme Music",
+                "tmdb_id": 84958,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Main Title Theme Music",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Main Title Theme Music",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Main Title Theme Music",
+                "tmdb_id": 93405,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Main Title Theme Music",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 85552,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 93405,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 66732,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Picture Editing for a Drama Series",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 420821,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 800425,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 899599,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 606870,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 872130,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2021": [
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 85702,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 97546,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 93287,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Comedy Series",
+                "tmdb_id": 81290,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 91239,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 82816,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 69478,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Drama Series",
+                "tmdb_id": 82856,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Limited or Anthology Series or Movie",
+                "tmdb_id": 80039,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Limited or Anthology Series or Movie",
+                "tmdb_id": 102619,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Limited or Anthology Series or Movie",
+                "tmdb_id": 115004,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Casting for a Limited or Anthology Series or Movie",
+                "tmdb_id": 87739,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Casting for a Limited or Anthology Series or Movie",
+                "tmdb_id": 85271,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 118321,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 15069,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 112026,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 115497,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Documentary or Nonfiction Series",
+                "tmdb_id": 106899,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 91239,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 82816,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 69478,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 82856,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "tmdb_id": 67136,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 747349,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 553087,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 729766,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 584288,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Television Movie",
+                "tmdb_id": 634544,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ]
+    }
+}

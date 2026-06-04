@@ -1,0 +1,770 @@
+{
+    "award_info": {
+        "tmdb_award_id": 58,
+        "imdb_award_id": "",
+        "name": "Critics Choice Real TV Awards",
+        "slug": "critics-choice-real-tv-awards",
+        "url": "https://www.themoviedb.org/award/58",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/qBMqbrklEPGKYbq3PoAV1dUOGmK.svg",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "Best Animal/Nature Show",
+                "tmdb_id": 246212,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animal/Nature Show",
+                "tmdb_id": 247293,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animal/Nature Show",
+                "tmdb_id": 14951,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animal/Nature Show",
+                "tmdb_id": 118477,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animal/Nature Show",
+                "tmdb_id": 271144,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animal/Nature Show",
+                "tmdb_id": 276501,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Business Show",
+                "tmdb_id": 44470,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Business Show",
+                "tmdb_id": 244102,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Business Show",
+                "tmdb_id": 223663,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Business Show",
+                "tmdb_id": 235884,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Business Show",
+                "tmdb_id": 30703,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Business Show",
+                "tmdb_id": 282025,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series",
+                "tmdb_id": 261318,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series",
+                "tmdb_id": 8514,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series",
+                "tmdb_id": 261802,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series",
+                "tmdb_id": 14658,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series",
+                "tmdb_id": 41822,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series",
+                "tmdb_id": 215943,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Competition Series: Talent/Variety",
+                "tmdb_id": 4551,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series: Talent/Variety",
+                "tmdb_id": 80079,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series: Talent/Variety",
+                "tmdb_id": 1508,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Competition Series: Talent/Variety",
+                "tmdb_id": 261729,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series: Talent/Variety",
+                "tmdb_id": 261732,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series: Talent/Variety",
+                "tmdb_id": 37678,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Crime/Justice Show",
+                "tmdb_id": 226706,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Crime/Justice Show",
+                "tmdb_id": 5146,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Crime/Justice Show",
+                "tmdb_id": 283252,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Crime/Justice Show",
+                "tmdb_id": 280685,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Crime/Justice Show",
+                "tmdb_id": 273939,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Crime/Justice Show",
+                "tmdb_id": 280977,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Culinary Show",
+                "tmdb_id": 196912,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Culinary Show",
+                "tmdb_id": 92371,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Culinary Show",
+                "tmdb_id": 87012,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Culinary Show",
+                "tmdb_id": 254514,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Culinary Show",
+                "tmdb_id": 275144,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Culinary Show",
+                "tmdb_id": 41822,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ensemble Cast in an Unscripted Series",
+                "tmdb_id": 211201,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ensemble Cast in an Unscripted Series",
+                "tmdb_id": 205491,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ensemble Cast in an Unscripted Series",
+                "tmdb_id": 1508,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ensemble Cast in an Unscripted Series",
+                "tmdb_id": 110381,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ensemble Cast in an Unscripted Series",
+                "tmdb_id": 41822,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ensemble Cast in an Unscripted Series",
+                "tmdb_id": 215943,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Game Show",
+                "tmdb_id": 82108,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Game Show",
+                "tmdb_id": 231730,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Game Show",
+                "tmdb_id": 62595,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Game Show",
+                "tmdb_id": 2912,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Game Show",
+                "tmdb_id": 90266,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Game Show",
+                "tmdb_id": 111776,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lifestyle Show: Fashion/Beauty",
+                "tmdb_id": 255037,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lifestyle Show: Fashion/Beauty",
+                "tmdb_id": 76922,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lifestyle Show: Fashion/Beauty",
+                "tmdb_id": 8514,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Lifestyle Show: Fashion/Beauty",
+                "tmdb_id": 67482,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lifestyle Show: Fashion/Beauty",
+                "tmdb_id": 31306,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lifestyle Show: Fashion/Beauty",
+                "tmdb_id": 262821,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lifestyle Show: Home/Garden",
+                "tmdb_id": 124386,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lifestyle Show: Home/Garden",
+                "tmdb_id": 248949,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Lifestyle Show: Home/Garden",
+                "tmdb_id": 75534,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lifestyle Show: Home/Garden",
+                "tmdb_id": 273187,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lifestyle Show: Home/Garden",
+                "tmdb_id": 246922,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Lifestyle Show: Home/Garden",
+                "tmdb_id": 94702,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Limited Series",
+                "tmdb_id": 255293,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Series",
+                "tmdb_id": 252130,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Series",
+                "tmdb_id": 285084,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Series",
+                "tmdb_id": 254930,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Series",
+                "tmdb_id": 241569,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Limited Series",
+                "tmdb_id": 262194,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Relationship Show",
+                "tmdb_id": 218410,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Relationship Show",
+                "tmdb_id": 254444,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Relationship Show",
+                "tmdb_id": 277010,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Relationship Show",
+                "tmdb_id": 99353,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Relationship Show",
+                "tmdb_id": 200731,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Relationship Show",
+                "tmdb_id": 261319,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Show Host",
+                "tmdb_id": 76996,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Show Host",
+                "tmdb_id": 53256,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Show Host",
+                "tmdb_id": 10697,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Show Host",
+                "tmdb_id": 1226277,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Show Host",
+                "tmdb_id": 1497743,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Show Host",
+                "tmdb_id": 43896,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sports Show",
+                "tmdb_id": 31677,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sports Show",
+                "tmdb_id": 12940,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sports Show",
+                "tmdb_id": 226705,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sports Show",
+                "tmdb_id": 1902,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sports Show",
+                "tmdb_id": 126929,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Structured Series",
+                "tmdb_id": 91820,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Structured Series",
+                "tmdb_id": 4086,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Structured Series",
+                "tmdb_id": 288471,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Structured Series",
+                "tmdb_id": 225438,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Structured Series",
+                "tmdb_id": 282756,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Structured Series",
+                "tmdb_id": 76922,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Travel/Adventure Show",
+                "tmdb_id": 226698,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Travel/Adventure Show",
+                "tmdb_id": 61833,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Travel/Adventure Show",
+                "tmdb_id": 257714,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Travel/Adventure Show",
+                "tmdb_id": 33665,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Travel/Adventure Show",
+                "tmdb_id": 262594,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Travel/Adventure Show",
+                "tmdb_id": 282756,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Unstructured Series",
+                "tmdb_id": 252257,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Unstructured Series",
+                "tmdb_id": 125506,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Unstructured Series",
+                "tmdb_id": 200731,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Unstructured Series",
+                "tmdb_id": 58832,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Unstructured Series",
+                "tmdb_id": 110381,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Unstructured Series",
+                "tmdb_id": 261102,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Female Star of the Year",
+                "tmdb_id": 1332217,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Female Star of the Year",
+                "tmdb_id": 1236692,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Female Star of the Year",
+                "tmdb_id": 143240,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Female Star of the Year",
+                "tmdb_id": 2087852,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Female Star of the Year",
+                "tmdb_id": 1562323,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Female Star of the Year",
+                "tmdb_id": 3611343,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Male Star of the Year",
+                "tmdb_id": 76996,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Male Star of the Year",
+                "tmdb_id": 10697,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Male Star of the Year",
+                "tmdb_id": 2752495,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Male Star of the Year",
+                "tmdb_id": 4900157,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Male Star of the Year",
+                "tmdb_id": 1974386,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Male Star of the Year",
+                "tmdb_id": 2283,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2024": [
+            {
+                "category": "Best Competition Series",
+                "tmdb_id": 30957,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series",
+                "tmdb_id": 8514,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series",
+                "tmdb_id": 204082,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series",
+                "tmdb_id": 14658,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series",
+                "tmdb_id": 41822,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series",
+                "tmdb_id": 215943,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Competition Series: Talent/Variety",
+                "tmdb_id": 80079,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series: Talent/Variety",
+                "tmdb_id": 4551,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series: Talent/Variety",
+                "tmdb_id": 1508,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series: Talent/Variety",
+                "tmdb_id": 84910,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series: Talent/Variety",
+                "tmdb_id": 3976,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Competition Series: Talent/Variety",
+                "tmdb_id": 37678,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ]
+    }
+}

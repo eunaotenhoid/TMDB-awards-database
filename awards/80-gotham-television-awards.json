@@ -1,0 +1,988 @@
+{
+    "award_info": {
+        "tmdb_award_id": 80,
+        "imdb_award_id": "",
+        "name": "Gotham Television Awards",
+        "slug": "gotham-television-awards",
+        "url": "https://www.themoviedb.org/award/80",
+        "location": ",         Cipriani Wall Street,         New York City, New York,",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/gT57So5UJm6WVsYw34whLVbdpww.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Breakthrough Comedy Series",
+                "tmdb_id": 291506,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Comedy Series",
+                "tmdb_id": 271267,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Comedy Series",
+                "tmdb_id": 271053,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Comedy Series",
+                "tmdb_id": 262375,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Comedy Series",
+                "tmdb_id": 241361,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Drama Series",
+                "tmdb_id": 224372,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Drama Series",
+                "tmdb_id": 157239,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Drama Series",
+                "tmdb_id": 245703,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Drama Series",
+                "tmdb_id": 225171,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Drama Series",
+                "tmdb_id": 228305,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 304995,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 283354,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 292130,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 255251,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 277831,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Comedy Series",
+                "tmdb_id": 18050,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Comedy Series",
+                "tmdb_id": 1392152,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Comedy Series",
+                "tmdb_id": 2050577,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Comedy Series",
+                "tmdb_id": 1500059,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Comedy Series",
+                "tmdb_id": 1976054,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Drama Series",
+                "tmdb_id": 50463,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Drama Series",
+                "tmdb_id": 2754753,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Drama Series",
+                "tmdb_id": 3874310,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Drama Series",
+                "tmdb_id": 3914706,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Drama Series",
+                "tmdb_id": 62765,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Limited or Anthology Series",
+                "tmdb_id": 53240,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Limited or Anthology Series",
+                "tmdb_id": 478,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Limited or Anthology Series",
+                "tmdb_id": 15576,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Limited or Anthology Series",
+                "tmdb_id": 36662,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Limited or Anthology Series",
+                "tmdb_id": 2286541,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Limited or Anthology Series",
+                "tmdb_id": 1136940,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Limited or Anthology Series",
+                "tmdb_id": 335,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 154385,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 245219,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 206828,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 257994,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 270572,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Film, Broadcast or Streaming",
+                "tmdb_id": 1573688,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Film, Broadcast or Streaming",
+                "tmdb_id": 1034716,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Film, Broadcast or Streaming",
+                "tmdb_id": 1013446,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Film, Broadcast or Streaming",
+                "tmdb_id": 1330021,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Film, Broadcast or Streaming",
+                "tmdb_id": 1616400,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in an Original Film",
+                "tmdb_id": 35,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in an Original Film",
+                "tmdb_id": 19,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in an Original Film",
+                "tmdb_id": 2458589,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in an Original Film",
+                "tmdb_id": 71490,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in an Original Film",
+                "tmdb_id": 1367617,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Comedy Series",
+                "tmdb_id": 1972166,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Comedy Series",
+                "tmdb_id": 33655,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Comedy Series",
+                "tmdb_id": 12133,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Comedy Series",
+                "tmdb_id": 1160,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Comedy Series",
+                "tmdb_id": 10980,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Comedy Series",
+                "tmdb_id": 1286328,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Drama Series",
+                "tmdb_id": 3568188,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Drama Series",
+                "tmdb_id": 41044,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Drama Series",
+                "tmdb_id": 58225,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Drama Series",
+                "tmdb_id": 207442,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Drama Series",
+                "tmdb_id": 210829,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Limited or Anthology Series",
+                "tmdb_id": 1817,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Limited or Anthology Series",
+                "tmdb_id": 35029,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Limited or Anthology Series",
+                "tmdb_id": 4925207,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Limited or Anthology Series",
+                "tmdb_id": 17039,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Limited or Anthology Series",
+                "tmdb_id": 1683343,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2025": [
+            {
+                "category": "Breakthrough Comedy Series",
+                "tmdb_id": 218510,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Comedy Series",
+                "tmdb_id": 258902,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Comedy Series",
+                "tmdb_id": 253254,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Comedy Series",
+                "tmdb_id": 247619,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Comedy Series",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Drama Series",
+                "tmdb_id": 225385,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Drama Series",
+                "tmdb_id": 248394,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Drama Series",
+                "tmdb_id": 226174,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Drama Series",
+                "tmdb_id": 207333,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Drama Series",
+                "tmdb_id": 250307,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 241601,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 252548,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 157434,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 245929,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 258898,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Lead Performance in a Comedy Series",
+                "tmdb_id": 12836,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Comedy Series",
+                "tmdb_id": 2307481,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Comedy Series",
+                "tmdb_id": 2889306,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Comedy Series",
+                "tmdb_id": 2949606,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Comedy Series",
+                "tmdb_id": 1659144,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Lead Performance in a Drama Series",
+                "tmdb_id": 8534,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Lead Performance in a Drama Series",
+                "tmdb_id": 1225953,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Drama Series",
+                "tmdb_id": 83860,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Drama Series",
+                "tmdb_id": 1909534,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Drama Series",
+                "tmdb_id": 13526,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Limited or Anthology Series",
+                "tmdb_id": 1115,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Lead Performance in a Limited or Anthology Series",
+                "tmdb_id": 226366,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Limited or Anthology Series",
+                "tmdb_id": 204392,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Limited or Anthology Series",
+                "tmdb_id": 2569318,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance in a Limited or Anthology Series",
+                "tmdb_id": 1812,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 249042,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 241405,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 201646,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 241773,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 245256,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Film, Broadcast or Streaming",
+                "tmdb_id": 1272149,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Film, Broadcast or Streaming",
+                "tmdb_id": 1421461,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Film, Broadcast or Streaming",
+                "tmdb_id": 646097,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Film, Broadcast or Streaming",
+                "tmdb_id": 847692,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in an Original Film",
+                "tmdb_id": 53923,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in an Original Film",
+                "tmdb_id": 527393,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in an Original Film",
+                "tmdb_id": 1763709,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Performance in an Original Film",
+                "tmdb_id": 3536568,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in an Original Film",
+                "tmdb_id": 9137,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Comedy Series",
+                "tmdb_id": 428440,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Comedy Series",
+                "tmdb_id": 113223,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Comedy Series",
+                "tmdb_id": 1334289,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Comedy Series",
+                "tmdb_id": 1181329,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Comedy Series",
+                "tmdb_id": 2420169,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Drama Series",
+                "tmdb_id": 169337,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Drama Series",
+                "tmdb_id": 11006,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Drama Series",
+                "tmdb_id": 1490498,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Drama Series",
+                "tmdb_id": 17064,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Drama Series",
+                "tmdb_id": 11616,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Limited or Anthology Series",
+                "tmdb_id": 5225942,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Limited or Anthology Series",
+                "tmdb_id": 2121856,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Limited or Anthology Series",
+                "tmdb_id": 40036,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Limited or Anthology Series",
+                "tmdb_id": 8688,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance in a Limited or Anthology Series",
+                "tmdb_id": 213001,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ],
+        "2024": [
+            {
+                "category": "Breakthrough Comedy Series",
+                "tmdb_id": 241257,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Comedy Series",
+                "tmdb_id": 203614,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Comedy Series",
+                "tmdb_id": 205715,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Drama Series",
+                "tmdb_id": 230225,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Drama Series",
+                "tmdb_id": 106379,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Drama Series",
+                "tmdb_id": 118642,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Drama Series",
+                "tmdb_id": 114655,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Drama Series",
+                "tmdb_id": 138502,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 230562,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 241071,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 213609,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 238986,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 245901,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 241259,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 94028,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 129398,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 126308,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 211358,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a Comedy Series",
+                "tmdb_id": 2256311,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a Comedy Series",
+                "tmdb_id": 1168778,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a Comedy Series",
+                "tmdb_id": 1539693,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Performance in a Comedy Series",
+                "tmdb_id": 115150,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a Comedy Series",
+                "tmdb_id": 1449596,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a Comedy Series",
+                "tmdb_id": 41091,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a Drama Series",
+                "tmdb_id": 1212667,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a Drama Series",
+                "tmdb_id": 27740,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a Drama Series",
+                "tmdb_id": 3184532,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a Drama Series",
+                "tmdb_id": 54693,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a Drama Series",
+                "tmdb_id": 4186627,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Performance in a Limited Series",
+                "tmdb_id": 1434487,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a Limited Series",
+                "tmdb_id": 125660,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Performance in a Limited Series",
+                "tmdb_id": 1687377,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a Limited Series",
+                "tmdb_id": 2983147,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a Limited Series",
+                "tmdb_id": 1547839,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a Limited Series",
+                "tmdb_id": 1183917,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a Limited Series",
+                "tmdb_id": 3411764,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a Limited Series",
+                "tmdb_id": 10920,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a Limited Series",
+                "tmdb_id": 127558,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a Limited Series",
+                "tmdb_id": 9195,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ]
+    }
+}

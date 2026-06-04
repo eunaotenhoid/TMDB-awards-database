@@ -1,0 +1,1360 @@
+{
+    "award_info": {
+        "tmdb_award_id": 44,
+        "imdb_award_id": "",
+        "name": "ACE Eddie Awards",
+        "slug": "ace-eddie-awards",
+        "url": "https://www.themoviedb.org/award/44",
+        "location": ",         Royce Hall,         Los Angeles, California,",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/ic9wMbDMqaQ9ctErMI8yxME3Ga.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 1175942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 803796,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 1084242,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Series",
+                "tmdb_id": 32726,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Series",
+                "tmdb_id": 86831,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Series",
+                "tmdb_id": 2190,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 857800,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 1400381,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 1492608,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 1421461,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 1400782,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Documentary Series",
+                "tmdb_id": 298234,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Series",
+                "tmdb_id": 287967,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Series",
+                "tmdb_id": 292130,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Series",
+                "tmdb_id": 255251,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Series",
+                "tmdb_id": 277685,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Drama Series",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Drama Series",
+                "tmdb_id": 250307,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Drama Series",
+                "tmdb_id": 225171,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Drama Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Drama Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 1317288,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 812583,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 911430,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 1124566,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 1078605,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Non-Theatrical)",
+                "tmdb_id": 950396,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Non-Theatrical)",
+                "tmdb_id": 1417059,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Non-Theatrical)",
+                "tmdb_id": 744653,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Non-Theatrical)",
+                "tmdb_id": 1437217,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Limited Series",
+                "tmdb_id": 250504,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Limited Series",
+                "tmdb_id": 42009,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Limited Series",
+                "tmdb_id": 245219,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Limited Series",
+                "tmdb_id": 241405,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Limited Series",
+                "tmdb_id": 194764,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Multi-Camera Comedy Series",
+                "tmdb_id": 195241,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Multi-Camera Comedy Series",
+                "tmdb_id": 261363,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Multi-Camera Comedy Series",
+                "tmdb_id": 121509,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Reality Series",
+                "tmdb_id": 226698,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Reality Series",
+                "tmdb_id": 200731,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Reality Series",
+                "tmdb_id": 215943,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Short",
+                "tmdb_id": 1525091,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Short",
+                "tmdb_id": 1325198,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Short",
+                "tmdb_id": 1496074,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Short",
+                "tmdb_id": 1293563,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Short",
+                "tmdb_id": 1326713,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single-Camera Comedy Series",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single-Camera Comedy Series",
+                "tmdb_id": 271267,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single-Camera Comedy Series",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single-Camera Comedy Series",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Single-Camera Comedy Series",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2025": [
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 823219,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 1022789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 1241982,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 929204,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 1184918,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 1371146,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 1059433,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 1273196,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 1128559,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 1214506,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 1064213,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 937287,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 1013850,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 933260,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 402431,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 929590,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 974576,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 974950,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 786892,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Non-Theatrical)",
+                "tmdb_id": 641934,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Non-Theatrical)",
+                "tmdb_id": 359410,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Non-Theatrical)",
+                "tmdb_id": 844185,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2024": [
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 976573,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 961323,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 569094,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 502356,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 614930,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Series",
+                "tmdb_id": 138502,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 1058616,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 1171816,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 1075815,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 1053718,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 1058699,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 964980,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 1056360,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 346698,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 840430,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 792307,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 915935,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 466420,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 523607,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 872585,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 666277,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Non-Theatrical)",
+                "tmdb_id": 985617,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Non-Theatrical)",
+                "tmdb_id": 626332,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2023": [
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 629542,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 555604,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 869626,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 315162,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 508947,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 1004663,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 913823,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 972545,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 957457,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 926676,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 674324,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 545611,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 661374,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 593643,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 497828,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 49046,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 614934,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 817758,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 361743,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 724495,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Non-Theatrical)",
+                "tmdb_id": 846250,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Non-Theatrical)",
+                "tmdb_id": 642885,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Non-Theatrical)",
+                "tmdb_id": 921643,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Non-Theatrical)",
+                "tmdb_id": 766507,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Non-Theatrical)",
+                "tmdb_id": 928344,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2022": [
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 568124,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 508943,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 501929,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 527774,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 438695,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 680813,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 680058,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 776527,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 834027,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 543836,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 337404,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 646380,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 542178,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 718032,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 537116,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 777270,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 438631,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 614917,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 370172,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 600583,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Non-Theatrical)",
+                "tmdb_id": 597891,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Non-Theatrical)",
+                "tmdb_id": 675045,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Non-Theatrical)",
+                "tmdb_id": 553087,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2021": [
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 529203,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 508439,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 560050,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 508442,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 441130,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 727705,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 653574,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 653746,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 682110,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 656690,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 740985,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 601666,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 575417,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 587792,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 582014,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 614560,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 615643,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 581734,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 502033,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 556984,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2020": [
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 330457,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 586940,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 301528,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 565716,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 549559,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 596980,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 595841,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 528888,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 565310,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 515001,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 546554,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 466272,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 359724,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 398978,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 475557,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 492188,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 496243,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2019": [
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 260513,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 399174,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 324857,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 515042,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 493099,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 489988,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 490003,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 455207,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 383498,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 375262,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 490132,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 429197,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 487558,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 424694,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 369972,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 426426,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 332562,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2018": [
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 354912,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 324852,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Animated Feature Film",
+                "tmdb_id": 324849,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 433051,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 470819,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 473408,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Documentary Feature",
+                "tmdb_id": 450875,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 339403,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 419430,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 389015,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 391713,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Comedy, Theatrical)",
+                "tmdb_id": 359940,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 335984,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 374720,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 396371,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 446354,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Edited Feature Film (Drama, Theatrical)",
+                "tmdb_id": 399055,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ]
+    }
+}

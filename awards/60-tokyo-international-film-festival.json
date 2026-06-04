@@ -1,0 +1,358 @@
+{
+    "award_info": {
+        "tmdb_award_id": 60,
+        "imdb_award_id": "",
+        "name": "Tokyo International Film Festival",
+        "slug": "tokyo-international-film-festival",
+        "url": "https://www.themoviedb.org/award/60",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/fA8oBQEudEk0Pv5oVuATqDVG0qe.svg",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "Asian Future Best Film Award",
+                "tmdb_id": 1429217,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Actor",
+                "tmdb_id": 1329842,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Actress",
+                "tmdb_id": 2130094,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Actress",
+                "tmdb_id": 20658,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Artistic Contribution",
+                "tmdb_id": 1292123,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Director",
+                "tmdb_id": 1318674,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Director",
+                "tmdb_id": 1385799,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Director",
+                "tmdb_id": 118674,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Special Jury Prize",
+                "tmdb_id": 1555801,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "TIFF Ethical Film Award",
+                "tmdb_id": 1256620,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "The Audience Award",
+                "tmdb_id": 1541169,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Tokyo Grand Prix",
+                "tmdb_id": 1432596,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2024": [
+            {
+                "category": "Asian Future Best Film Award",
+                "tmdb_id": 1363090,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Actor",
+                "tmdb_id": 555190,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Actress",
+                "tmdb_id": 1021689,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Artistic Contribution",
+                "tmdb_id": 1249173,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Director",
+                "tmdb_id": 1115707,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Special Jury Prize",
+                "tmdb_id": 1182189,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "TIFF Ethical Film Award",
+                "tmdb_id": 1101256,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "The Audience Award",
+                "tmdb_id": 1278101,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Tokyo Grand Prix",
+                "tmdb_id": 1361934,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2023": [
+            {
+                "category": "Amazon Prime Video Take One Award",
+                "tmdb_id": 1644655,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Amazon Prime Video Take One Award Special Jury Prize",
+                "tmdb_id": 1305401,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Asian Future Best Film Award",
+                "tmdb_id": 1186819,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Actor",
+                "tmdb_id": 1308246,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Actress",
+                "tmdb_id": 1236122,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Artistic Contribution",
+                "tmdb_id": 1184222,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Director",
+                "tmdb_id": 1450928,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Special Jury Prize",
+                "tmdb_id": 1084066,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "TIFF Ethical Film Award",
+                "tmdb_id": 1053600,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "The Audience Award",
+                "tmdb_id": 1025444,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Tokyo Grand Prix",
+                "tmdb_id": 996584,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2022": [
+            {
+                "category": "Asian Future Best Film Award",
+                "tmdb_id": 1030213,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Actor",
+                "tmdb_id": 81125,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Actress",
+                "tmdb_id": 71208,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Artistic Contribution",
+                "tmdb_id": 1027271,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Director",
+                "tmdb_id": 96690,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Special Jury Prize",
+                "tmdb_id": 1005299,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "The Audience Award",
+                "tmdb_id": 1017417,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Tokyo Grand Prix",
+                "tmdb_id": 848685,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2021": [
+            {
+                "category": "Amazon Prime Video Take One Award",
+                "tmdb_id": 897538,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Amazon Prime Video Take One Award Special Jury Prize",
+                "tmdb_id": 897358,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Asian Future Best Film Award",
+                "tmdb_id": 879010,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Actor",
+                "tmdb_id": 1184718,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Actor",
+                "tmdb_id": 1253159,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Actor",
+                "tmdb_id": 1431051,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Actor",
+                "tmdb_id": 1820360,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Actress",
+                "tmdb_id": 3200329,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Artistic Contribution",
+                "tmdb_id": 878966,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Award for Best Director",
+                "tmdb_id": 589264,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Special Jury Prize",
+                "tmdb_id": 833393,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Special Mention",
+                "tmdb_id": 878976,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "The Audience Award",
+                "tmdb_id": 878976,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Tokyo Grand Prix",
+                "tmdb_id": 854569,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2020": [
+            {
+                "category": "The Audience Award",
+                "tmdb_id": 726620,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ]
+    }
+}

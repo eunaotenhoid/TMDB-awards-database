@@ -1,0 +1,728 @@
+{
+    "award_info": {
+        "tmdb_award_id": 73,
+        "imdb_award_id": "",
+        "name": "BFDG Production Design Awards",
+        "slug": "bfdg-production-design-awards",
+        "url": "https://www.themoviedb.org/award/73",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/28u4HiOHDh7NFhlyBce05CvUVPz.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Best Production Design – Feature Film – Contemporary",
+                "tmdb_id": 1491479,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature Film – Contemporary",
+                "tmdb_id": 1127628,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Feature Film – Contemporary",
+                "tmdb_id": 1307078,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature Film – Fantasy",
+                "tmdb_id": 1354518,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature Film – Fantasy",
+                "tmdb_id": 1043197,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Feature Film – Fantasy",
+                "tmdb_id": 338969,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature Film – Period",
+                "tmdb_id": 1364608,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature Film – Period",
+                "tmdb_id": 1262815,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Feature Film – Period",
+                "tmdb_id": 1242404,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Contemporary",
+                "tmdb_id": 911430,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Contemporary",
+                "tmdb_id": 1069905,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Contemporary",
+                "tmdb_id": 575265,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Fantasy",
+                "tmdb_id": 696506,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Fantasy",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Fantasy",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Period",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Period",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Period",
+                "tmdb_id": 997113,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Short Film",
+                "tmdb_id": 1447519,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Short Film",
+                "tmdb_id": 1650007,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Short Film",
+                "tmdb_id": 1445698,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – TV – Band 2 Programmes",
+                "tmdb_id": 253376,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – TV – Band 2 Programmes",
+                "tmdb_id": 253368,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – TV – Band 2 Programmes",
+                "tmdb_id": 245773,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – TV – Band 3 & 4 Programmes",
+                "tmdb_id": 157239,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – TV – Band 3 & 4 Programmes",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – TV – Band 3 & 4 Programmes",
+                "tmdb_id": 119051,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – TV – Light Entertainment & Band 1 Programmes",
+                "tmdb_id": 282201,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2025": [
+            {
+                "category": "Best Production Design – Feature Film – Contemporary & Fantasy",
+                "tmdb_id": 720321,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature Film – Contemporary & Fantasy",
+                "tmdb_id": 974576,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Feature Film – Contemporary & Fantasy",
+                "tmdb_id": 785542,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature Film – Period",
+                "tmdb_id": 807339,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature Film – Period",
+                "tmdb_id": 832964,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Feature Film – Period",
+                "tmdb_id": 975773,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Contemporary",
+                "tmdb_id": 762441,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Contemporary",
+                "tmdb_id": 746036,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Contemporary",
+                "tmdb_id": 955916,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Fantasy",
+                "tmdb_id": 917496,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Fantasy",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Fantasy",
+                "tmdb_id": 402431,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Period",
+                "tmdb_id": 896151,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Period",
+                "tmdb_id": 558449,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Period",
+                "tmdb_id": 799583,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Short Film",
+                "tmdb_id": 1344974,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Short Film",
+                "tmdb_id": 1546115,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Short Film",
+                "tmdb_id": 1216322,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – TV – Band 2 Programmes",
+                "tmdb_id": 236235,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – TV – Band 2 Programmes",
+                "tmdb_id": 214259,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – TV – Band 2 Programmes",
+                "tmdb_id": 241100,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – TV – Band 3 & 4 Programmes",
+                "tmdb_id": 108545,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – TV – Band 3 & 4 Programmes",
+                "tmdb_id": 208942,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – TV – Band 3 & 4 Programmes",
+                "tmdb_id": 94997,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – TV – Light Entertainment & Band 1 Programmes",
+                "tmdb_id": 126766,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2024": [
+            {
+                "category": "Best Production Design – Feature Film – Contemporary",
+                "tmdb_id": 956262,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature Film – Contemporary",
+                "tmdb_id": 1001811,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature Film – Contemporary",
+                "tmdb_id": 930564,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Feature Film – Period",
+                "tmdb_id": 899524,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Feature Film – Period",
+                "tmdb_id": 760774,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Feature Film – Period",
+                "tmdb_id": 1155770,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Contemporary",
+                "tmdb_id": 722149,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Contemporary",
+                "tmdb_id": 575264,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Contemporary",
+                "tmdb_id": 882569,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Fantasy",
+                "tmdb_id": 346698,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Fantasy",
+                "tmdb_id": 792307,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Fantasy",
+                "tmdb_id": 787699,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Period",
+                "tmdb_id": 945729,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Period",
+                "tmdb_id": 812635,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Major Motion Picture – Period",
+                "tmdb_id": 365620,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Short Film",
+                "tmdb_id": 1117156,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Short Film",
+                "tmdb_id": 1381949,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Short Film",
+                "tmdb_id": 1391754,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – TV – Band 2 Programmes",
+                "tmdb_id": 207759,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – TV – Band 2 Programmes",
+                "tmdb_id": 42009,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – TV – Band 2 Programmes",
+                "tmdb_id": 157972,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – TV – Band 3 & 4 Programmes",
+                "tmdb_id": 84958,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – TV – Band 3 & 4 Programmes",
+                "tmdb_id": 125988,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – TV – Band 3 & 4 Programmes",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – TV – Light Entertainment & Band 1 Programmes",
+                "tmdb_id": 244596,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – TV – Light Entertainment & Band 1 Programmes",
+                "tmdb_id": 235891,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2023": [
+            {
+                "category": "Best Production Design – Independent Feature Film – Contemporary",
+                "tmdb_id": 294793,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Independent Feature Film – Contemporary",
+                "tmdb_id": 861072,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Independent Feature Film – Contemporary",
+                "tmdb_id": 806368,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Independent Feature Film – Period",
+                "tmdb_id": 730047,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Independent Feature Film – Period",
+                "tmdb_id": 674324,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Independent Feature Film – Period",
+                "tmdb_id": 799876,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – International Studio Feature Film – Contemporary",
+                "tmdb_id": 830788,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – International Studio Feature Film – Contemporary",
+                "tmdb_id": 526896,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – International Studio Feature Film – Contemporary",
+                "tmdb_id": 698948,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – International Studio Feature Film – Fantasy",
+                "tmdb_id": 414906,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – International Studio Feature Film – Fantasy",
+                "tmdb_id": 338953,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – International Studio Feature Film – Fantasy",
+                "tmdb_id": 668482,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – International Studio Feature Film – Period",
+                "tmdb_id": 814757,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – International Studio Feature Film – Period",
+                "tmdb_id": 639933,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – International Studio Feature Film – Period",
+                "tmdb_id": 820912,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Short Film",
+                "tmdb_id": 1005625,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Short Film",
+                "tmdb_id": 1107537,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Short Film",
+                "tmdb_id": 967206,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2022": [
+            {
+                "category": "Best Production Design – Independent Feature Film – Contemporary",
+                "tmdb_id": 508444,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Independent Feature Film – Contemporary",
+                "tmdb_id": 685169,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Independent Feature Film – Contemporary",
+                "tmdb_id": 600354,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Independent Feature Film – Period",
+                "tmdb_id": 718838,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Independent Feature Film – Period",
+                "tmdb_id": 553087,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Independent Feature Film – Period",
+                "tmdb_id": 617762,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – International Studio Feature Film – Contemporary",
+                "tmdb_id": 544401,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – International Studio Feature Film – Contemporary",
+                "tmdb_id": 597891,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – International Studio Feature Film – Contemporary",
+                "tmdb_id": 576845,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – International Studio Feature Film – Fantasy",
+                "tmdb_id": 593910,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – International Studio Feature Film – Fantasy",
+                "tmdb_id": 438631,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – International Studio Feature Film – Fantasy",
+                "tmdb_id": 634649,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – International Studio Feature Film – Period",
+                "tmdb_id": 777270,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – International Studio Feature Film – Period",
+                "tmdb_id": 337404,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – International Studio Feature Film – Period",
+                "tmdb_id": 644495,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Short Film",
+                "tmdb_id": 1650394,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Short Film",
+                "tmdb_id": 1032201,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design – Short Film",
+                "tmdb_id": 854325,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Short Film",
+                "tmdb_id": 884777,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design – Short Film",
+                "tmdb_id": 1650400,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ]
+    }
+}

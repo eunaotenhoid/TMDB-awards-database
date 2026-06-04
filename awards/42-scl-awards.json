@@ -1,0 +1,798 @@
+{
+    "award_info": {
+        "tmdb_award_id": 42,
+        "imdb_award_id": "",
+        "name": "SCL Awards",
+        "slug": "scl-awards",
+        "url": "https://www.themoviedb.org/award/42",
+        "location": ",         Skirball Cultural Center,         Los Angeles, California,",
+        "presenter": ",         Kevin Bacon,         Michael Bacon,",
+        "icon": "https://media.themoviedb.org/t/p/w300/4HITsUuX03CDDlcmJXg5UsIWvdl.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 225171,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 1259102,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 1280405,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 1208348,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 1426776,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 1287220,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 1241983,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Title Sequence for a Television Production",
+                "tmdb_id": 246386,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Title Sequence for a Television Production",
+                "tmdb_id": 245703,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Title Sequence for a Television Production",
+                "tmdb_id": 241554,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Title Sequence for a Television Production",
+                "tmdb_id": 225171,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Title Sequence for a Television Production",
+                "tmdb_id": 250504,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Title Sequence for a Television Production",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2025": [
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 558449,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 402431,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 1184918,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 974576,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 974950,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 126308,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 84773,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 46518,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 118642,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 147050,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 157367,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 1138194,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 549509,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 1104171,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 1096838,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 1039659,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 1207134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Title Sequence for a Television Production",
+                "tmdb_id": 126308,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Title Sequence for a Television Production",
+                "tmdb_id": 46518,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Title Sequence for a Television Production",
+                "tmdb_id": 137893,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Title Sequence for a Television Production",
+                "tmdb_id": 155533,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Title Sequence for a Television Production",
+                "tmdb_id": 157367,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Title Sequence for a Television Production",
+                "tmdb_id": 255868,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2024": [
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 872585,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 508883,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 1056360,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 466420,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 930564,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 84958,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 117303,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 1171816,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 467244,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 590757,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 365620,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 1058699,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Title Sequence for a Television Production",
+                "tmdb_id": 157732,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Title Sequence for a Television Production",
+                "tmdb_id": 114461,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Title Sequence for a Television Production",
+                "tmdb_id": 125988,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Title Sequence for a Television Production",
+                "tmdb_id": 117303,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2023": [
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 762504,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 674324,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 555604,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 414906,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 619730,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 84773,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 928344,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 817127,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 545611,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 785084,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 730167,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2022": [
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 646380,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 542178,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 568124,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 600583,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 438631,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 85271,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 84958,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 93405,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 716612,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 559907,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 766798,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 811933,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 603603,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2021": [
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 581859,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 577922,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 581032,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 614560,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 508442,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 93287,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 87739,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 82816,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 82856,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 686142,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 615643,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 664280,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 567566,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 547017,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2020": [
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 458723,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 515001,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 475557,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 166428,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Studio Film",
+                "tmdb_id": 299534,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 81355,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 66732,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 87108,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 79788,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for a Television Production",
+                "tmdb_id": 69478,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 543084,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 566235,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 519010,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 617768,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Original Score for an Independent Film",
+                "tmdb_id": 491283,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ]
+    }
+}

@@ -1,0 +1,1162 @@
+{
+    "award_info": {
+        "tmdb_award_id": 56,
+        "imdb_award_id": "",
+        "name": "Critics Choice Documentary Awards",
+        "slug": "critics-choice-documentary-awards",
+        "url": "https://www.themoviedb.org/award/56",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/JJH5cxDrpujpCsSAOFpW9AvZvk.svg",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "Best Archival Documentary",
+                "tmdb_id": 1320392,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Archival Documentary",
+                "tmdb_id": 1098534,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Archival Documentary",
+                "tmdb_id": 1400782,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Archival Documentary",
+                "tmdb_id": 1081077,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Archival Documentary",
+                "tmdb_id": 1374313,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Archival Documentary",
+                "tmdb_id": 1428753,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1234597,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1517130,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 951055,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1400776,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1400783,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1448497,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 3820182,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1142917,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1517002,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 19012,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1106893,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 23287,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 98314,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 40312,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1400789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1413805,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1320400,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1516391,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1400288,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1098534,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1400782,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1081077,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1517130,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1400288,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1421461,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1400782,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1413805,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1400789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1098534,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 1081708,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 1234397,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 1461714,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 1400783,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 1517758,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 1422600,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Documentary Series",
+                "tmdb_id": 258023,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Documentary Series",
+                "tmdb_id": 282670,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Documentary Series",
+                "tmdb_id": 285084,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Documentary Series",
+                "tmdb_id": 294862,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Documentary Series",
+                "tmdb_id": 245937,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Documentary Series",
+                "tmdb_id": 292130,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Limited Documentary Series",
+                "tmdb_id": 279299,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Documentary Series",
+                "tmdb_id": 277831,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ongoing Documentary Series",
+                "tmdb_id": 31677,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Ongoing Documentary Series",
+                "tmdb_id": 15069,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ongoing Documentary Series",
+                "tmdb_id": 137735,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ongoing Documentary Series",
+                "tmdb_id": 295773,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ongoing Documentary Series",
+                "tmdb_id": 113888,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Score",
+                "tmdb_id": 1098534,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Score",
+                "tmdb_id": 1400782,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Score",
+                "tmdb_id": 1526215,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Score",
+                "tmdb_id": 1400789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Score",
+                "tmdb_id": 1374313,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Documentary",
+                "tmdb_id": 1525091,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Documentary",
+                "tmdb_id": 1446440,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Documentary",
+                "tmdb_id": 1373150,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Documentary",
+                "tmdb_id": 1447858,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Documentary",
+                "tmdb_id": 1492631,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Documentary",
+                "tmdb_id": 1537651,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Short Documentary",
+                "tmdb_id": 1317310,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Short Documentary",
+                "tmdb_id": 1447964,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2024": [
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1214521,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1242387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1158874,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1036573,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1214506,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1120821,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1642118,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 80423,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1152054,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 6159,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 4191273,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 88934,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 4416757,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 4416758,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1480225,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1242387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1214521,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1226841,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1273196,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1076708,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1236419,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1167027,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1158874,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1128559,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1214506,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1128559,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1214539,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1273196,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1214521,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1158874,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1167027,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 1214527,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 1214523,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 1242387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 1036573,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 1158874,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 1214521,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Limited Documentary Series",
+                "tmdb_id": 252257,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Documentary Series",
+                "tmdb_id": 230562,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Documentary Series",
+                "tmdb_id": 263089,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Documentary Series",
+                "tmdb_id": 245929,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Documentary Series",
+                "tmdb_id": 157200,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Documentary Series",
+                "tmdb_id": 254930,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Ongoing Documentary Series",
+                "tmdb_id": 31677,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Ongoing Documentary Series",
+                "tmdb_id": 120708,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ongoing Documentary Series",
+                "tmdb_id": 92371,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ongoing Documentary Series",
+                "tmdb_id": 14976,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ongoing Documentary Series",
+                "tmdb_id": 61929,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ongoing Documentary Series",
+                "tmdb_id": 14955,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Score",
+                "tmdb_id": 1242387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Score",
+                "tmdb_id": 1128559,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Score",
+                "tmdb_id": 1214506,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Score",
+                "tmdb_id": 1167027,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Score",
+                "tmdb_id": 1214521,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Score",
+                "tmdb_id": 1184849,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2023": [
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1058647,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1171816,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 573952,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1112547,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1058678,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1066930,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 72038,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 19012,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 971292,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1285812,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1285813,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 72757,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1058616,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1171816,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1070032,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1058647,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1032760,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1058670,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1058678,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1117644,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1132535,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1058699,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1171816,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1070032,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1058699,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1058616,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1058678,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1117644,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 1058616,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 1045623,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 1058636,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 1004683,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 1058678,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 1077683,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 1058688,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best First Documentary Feature",
+                "tmdb_id": 934476,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Score",
+                "tmdb_id": 1171816,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Score",
+                "tmdb_id": 1117644,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Score",
+                "tmdb_id": 1058647,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Score",
+                "tmdb_id": 1155770,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Score",
+                "tmdb_id": 1171861,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Score",
+                "tmdb_id": 1058678,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2022": [
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 913821,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 729830,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 913822,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 913823,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 933963,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 972545,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 913829,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 957457,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 926676,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 961722,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2021": [
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 822138,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 858059,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 774823,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 763040,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 680813,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 795613,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 822099,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 776589,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 869623,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 776527,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ],
+        "2020": [
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 684700,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 661845,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 653725,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 653574,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 653578,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ]
+    }
+}

@@ -1,0 +1,568 @@
+{
+    "award_info": {
+        "tmdb_award_id": 89,
+        "imdb_award_id": "",
+        "name": "Ivor Novello Awards",
+        "slug": "ivor-novello-awards",
+        "url": "https://www.themoviedb.org/award/89",
+        "location": ",         JW Marriott Grosvenor House London,         London, England,",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/1cI3rN2RHHeDpQd76qvnufqoMCM.svg",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 1291626,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 426063,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 1425489,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 549509,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 249042,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 245827,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 260693,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 255570,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 260650,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2025": [
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 467244,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 956842,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 1013154,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 1180629,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 933260,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 225385,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 212462,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 208921,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 46648,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 227496,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2024": [
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 792307,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 569094,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 1041361,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 234377,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 95480,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 218348,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 237311,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2023": [
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 76600,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 505026,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 619730,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 754609,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 617762,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 199318,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 156640,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 155346,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 196412,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2022": [
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 714011,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 663866,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 576845,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 716612,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 506281,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 113987,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 136044,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 93454,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2021": [
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 574396,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 555457,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 575776,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 556984,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 587562,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 105883,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 81349,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 86850,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 99896,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 110232,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2020": [
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 576017,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 530385,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 417466,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 85552,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 93192,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2019": [
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 489931,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 400617,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 324857,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 66230,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 76819,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2018": [
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 346364,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 376866,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 346648,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 68003,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 73000,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2017": [
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 254302,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 313297,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 359871,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 64099,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 67169,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 74447,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2016": [
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 264660,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 266647,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 250225,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 64684,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 63021,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 64383,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2015": [
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 252178,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 245700,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Film Score",
+                "tmdb_id": 170687,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 61123,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Soundtrack",
+                "tmdb_id": 57263,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ]
+    }
+}

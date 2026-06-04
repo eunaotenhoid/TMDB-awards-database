@@ -1,0 +1,3382 @@
+{
+    "award_info": {
+        "tmdb_award_id": 31,
+        "imdb_award_id": "",
+        "name": "AFI Awards",
+        "slug": "afi-awards",
+        "url": "https://www.themoviedb.org/award/31",
+        "location": ",         The Beverly Hills Hotel,         Beverly Hills, California,",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/74nqcqIJh2uXm2YwCOY7LnG8Yyq.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 83533,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1069905,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1317288,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1241983,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 249042,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 245219,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 203762,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 273247,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 250307,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 225171,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 228305,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2024": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 661539,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 974576,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 974950,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1028196,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1013850,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1155828,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 402431,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1064213,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 549509,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 245312,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 118642,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 250923,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 194764,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 126308,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 136311,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 46648,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2023": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1056360,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 346698,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 840430,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 466420,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 523607,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 839369,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 872585,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 666277,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 792307,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 569094,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 154385,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 222023,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 90282,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 120998,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 95215,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2022": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 76600,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 614934,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 545611,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 804095,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 762504,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 837881,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 817758,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 361743,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 724495,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 777245,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 60059,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 201124,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 110382,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 95215,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 106308,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2021": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 581859,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 583406,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 615667,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 614560,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 615643,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 581734,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 661914,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 508442,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 502033,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 556984,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 776503,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 646380,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 438631,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 614917,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 718032,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 597208,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 600583,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 537116,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 591538,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 511809,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 60059,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 91239,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 87523,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 82816,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 82856,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 83605,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 87739,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 97546,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 99581,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 111141,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 115004,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 95215,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 98892,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 80039,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 85271,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2019": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 530915,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 565310,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 398978,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 515001,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 475557,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 546554,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 331482,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 492188,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 466272,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 292011,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 87108,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 81131,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1399,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 79084,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 91275,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 2947,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 79788,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 81355,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2018": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 284054,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 487558,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 489925,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 375262,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 458737,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 490132,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 465914,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 400650,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 447332,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 332562,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 46533,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 64513,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 65495,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 73107,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 60059,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 81290,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 70796,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 79084,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 67136,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2017": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 416477,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 398818,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 374720,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 394117,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 419430,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 391713,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 446354,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 399055,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 359940,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 297762,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 66292,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 69851,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1399,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 66573,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 69478,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 67883,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 64254,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 66732,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 67136,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2016": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 329865,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 393457,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 324786,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 338766,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 313369,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 334541,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 376867,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 68730,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 363676,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 269149,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 46533,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 65495,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 60059,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1399,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 66276,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 64513,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 66732,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 67136,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 2947,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2015": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 318846,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 296098,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 258480,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 150540,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 76341,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 286217,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 264644,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 314365,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 140607,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 277216,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 46533,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 60059,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 61381,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 61733,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 60622,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1399,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1407,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 64254,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 62560,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 62335,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2014": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 190859,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 194662,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 85350,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 87492,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 205596,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 157336,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 224141,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 242582,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 273895,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 227306,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 244786,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 46533,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 60622,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1399,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 61056,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 61418,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 61014,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1104,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1424,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 60573,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 61406,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2013": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 76203,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 168672,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 109424,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 157354,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 49047,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 152601,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 86829,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 129670,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 140823,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 106646,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 46533,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1396,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1399,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1435,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1425,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1104,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 58937,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1424,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 39269,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 2947,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2012": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 68734,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 84175,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 49026,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 68718,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 82695,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 87827,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 72976,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 83666,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 82693,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 97630,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1413,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1396,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1399,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 42282,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1407,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 32962,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1104,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1421,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1402,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2011": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 88794,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 59436,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 60308,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 8967,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 57212,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 55721,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 65057,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 65754,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 50014,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 44826,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1621,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1396,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 4546,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1399,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1435,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1407,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1436,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 32962,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1421,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 8592,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2010": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 44214,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 45317,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 27205,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 39781,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 44115,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 37799,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 23168,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 10193,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 44264,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 39013,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 4608,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 32406,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1621,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1396,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1417,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1104,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1421,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 16997,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1402,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2009": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 14836,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 18785,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 12162,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 28089,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 25793,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 12573,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 34653,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 17003,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 14160,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 22947,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1418,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 4392,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 4278,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1417,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1104,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1421,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 7154,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 18053,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 17287,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 10545,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2008": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 4922,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 155,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 11499,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 10183,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 13223,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1726,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 10139,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 10681,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 8942,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 12163,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1396,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 14069,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 15114,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 3797,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 4607,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1104,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 2316,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1414,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1438,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2007": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 7972,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 2013,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 5915,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 7326,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 4964,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 4566,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 6977,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 2062,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 8272,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 7345,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 4608,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1405,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 252,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 4278,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1104,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1398,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 15003,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 4626,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2006": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1164,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 496,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 350,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1125,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 7859,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 9836,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 388,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1251,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 773,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 9829,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1973,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1972,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1405,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 13291,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 4278,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1639,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 2316,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 2190,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 688,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1438,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2005": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 6957,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 59,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 142,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 398,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1640,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 3291,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 254,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 612,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 10707,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 231,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1973,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1972,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1406,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1416,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1408,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 4607,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 4344,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 2409,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1432,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2004": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 2567,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1538,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 38,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 13416,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 9806,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 11184,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 436,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 70,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 9675,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 558,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 4589,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 4546,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1406,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 693,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 4607,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 3750,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1414,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1398,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 2190,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2003": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 2771,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 12,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 10922,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 10511,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 616,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 122,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 153,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 8619,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 504,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 322,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1973,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 2046,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 11245,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 4589,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 2140,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1593,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 3750,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 9885,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1438,
+                "media_type": "tv",
+                "is_winner": true
+            }
+        ],
+        "2002": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 245,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 2755,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 2757,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 13435,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1574,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1360,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 3131,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 590,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 121,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 8198,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 707,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 2140,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 4586,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 456,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1274,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 1398,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Television Programs of the Year",
+                "tmdb_id": 688,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 934,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 879,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 5292,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor",
+                "tmdb_id": 207,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor, Non-Leading Role",
+                "tmdb_id": 884,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor, Non-Leading Role",
+                "tmdb_id": 1248,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor, Non-Leading Role",
+                "tmdb_id": 193,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor, Non-Leading Role",
+                "tmdb_id": 4252,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 4587,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 8893,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 5606,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress",
+                "tmdb_id": 3489,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress, Non-Leading Role",
+                "tmdb_id": 112,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress, Non-Leading Role",
+                "tmdb_id": 6161,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress, Non-Leading Role",
+                "tmdb_id": 6941,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress, Non-Leading Role",
+                "tmdb_id": 1518,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematographer",
+                "tmdb_id": 21673,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematographer",
+                "tmdb_id": 151,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Cinematographer",
+                "tmdb_id": 1129,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematographer",
+                "tmdb_id": 492,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 4546,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 2140,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 2004,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 105,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Composer",
+                "tmdb_id": 7045,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Composer",
+                "tmdb_id": 5628,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Composer",
+                "tmdb_id": 9152,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Composer",
+                "tmdb_id": 117,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Digital-Effects Artist",
+                "tmdb_id": 671,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Digital-Effects Artist",
+                "tmdb_id": 120,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Digital-Effects Artist",
+                "tmdb_id": 644,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Digital-Effects Artist",
+                "tmdb_id": 9081,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 9789,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 5010,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 5602,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 578,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 95,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 1274,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 1398,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 688,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editor",
+                "tmdb_id": 3050,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Editor",
+                "tmdb_id": 563,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editor",
+                "tmdb_id": 950,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editor",
+                "tmdb_id": 1635,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Movie",
+                "tmdb_id": 453,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Movie",
+                "tmdb_id": 855,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Movie",
+                "tmdb_id": 1999,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Movie",
+                "tmdb_id": 120,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Movie",
+                "tmdb_id": 10778,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Movie",
+                "tmdb_id": 77,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Movie",
+                "tmdb_id": 1365,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Movie",
+                "tmdb_id": 824,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Movie",
+                "tmdb_id": 1018,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Movie",
+                "tmdb_id": 808,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Movie or Mini-Series",
+                "tmdb_id": 21276,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Movie or Mini-Series",
+                "tmdb_id": 4613,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Designer",
+                "tmdb_id": 10420,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Designer",
+                "tmdb_id": 496,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Designer",
+                "tmdb_id": 1314,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Designer",
+                "tmdb_id": 944,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenwriter",
+                "tmdb_id": 5010,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenwriter",
+                "tmdb_id": 150432,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenwriter",
+                "tmdb_id": 525,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenwriter",
+                "tmdb_id": 5575,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenwriter",
+                "tmdb_id": 17448,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenwriter",
+                "tmdb_id": 17447,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Series Actor",
+                "tmdb_id": 4691,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Series Actor",
+                "tmdb_id": 53820,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Series Actor",
+                "tmdb_id": 8687,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Series Actor",
+                "tmdb_id": 15757,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Series Actress",
+                "tmdb_id": 36190,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Series Actress",
+                "tmdb_id": 19,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Series Actress",
+                "tmdb_id": 27725,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Series Actress",
+                "tmdb_id": 45863,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2001": [
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 462,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 98,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 243,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 641,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 1900,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 11004,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 14295,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 786,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 5001,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "AFI Movies of the Year",
+                "tmdb_id": 13785,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,1802 @@
+{
+    "award_info": {
+        "tmdb_award_id": 69,
+        "imdb_award_id": "",
+        "name": "Astra TV Awards",
+        "slug": "astra-tv-awards",
+        "url": "https://www.themoviedb.org/award/69",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/kYP1MDlDAEz1HPBXCNpyj82xJ8c.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "Best Actor in a Comedy Series",
+                "tmdb_id": 11702,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Comedy Series",
+                "tmdb_id": 1230,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Comedy Series",
+                "tmdb_id": 206905,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Comedy Series",
+                "tmdb_id": 41088,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Comedy Series",
+                "tmdb_id": 519,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Comedy Series",
+                "tmdb_id": 1488236,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Comedy Series",
+                "tmdb_id": 19274,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Comedy Series",
+                "tmdb_id": 67773,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Comedy Series",
+                "tmdb_id": 12898,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Comedy Series",
+                "tmdb_id": 929511,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Drama Series",
+                "tmdb_id": 23458,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Drama Series",
+                "tmdb_id": 37632,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Drama Series",
+                "tmdb_id": 64,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Drama Series",
+                "tmdb_id": 964792,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Drama Series",
+                "tmdb_id": 11866,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Drama Series",
+                "tmdb_id": 13526,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Drama Series",
+                "tmdb_id": 1253360,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Drama Series",
+                "tmdb_id": 72985,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Drama Series",
+                "tmdb_id": 1225953,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Drama Series",
+                "tmdb_id": 36801,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Comedy Series",
+                "tmdb_id": 2195140,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Comedy Series",
+                "tmdb_id": 5376,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Comedy Series",
+                "tmdb_id": 52852,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Comedy Series",
+                "tmdb_id": 17696,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Comedy Series",
+                "tmdb_id": 40462,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Comedy Series",
+                "tmdb_id": 10871,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Comedy Series",
+                "tmdb_id": 1971031,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Comedy Series",
+                "tmdb_id": 1745988,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Comedy Series",
+                "tmdb_id": 53485,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Comedy Series",
+                "tmdb_id": 77948,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Drama Series",
+                "tmdb_id": 9780,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Drama Series",
+                "tmdb_id": 1668004,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Drama Series",
+                "tmdb_id": 973497,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Drama Series",
+                "tmdb_id": 7465,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Drama Series",
+                "tmdb_id": 32798,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Drama Series",
+                "tmdb_id": 95102,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Drama Series",
+                "tmdb_id": 8534,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Drama Series",
+                "tmdb_id": 41292,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Drama Series",
+                "tmdb_id": 15091,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Drama Series",
+                "tmdb_id": 1267240,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Series",
+                "tmdb_id": 125909,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Series",
+                "tmdb_id": 74440,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Series",
+                "tmdb_id": 95557,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Series",
+                "tmdb_id": 86831,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Series",
+                "tmdb_id": 85948,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Series",
+                "tmdb_id": 456,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Anime Series",
+                "tmdb_id": 220542,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Anime Series",
+                "tmdb_id": 240411,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Anime Series",
+                "tmdb_id": 236994,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Anime Series",
+                "tmdb_id": 88046,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Anime Series",
+                "tmdb_id": 231003,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Anime Series",
+                "tmdb_id": 127532,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Broadcast Comedy Series",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Broadcast Comedy Series",
+                "tmdb_id": 214162,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Broadcast Comedy Series",
+                "tmdb_id": 126027,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Cast Ensemble in a Broadcast Comedy Series",
+                "tmdb_id": 251941,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Broadcast Comedy Series",
+                "tmdb_id": 260471,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Broadcast Comedy Series",
+                "tmdb_id": 81144,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Broadcast Network Drama Series",
+                "tmdb_id": 75219,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Broadcast Network Drama Series",
+                "tmdb_id": 226285,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Broadcast Network Drama Series",
+                "tmdb_id": 226637,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Broadcast Network Drama Series",
+                "tmdb_id": 226174,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Cast Ensemble in a Broadcast Network Drama Series",
+                "tmdb_id": 125282,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Broadcast Network Drama Series",
+                "tmdb_id": 208569,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Cable Comedy Series",
+                "tmdb_id": 258902,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Cable Comedy Series",
+                "tmdb_id": 106308,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Cable Comedy Series",
+                "tmdb_id": 82782,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Cast Ensemble in a Cable Comedy Series",
+                "tmdb_id": 83631,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Cable Drama Series",
+                "tmdb_id": 94997,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Cable Drama Series",
+                "tmdb_id": 128098,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Cable Drama Series",
+                "tmdb_id": 90812,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Cable Drama Series",
+                "tmdb_id": 56570,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Cable Drama Series",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Cable Drama Series",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Comedy Series",
+                "tmdb_id": 138501,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Comedy Series",
+                "tmdb_id": 77169,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Comedy Series",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Comedy Series",
+                "tmdb_id": 261363,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Comedy Series",
+                "tmdb_id": 250923,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Comedy Series",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Comedy Series",
+                "tmdb_id": 120998,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Comedy Series",
+                "tmdb_id": 136311,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Comedy Series",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Comedy Series",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Drama Series",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Drama Series",
+                "tmdb_id": 91239,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Drama Series",
+                "tmdb_id": 157741,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Drama Series",
+                "tmdb_id": 84773,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Drama Series",
+                "tmdb_id": 245927,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Drama Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Drama Series",
+                "tmdb_id": 76479,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Drama Series",
+                "tmdb_id": 69478,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Drama Series",
+                "tmdb_id": 250307,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Cast Ensemble in a Streaming Drama Series",
+                "tmdb_id": 117488,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 126027,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 250923,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 120998,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 136311,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 82782,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Comedy Series",
+                "tmdb_id": 83631,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy or Standup Special",
+                "tmdb_id": 1244705,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy or Standup Special",
+                "tmdb_id": 1360212,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy or Standup Special",
+                "tmdb_id": 1417677,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy or Standup Special",
+                "tmdb_id": 1451815,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Comedy or Standup Special",
+                "tmdb_id": 1291557,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy or Standup Special",
+                "tmdb_id": 1429616,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy or Standup Special",
+                "tmdb_id": 1353311,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy or Standup Special",
+                "tmdb_id": 1406359,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy or Standup Special",
+                "tmdb_id": 1462313,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy or Standup Special",
+                "tmdb_id": 1360823,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Directing in a Comedy Series",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Directing in a Comedy Series",
+                "tmdb_id": 126027,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Directing in a Comedy Series",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Directing in a Comedy Series",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Directing in a Comedy Series",
+                "tmdb_id": 120998,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Directing in a Comedy Series",
+                "tmdb_id": 136311,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Directing in a Comedy Series",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Directing in a Comedy Series",
+                "tmdb_id": 82782,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Directing in a Comedy Series",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Directing in a Comedy Series",
+                "tmdb_id": 83631,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Directing in a Drama Series",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Directing in a Drama Series",
+                "tmdb_id": 226174,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Directing in a Drama Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Directing in a Drama Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Directing in a Drama Series",
+                "tmdb_id": 93405,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Directing in a Drama Series",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Directing in a Drama Series",
+                "tmdb_id": 250307,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Directing in a Drama Series",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Directing in a Drama Series",
+                "tmdb_id": 208569,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Directing in a Drama Series",
+                "tmdb_id": 117488,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary TV Movie",
+                "tmdb_id": 1371146,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary TV Movie",
+                "tmdb_id": 879805,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary TV Movie",
+                "tmdb_id": 1371206,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary TV Movie",
+                "tmdb_id": 1076708,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary TV Movie",
+                "tmdb_id": 1214506,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Docuseries or Nonfiction Series",
+                "tmdb_id": 279644,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Docuseries or Nonfiction Series",
+                "tmdb_id": 286338,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Docuseries or Nonfiction Series",
+                "tmdb_id": 226698,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Docuseries or Nonfiction Series",
+                "tmdb_id": 277685,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Docuseries or Nonfiction Series",
+                "tmdb_id": 315993,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Docuseries or Nonfiction Series",
+                "tmdb_id": 254930,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 91239,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 202555,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 226174,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 95480,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 250307,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Drama Series",
+                "tmdb_id": 208569,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Game Show",
+                "tmdb_id": 252006,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Game Show",
+                "tmdb_id": 82108,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Game Show",
+                "tmdb_id": 209752,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Game Show",
+                "tmdb_id": 114656,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Game Show",
+                "tmdb_id": 219241,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Game Show",
+                "tmdb_id": 231730,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Guest Actor in a Comedy Series",
+                "tmdb_id": 36801,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actor in a Comedy Series",
+                "tmdb_id": 51329,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actor in a Comedy Series",
+                "tmdb_id": 51329,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actor in a Comedy Series",
+                "tmdb_id": 4443,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actor in a Comedy Series",
+                "tmdb_id": 56446,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actor in a Comedy Series",
+                "tmdb_id": 19498,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Guest Actor in a Comedy Series",
+                "tmdb_id": 1032,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actor in a Comedy Series",
+                "tmdb_id": 519,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actor in a Comedy Series",
+                "tmdb_id": 6159,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actor in a Comedy Series",
+                "tmdb_id": 1190668,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actor in a Drama Series",
+                "tmdb_id": 212828,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actor in a Drama Series",
+                "tmdb_id": 1773397,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actor in a Drama Series",
+                "tmdb_id": 2271410,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actor in a Drama Series",
+                "tmdb_id": 150903,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actor in a Drama Series",
+                "tmdb_id": 2954,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Guest Actor in a Drama Series",
+                "tmdb_id": 532,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actor in a Drama Series",
+                "tmdb_id": 74949,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actor in a Drama Series",
+                "tmdb_id": 1381,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actor in a Drama Series",
+                "tmdb_id": 349,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actor in a Drama Series",
+                "tmdb_id": 75604,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actress in a Comedy Series",
+                "tmdb_id": 226001,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actress in a Comedy Series",
+                "tmdb_id": 1765068,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Guest Actress in a Comedy Series",
+                "tmdb_id": 95102,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actress in a Comedy Series",
+                "tmdb_id": 95102,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actress in a Comedy Series",
+                "tmdb_id": 8944,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actress in a Comedy Series",
+                "tmdb_id": 1488952,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actress in a Comedy Series",
+                "tmdb_id": 55536,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actress in a Comedy Series",
+                "tmdb_id": 1745988,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actress in a Comedy Series",
+                "tmdb_id": 98,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actress in a Comedy Series",
+                "tmdb_id": 37153,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actress in a Drama Series",
+                "tmdb_id": 10402,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actress in a Drama Series",
+                "tmdb_id": 9780,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actress in a Drama Series",
+                "tmdb_id": 11514,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actress in a Drama Series",
+                "tmdb_id": 1561264,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actress in a Drama Series",
+                "tmdb_id": 1011904,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actress in a Drama Series",
+                "tmdb_id": 448,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Guest Actress in a Drama Series",
+                "tmdb_id": 481337,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actress in a Drama Series",
+                "tmdb_id": 18248,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actress in a Drama Series",
+                "tmdb_id": 28044,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Guest Actress in a Drama Series",
+                "tmdb_id": 30364,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Series",
+                "tmdb_id": 249042,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Limited Series",
+                "tmdb_id": 42009,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Series",
+                "tmdb_id": 209876,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Series",
+                "tmdb_id": 241405,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Series",
+                "tmdb_id": 156933,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Limited Series",
+                "tmdb_id": 194764,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Reality Competition Series",
+                "tmdb_id": 249522,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Reality Competition Series",
+                "tmdb_id": 1508,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Reality Competition Series",
+                "tmdb_id": 8514,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Reality Competition Series",
+                "tmdb_id": 84910,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Reality Competition Series",
+                "tmdb_id": 215943,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Reality Competition Series",
+                "tmdb_id": 41822,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Reality Series",
+                "tmdb_id": 4086,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Reality Series",
+                "tmdb_id": 99353,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Reality Series",
+                "tmdb_id": 200731,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Reality Series",
+                "tmdb_id": 87826,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Reality Series",
+                "tmdb_id": 261102,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Reality Series",
+                "tmdb_id": 30703,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Comedy Series",
+                "tmdb_id": 1072648,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Comedy Series",
+                "tmdb_id": 21422,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Comedy Series",
+                "tmdb_id": 21042,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Comedy Series",
+                "tmdb_id": 3,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actor in a Comedy Series",
+                "tmdb_id": 198150,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Comedy Series",
+                "tmdb_id": 123795,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Comedy Series",
+                "tmdb_id": 1607044,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Comedy Series",
+                "tmdb_id": 2775164,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Comedy Series",
+                "tmdb_id": 1214870,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Comedy Series",
+                "tmdb_id": 27740,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Drama Series",
+                "tmdb_id": 10582,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Drama Series",
+                "tmdb_id": 11006,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Drama Series",
+                "tmdb_id": 11355,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Drama Series",
+                "tmdb_id": 50095,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Drama Series",
+                "tmdb_id": 1241,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Drama Series",
+                "tmdb_id": 589650,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Drama Series",
+                "tmdb_id": 6807,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Drama Series",
+                "tmdb_id": 2028037,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Drama Series",
+                "tmdb_id": 7132,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor in a Drama Series",
+                "tmdb_id": 27740,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actress in a Comedy Series",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actress in a Comedy Series",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Comedy Series",
+                "tmdb_id": 82782,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Comedy Series",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Comedy Series",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Comedy Series",
+                "tmdb_id": 136311,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Comedy Series",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Comedy Series",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Comedy Series",
+                "tmdb_id": 126027,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Comedy Series",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Drama Series",
+                "tmdb_id": 2201317,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Drama Series",
+                "tmdb_id": 19,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Drama Series",
+                "tmdb_id": 1308445,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Drama Series",
+                "tmdb_id": 94797,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Drama Series",
+                "tmdb_id": 1428070,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actress in a Drama Series",
+                "tmdb_id": 33259,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Drama Series",
+                "tmdb_id": 86034,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Drama Series",
+                "tmdb_id": 7489,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Drama Series",
+                "tmdb_id": 1490498,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress in a Drama Series",
+                "tmdb_id": 1731714,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Talk Show",
+                "tmdb_id": 283387,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Talk Show",
+                "tmdb_id": 1489,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Talk Show",
+                "tmdb_id": 76178,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Talk Show",
+                "tmdb_id": 2224,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Talk Show",
+                "tmdb_id": 63770,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Talk Show",
+                "tmdb_id": 59941,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Movie",
+                "tmdb_id": 974573,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Movie",
+                "tmdb_id": 1272149,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Movie",
+                "tmdb_id": 1045938,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Movie",
+                "tmdb_id": 646097,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Movie",
+                "tmdb_id": 950396,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Movie",
+                "tmdb_id": 1002626,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing in a Comedy Series",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing in a Comedy Series",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing in a Comedy Series",
+                "tmdb_id": 126027,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing in a Comedy Series",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Writing in a Comedy Series",
+                "tmdb_id": 250923,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing in a Comedy Series",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing in a Comedy Series",
+                "tmdb_id": 136311,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing in a Comedy Series",
+                "tmdb_id": 106308,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing in a Comedy Series",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing in a Comedy Series",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing in a Drama Series",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing in a Drama Series",
+                "tmdb_id": 226637,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing in a Drama Series",
+                "tmdb_id": 226174,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing in a Drama Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing in a Drama Series",
+                "tmdb_id": 95480,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing in a Drama Series",
+                "tmdb_id": 203857,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing in a Drama Series",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing in a Drama Series",
+                "tmdb_id": 250307,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Writing in a Drama Series",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Writing in a Drama Series",
+                "tmdb_id": 208569,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ],
+        "2022": [
+            {
+                "category": "Best Comedy or Standup Special",
+                "tmdb_id": 1005159,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy or Standup Special",
+                "tmdb_id": 952326,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy or Standup Special",
+                "tmdb_id": 903303,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy or Standup Special",
+                "tmdb_id": 975088,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Comedy or Standup Special",
+                "tmdb_id": 973164,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Comedy or Standup Special",
+                "tmdb_id": 852503,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ]
+    }
+}

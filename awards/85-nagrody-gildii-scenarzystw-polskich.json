@@ -1,0 +1,114 @@
+{
+    "award_info": {
+        "tmdb_award_id": 85,
+        "imdb_award_id": "",
+        "name": "Nagrody Gildii ScenarzystÃ³w Polskich",
+        "slug": "nagrody-gildii-scenarzystw-polskich",
+        "url": "https://www.themoviedb.org/award/85",
+        "location": "",
+        "presenter": "",
+        "icon": "",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Nagroda za scenariusz peÅnometraÅ¼owego filmu fabularnego",
+                "tmdb_id": 66969,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Nagroda za scenariusz peÅnometraÅ¼owego filmu fabularnego",
+                "tmdb_id": 130690,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Nagroda za scenariusz peÅnometraÅ¼owego filmu fabularnego",
+                "tmdb_id": 1442409,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Nagroda za scenariusz peÅnometraÅ¼owego filmu fabularnego",
+                "tmdb_id": 2312156,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Nagroda za scenariusz peÅnometraÅ¼owego filmu fabularnego",
+                "tmdb_id": 1720147,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Nagroda za scenariusz peÅnometraÅ¼owego filmu fabularnego",
+                "tmdb_id": 1549818,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Nagroda za scenariusz peÅnometraÅ¼owego filmu fabularnego",
+                "tmdb_id": 4372350,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Nagroda za scenariusz peÅnometraÅ¼owego filmu fabularnego",
+                "tmdb_id": 1720401,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Nagroda za scenariusz serialu fabularnego",
+                "tmdb_id": 3156828,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Nagroda za scenariusz serialu fabularnego",
+                "tmdb_id": 1695337,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Nagroda za scenariusz serialu fabularnego",
+                "tmdb_id": 2167442,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Nagroda za scenariusz serialu fabularnego",
+                "tmdb_id": 968869,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Nagroda za scenariusz serialu fabularnego",
+                "tmdb_id": 2169507,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Nagroda za scenariusz serialu fabularnego",
+                "tmdb_id": 3156828,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Nagroda za scenariusz serialu fabularnego",
+                "tmdb_id": 3156830,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Nagroda za scenariusz serialu fabularnego",
+                "tmdb_id": 4353017,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ]
+    }
+}

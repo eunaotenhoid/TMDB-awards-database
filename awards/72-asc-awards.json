@@ -1,0 +1,350 @@
+{
+    "award_info": {
+        "tmdb_award_id": 72,
+        "imdb_award_id": "",
+        "name": "ASC Awards",
+        "slug": "asc-awards",
+        "url": "https://www.themoviedb.org/award/72",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/pzdbQi2UIkBr7cpzMXVSk5Yta3i.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Documentary Award",
+                "tmdb_id": 1400789,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Documentary Award",
+                "tmdb_id": 1400780,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Documentary Award",
+                "tmdb_id": 1400776,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Episode of a Half-Hour Series",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Episode of a Half-Hour Series",
+                "tmdb_id": 133748,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Episode of a Half-Hour Series",
+                "tmdb_id": 82782,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Episode of a Half-Hour Series",
+                "tmdb_id": 241554,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Episode of a Half-Hour Series",
+                "tmdb_id": 241491,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Episode of a Half-Hour Series",
+                "tmdb_id": 247767,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Episode of a One-Hour Regular Series",
+                "tmdb_id": 228305,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Episode of a One-Hour Regular Series",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Episode of a One-Hour Regular Series",
+                "tmdb_id": 157239,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Episode of a One-Hour Regular Series",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Episode of a One-Hour Regular Series",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Limited or Anthology Series or Motion Picture Made for Television",
+                "tmdb_id": 286801,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Limited or Anthology Series or Motion Picture Made for Television",
+                "tmdb_id": 238339,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Limited or Anthology Series or Motion Picture Made for Television",
+                "tmdb_id": 249039,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Limited or Anthology Series or Motion Picture Made for Television",
+                "tmdb_id": 249042,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Limited or Anthology Series or Motion Picture Made for Television",
+                "tmdb_id": 249039,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 1370814,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 803208,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 1269644,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Theatrical Feature Film",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Theatrical Feature Film",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Theatrical Feature Film",
+                "tmdb_id": 1317288,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Theatrical Feature Film",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Theatrical Feature Film",
+                "tmdb_id": 1241983,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2025": [
+            {
+                "category": "Documentary Award",
+                "tmdb_id": 1214457,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Documentary Award",
+                "tmdb_id": 1214527,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Episode of a Half-Hour Series",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Episode of a Half-Hour Series",
+                "tmdb_id": 216619,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Episode of a Half-Hour Series",
+                "tmdb_id": 203744,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Episode of a Half-Hour Series",
+                "tmdb_id": 82596,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Episode of a Half-Hour Series",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Episode of a One-Hour Regular Series",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Episode of a One-Hour Regular Series",
+                "tmdb_id": 94997,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Episode of a One-Hour Regular Series",
+                "tmdb_id": 125988,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Episode of a One-Hour Regular Series",
+                "tmdb_id": 94997,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Episode of a One-Hour Regular Series",
+                "tmdb_id": 126308,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Episode of a One-Hour Regular Series",
+                "tmdb_id": 126308,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Limited or Anthology Series or Motion Picture Made for Television",
+                "tmdb_id": 46518,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Limited or Anthology Series or Motion Picture Made for Television",
+                "tmdb_id": 212246,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Limited or Anthology Series or Motion Picture Made for Television",
+                "tmdb_id": 94028,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Limited or Anthology Series or Motion Picture Made for Television",
+                "tmdb_id": 194764,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Limited or Anthology Series or Motion Picture Made for Television",
+                "tmdb_id": 147050,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 1232827,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 1028196,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 1355803,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Theatrical Feature Film",
+                "tmdb_id": 426063,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Theatrical Feature Film",
+                "tmdb_id": 402431,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Theatrical Feature Film",
+                "tmdb_id": 549509,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Theatrical Feature Film",
+                "tmdb_id": 974576,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Theatrical Feature Film",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Theatrical Feature Film",
+                "tmdb_id": 1038263,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Theatrical Feature Film",
+                "tmdb_id": 661539,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ]
+    }
+}

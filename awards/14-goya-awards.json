@@ -1,0 +1,1520 @@
+{
+    "award_info": {
+        "tmdb_award_id": 14,
+        "imdb_award_id": "",
+        "name": "Goya Awards",
+        "slug": "goya-awards",
+        "url": "https://www.themoviedb.org/award/14",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/1yqd1ghZaNlWZBT0s55UjllnjJZ.svg",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1313032,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1407635,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1433680,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1182861,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1303613,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 1584294,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 1061771,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 1293641,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 1323853,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 676679,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Art Direction",
+                "tmdb_id": 1433680,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Art Direction",
+                "tmdb_id": 1464374,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Art Direction",
+                "tmdb_id": 1400214,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Art Direction",
+                "tmdb_id": 1151272,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Art Direction",
+                "tmdb_id": 1238188,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1313032,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1443576,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1464374,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1400214,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1151272,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 1238188,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 1367125,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 1433680,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 1443576,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 1182861,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1443576,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1400214,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1182861,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1151272,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 975324,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary",
+                "tmdb_id": 1591053,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary",
+                "tmdb_id": 1538236,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary",
+                "tmdb_id": 1357349,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary",
+                "tmdb_id": 975324,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary",
+                "tmdb_id": 1441594,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1313032,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1443576,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1464374,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1151272,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1275151,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best European Film",
+                "tmdb_id": 974576,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best European Film",
+                "tmdb_id": 1232827,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best European Film",
+                "tmdb_id": 1225624,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best European Film",
+                "tmdb_id": 1456349,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best European Film",
+                "tmdb_id": 1124566,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 1433680,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 1443576,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 1400214,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 1151272,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 1303613,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ibero-American Film",
+                "tmdb_id": 1301844,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Ibero-American Film",
+                "tmdb_id": 896096,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ibero-American Film",
+                "tmdb_id": 1317046,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ibero-American Film",
+                "tmdb_id": 1256408,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ibero-American Film",
+                "tmdb_id": 1465563,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Leading Actor",
+                "tmdb_id": 27462,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Leading Actor",
+                "tmdb_id": 2424427,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Leading Actor",
+                "tmdb_id": 1381180,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Leading Actor",
+                "tmdb_id": 82700,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Leading Actor",
+                "tmdb_id": 592709,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Leading Actress",
+                "tmdb_id": 2999682,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Leading Actress",
+                "tmdb_id": 1603600,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Leading Actress",
+                "tmdb_id": 141624,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Leading Actress",
+                "tmdb_id": 226431,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Leading Actress",
+                "tmdb_id": 544004,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Makeup and Hairstyles",
+                "tmdb_id": 1238188,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Makeup and Hairstyles",
+                "tmdb_id": 1367125,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Makeup and Hairstyles",
+                "tmdb_id": 1434973,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Makeup and Hairstyles",
+                "tmdb_id": 1400214,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Makeup and Hairstyles",
+                "tmdb_id": 1151272,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Actor",
+                "tmdb_id": 5650175,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best New Actor",
+                "tmdb_id": 2367724,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Actor",
+                "tmdb_id": 3869163,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Actor",
+                "tmdb_id": 4850503,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Actor",
+                "tmdb_id": 4548339,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Actress",
+                "tmdb_id": 5244720,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Actress",
+                "tmdb_id": 5284715,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Actress",
+                "tmdb_id": 4872726,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Actress",
+                "tmdb_id": 4862780,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Actress",
+                "tmdb_id": 3735961,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best New Director",
+                "tmdb_id": 1510323,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Director",
+                "tmdb_id": 1025389,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Director",
+                "tmdb_id": 1224668,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Director",
+                "tmdb_id": 1409925,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Director",
+                "tmdb_id": 1303613,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 1351046,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 1329189,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 1464374,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 1400214,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 1151272,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 1443576,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 1400214,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 1151272,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 1275151,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 1440171,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Supervision",
+                "tmdb_id": 1313032,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Supervision",
+                "tmdb_id": 1238188,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Supervision",
+                "tmdb_id": 1443576,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Supervision",
+                "tmdb_id": 1464374,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Supervision",
+                "tmdb_id": 1151272,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actor",
+                "tmdb_id": 81848,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor",
+                "tmdb_id": 140538,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor",
+                "tmdb_id": 24980,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor",
+                "tmdb_id": 33411,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor",
+                "tmdb_id": 224874,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actress",
+                "tmdb_id": 24918,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress",
+                "tmdb_id": 1303016,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actress",
+                "tmdb_id": 140517,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress",
+                "tmdb_id": 16980,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress",
+                "tmdb_id": 2319,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2025": [
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1088514,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1244869,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1214107,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1247597,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1235922,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 1280400,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 1154304,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 588648,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 947595,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Film",
+                "tmdb_id": 1100998,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Short Film",
+                "tmdb_id": 1258603,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Animated Short Film",
+                "tmdb_id": 1285503,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Short Film",
+                "tmdb_id": 1185389,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Short Film",
+                "tmdb_id": 1360246,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Animated Short Film",
+                "tmdb_id": 1258469,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Art Direction",
+                "tmdb_id": 1118028,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Art Direction",
+                "tmdb_id": 1174481,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Art Direction",
+                "tmdb_id": 1088514,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Art Direction",
+                "tmdb_id": 977548,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Art Direction",
+                "tmdb_id": 1214118,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1088514,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1174481,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1215185,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 977548,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1235922,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 1118028,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 1151262,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 1174481,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 1088514,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 977548,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 977548,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1088514,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1215185,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1118028,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1195100,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary",
+                "tmdb_id": 1317099,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary",
+                "tmdb_id": 874511,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary",
+                "tmdb_id": 1245300,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary",
+                "tmdb_id": 1341008,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary",
+                "tmdb_id": 1238400,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Short Film",
+                "tmdb_id": 1393865,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Short Film",
+                "tmdb_id": 1258670,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Short Film",
+                "tmdb_id": 1245563,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Short Film",
+                "tmdb_id": 1277937,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Short Film",
+                "tmdb_id": 1178794,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 977548,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1174481,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1160878,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1215185,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Editing",
+                "tmdb_id": 1088851,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best European Film",
+                "tmdb_id": 974950,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best European Film",
+                "tmdb_id": 1084736,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best European Film",
+                "tmdb_id": 823219,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best European Film",
+                "tmdb_id": 837335,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best European Film",
+                "tmdb_id": 467244,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fictional Short Film",
+                "tmdb_id": 1217174,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Fictional Short Film",
+                "tmdb_id": 1204156,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fictional Short Film",
+                "tmdb_id": 1258675,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fictional Short Film",
+                "tmdb_id": 1257437,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Fictional Short Film",
+                "tmdb_id": 1162791,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 1174481,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 1215185,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 1218193,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 1160878,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film",
+                "tmdb_id": 977548,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ibero-American Film",
+                "tmdb_id": 1000837,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Ibero-American Film",
+                "tmdb_id": 1275987,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ibero-American Film",
+                "tmdb_id": 1104937,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ibero-American Film",
+                "tmdb_id": 1247458,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ibero-American Film",
+                "tmdb_id": 1232350,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Leading Actor",
+                "tmdb_id": 87015,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Leading Actor",
+                "tmdb_id": 27462,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Leading Actor",
+                "tmdb_id": 225011,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Leading Actor",
+                "tmdb_id": 1760905,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Leading Actor",
+                "tmdb_id": 1442192,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Leading Actress",
+                "tmdb_id": 2025663,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Leading Actress",
+                "tmdb_id": 58285,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Leading Actress",
+                "tmdb_id": 1231,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Leading Actress",
+                "tmdb_id": 3063,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Leading Actress",
+                "tmdb_id": 1603600,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Makeup and Hairstyles",
+                "tmdb_id": 1195100,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Makeup and Hairstyles",
+                "tmdb_id": 1174481,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Makeup and Hairstyles",
+                "tmdb_id": 1088514,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Makeup and Hairstyles",
+                "tmdb_id": 1215185,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Makeup and Hairstyles",
+                "tmdb_id": 1118028,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Actor",
+                "tmdb_id": 1400178,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best New Actor",
+                "tmdb_id": 4432223,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Actor",
+                "tmdb_id": 5263917,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Actor",
+                "tmdb_id": 4577836,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Actor",
+                "tmdb_id": 2484837,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Actress",
+                "tmdb_id": 2887856,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best New Actress",
+                "tmdb_id": 3578018,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Actress",
+                "tmdb_id": 4686577,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Actress",
+                "tmdb_id": 4414635,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Actress",
+                "tmdb_id": 3577523,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Director",
+                "tmdb_id": 1160878,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best New Director",
+                "tmdb_id": 1188853,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Director",
+                "tmdb_id": 1299372,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Director",
+                "tmdb_id": 1172267,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best New Director",
+                "tmdb_id": 1141126,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 1088514,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 1174481,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 588648,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 1215185,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 1360733,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 1218193,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 1174481,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 1160878,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 1215185,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 1195100,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 1317099,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 1154304,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 1174481,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 1118028,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 977548,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Supervision",
+                "tmdb_id": 1174481,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Supervision",
+                "tmdb_id": 1218193,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Supervision",
+                "tmdb_id": 1215185,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Supervision",
+                "tmdb_id": 1118028,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Supervision",
+                "tmdb_id": 977548,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sound",
+                "tmdb_id": 977548,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Sound",
+                "tmdb_id": 1160878,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sound",
+                "tmdb_id": 1088514,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sound",
+                "tmdb_id": 1215185,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sound",
+                "tmdb_id": 1118028,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Special Effects",
+                "tmdb_id": 1174481,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Special Effects",
+                "tmdb_id": 588648,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Special Effects",
+                "tmdb_id": 1215185,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Special Effects",
+                "tmdb_id": 1118028,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Special Effects",
+                "tmdb_id": 1195100,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor",
+                "tmdb_id": 1413918,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actor",
+                "tmdb_id": 1436707,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor",
+                "tmdb_id": 2020259,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor",
+                "tmdb_id": 16867,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actor",
+                "tmdb_id": 3483,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress",
+                "tmdb_id": 33410,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Supporting Actress",
+                "tmdb_id": 1091128,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress",
+                "tmdb_id": 1881658,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress",
+                "tmdb_id": 1062000,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Supporting Actress",
+                "tmdb_id": 146300,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ]
+    }
+}

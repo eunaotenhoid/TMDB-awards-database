@@ -898,6 +898,36 @@
                 "is_winner": false
             },
             {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 73107,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 222023,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 70796,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 97546,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Comedy Series",
+                "tmdb_id": 119051,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
                 "category": "Outstanding Directing for a Comedy Series",
                 "tmdb_id": 125935,
                 "media_type": "tv",
@@ -934,6 +964,60 @@
                 "is_winner": false
             },
             {
+                "category": "Outstanding Directing for a Comedy Series",
+                "tmdb_id": 73107,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing for a Comedy Series",
+                "tmdb_id": 70796,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing for a Comedy Series",
+                "tmdb_id": 97546,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing for a Comedy Series",
+                "tmdb_id": 119051,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing for a Drama Series",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing for a Drama Series",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing for a Drama Series",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Directing for a Drama Series",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing for a Drama Series",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
                 "category": "Outstanding Directing for a Drama Series",
                 "tmdb_id": 65494,
                 "media_type": "tv",
@@ -966,6 +1050,48 @@
             {
                 "category": "Outstanding Directing for a Drama Series",
                 "tmdb_id": 124067,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing for a Drama Series",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing for a Drama Series",
+                "tmdb_id": 199318,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing for a Limited or Anthology Series or Movie",
+                "tmdb_id": 154385,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing for a Limited or Anthology Series or Movie",
+                "tmdb_id": 154385,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing for a Limited or Anthology Series or Movie",
+                "tmdb_id": 113988,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing for a Limited or Anthology Series or Movie",
+                "tmdb_id": 113988,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Directing for a Limited or Anthology Series or Movie",
+                "tmdb_id": 156401,
                 "media_type": "tv",
                 "is_winner": false
             },
@@ -1054,6 +1180,48 @@
                 "is_winner": false
             },
             {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 60059,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 94997,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Drama Series",
+                "tmdb_id": 117488,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
                 "category": "Outstanding Lead Actor in a Comedy Series",
                 "tmdb_id": 1488236,
                 "media_type": "person",
@@ -1086,6 +1254,24 @@
             {
                 "category": "Outstanding Lead Actor in a Comedy Series",
                 "tmdb_id": 2710333,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actor in a Comedy Series",
+                "tmdb_id": 19278,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actor in a Comedy Series",
+                "tmdb_id": 41088,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actor in a Comedy Series",
+                "tmdb_id": 58224,
                 "media_type": "person",
                 "is_winner": false
             },
@@ -1126,6 +1312,42 @@
                 "is_winner": false
             },
             {
+                "category": "Outstanding Lead Actor in a Drama Series",
+                "tmdb_id": 1229,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actor in a Drama Series",
+                "tmdb_id": 1248,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actor in a Drama Series",
+                "tmdb_id": 18793,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Lead Actor in a Drama Series",
+                "tmdb_id": 59410,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actor in a Drama Series",
+                "tmdb_id": 1253360,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actor in a Drama Series",
+                "tmdb_id": 239271,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
                 "category": "Outstanding Lead Actor in a Limited or Anthology Series or Movie",
                 "tmdb_id": 66743,
                 "media_type": "person",
@@ -1154,6 +1376,36 @@
                 "tmdb_id": 125660,
                 "media_type": "person",
                 "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actor in a Limited or Anthology Series or Movie",
+                "tmdb_id": 1303037,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actor in a Limited or Anthology Series or Movie",
+                "tmdb_id": 466505,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actor in a Limited or Anthology Series or Movie",
+                "tmdb_id": 55089,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actor in a Limited or Anthology Series or Movie",
+                "tmdb_id": 335,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actor in a Limited or Anthology Series or Movie",
+                "tmdb_id": 215055,
+                "media_type": "person",
+                "is_winner": true
             },
             {
                 "category": "Outstanding Lead Actress in a Comedy Series",
@@ -1188,6 +1440,30 @@
             {
                 "category": "Outstanding Lead Actress in a Comedy Series",
                 "tmdb_id": 41091,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actress in a Comedy Series",
+                "tmdb_id": 18979,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actress in a Comedy Series",
+                "tmdb_id": 993774,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actress in a Comedy Series",
+                "tmdb_id": 10871,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actress in a Comedy Series",
+                "tmdb_id": 974169,
                 "media_type": "person",
                 "is_winner": false
             },
@@ -1228,6 +1504,42 @@
                 "is_winner": false
             },
             {
+                "category": "Outstanding Lead Actress in a Drama Series",
+                "tmdb_id": 21676,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actress in a Drama Series",
+                "tmdb_id": 15091,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actress in a Drama Series",
+                "tmdb_id": 32798,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actress in a Drama Series",
+                "tmdb_id": 1668004,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actress in a Drama Series",
+                "tmdb_id": 41292,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actress in a Drama Series",
+                "tmdb_id": 235416,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
                 "category": "Outstanding Lead Actress in a Limited or Anthology Series or Movie",
                 "tmdb_id": 1038,
                 "media_type": "person",
@@ -1256,6 +1568,42 @@
                 "tmdb_id": 3489,
                 "media_type": "person",
                 "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actress in a Limited or Anthology Series or Movie",
+                "tmdb_id": 51988,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actress in a Limited or Anthology Series or Movie",
+                "tmdb_id": 83002,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actress in a Limited or Anthology Series or Movie",
+                "tmdb_id": 1676520,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actress in a Limited or Anthology Series or Movie",
+                "tmdb_id": 17696,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actress in a Limited or Anthology Series or Movie",
+                "tmdb_id": 98522,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Actress in a Limited or Anthology Series or Movie",
+                "tmdb_id": 591835,
+                "media_type": "person",
+                "is_winner": true
             },
             {
                 "category": "Outstanding Limited or Anthology Series",
@@ -1288,6 +1636,42 @@
                 "is_winner": false
             },
             {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 154385,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 113988,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 95555,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 156401,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Limited or Anthology Series",
+                "tmdb_id": 92830,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Reality Competition Program",
+                "tmdb_id": 14658,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
                 "category": "Outstanding Reality Competition Program",
                 "tmdb_id": 30957,
                 "media_type": "tv",
@@ -1314,6 +1698,12 @@
             {
                 "category": "Outstanding Reality Competition Program",
                 "tmdb_id": 37678,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Scripted Variety Series",
+                "tmdb_id": 90877,
                 "media_type": "tv",
                 "is_winner": false
             },
@@ -1366,6 +1756,36 @@
                 "is_winner": false
             },
             {
+                "category": "Outstanding Supporting Actor in a Comedy Series",
+                "tmdb_id": 1180346,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Comedy Series",
+                "tmdb_id": 1502430,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Comedy Series",
+                "tmdb_id": 21422,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Comedy Series",
+                "tmdb_id": 11006,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Comedy Series",
+                "tmdb_id": 31903,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
                 "category": "Outstanding Supporting Actor in a Drama Series",
                 "tmdb_id": 13275,
                 "media_type": "person",
@@ -1404,6 +1824,54 @@
             {
                 "category": "Outstanding Supporting Actor in a Drama Series",
                 "tmdb_id": 378,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Drama Series",
+                "tmdb_id": 1164,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Drama Series",
+                "tmdb_id": 85139,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Drama Series",
+                "tmdb_id": 11486,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Drama Series",
+                "tmdb_id": 587020,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Drama Series",
+                "tmdb_id": 15576,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Drama Series",
+                "tmdb_id": 2394,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Drama Series",
+                "tmdb_id": 939337,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Drama Series",
+                "tmdb_id": 28846,
                 "media_type": "person",
                 "is_winner": false
             },
@@ -1450,6 +1918,48 @@
                 "is_winner": false
             },
             {
+                "category": "Outstanding Supporting Actor in a Limited or Anthology Series or Movie",
+                "tmdb_id": 152416,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Limited or Anthology Series or Movie",
+                "tmdb_id": 1294982,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Limited or Anthology Series or Movie",
+                "tmdb_id": 28633,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Limited or Anthology Series or Movie",
+                "tmdb_id": 2125528,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Limited or Anthology Series or Movie",
+                "tmdb_id": 11477,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Limited or Anthology Series or Movie",
+                "tmdb_id": 2569691,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actor in a Limited or Anthology Series or Movie",
+                "tmdb_id": 88124,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
                 "category": "Outstanding Supporting Actress in a Comedy Series",
                 "tmdb_id": 14837,
                 "media_type": "person",
@@ -1482,6 +1992,36 @@
             {
                 "category": "Outstanding Supporting Actress in a Comedy Series",
                 "tmdb_id": 5064,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Comedy Series",
+                "tmdb_id": 24357,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Comedy Series",
+                "tmdb_id": 2195140,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Comedy Series",
+                "tmdb_id": 36594,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Comedy Series",
+                "tmdb_id": 1278487,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Comedy Series",
+                "tmdb_id": 1394648,
                 "media_type": "person",
                 "is_winner": false
             },
@@ -1528,6 +2068,48 @@
                 "is_winner": false
             },
             {
+                "category": "Outstanding Supporting Actress in a Drama Series",
+                "tmdb_id": 38334,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Drama Series",
+                "tmdb_id": 1028899,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Drama Series",
+                "tmdb_id": 124679,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Drama Series",
+                "tmdb_id": 119592,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Drama Series",
+                "tmdb_id": 62765,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Drama Series",
+                "tmdb_id": 52475,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Drama Series",
+                "tmdb_id": 1355967,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
                 "category": "Outstanding Supporting Actress in a Limited or Anthology Series or Movie",
                 "tmdb_id": 501,
                 "media_type": "person",
@@ -1570,6 +2152,54 @@
                 "is_winner": false
             },
             {
+                "category": "Outstanding Supporting Actress in a Limited or Anthology Series or Movie",
+                "tmdb_id": 120831,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Limited or Anthology Series or Movie",
+                "tmdb_id": 49,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Limited or Anthology Series or Movie",
+                "tmdb_id": 6194,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Limited or Anthology Series or Movie",
+                "tmdb_id": 3196,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Limited or Anthology Series or Movie",
+                "tmdb_id": 1932304,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Limited or Anthology Series or Movie",
+                "tmdb_id": 63231,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Actress in a Limited or Anthology Series or Movie",
+                "tmdb_id": 28044,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Talk Series",
+                "tmdb_id": 123149,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
                 "category": "Outstanding Talk Series",
                 "tmdb_id": 2224,
                 "media_type": "tv",
@@ -1595,8 +2225,50 @@
             },
             {
                 "category": "Outstanding Variety Special (Live)",
+                "tmdb_id": 1662127,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Variety Special (Live)",
+                "tmdb_id": 1065890,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Variety Special (Live)",
+                "tmdb_id": 1050281,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Variety Special (Live)",
                 "tmdb_id": 1278360,
                 "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing for a Comedy Series",
+                "tmdb_id": 73107,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing for a Comedy Series",
+                "tmdb_id": 222023,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing for a Comedy Series",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing for a Comedy Series",
+                "tmdb_id": 97546,
+                "media_type": "tv",
                 "is_winner": false
             },
             {
@@ -1637,6 +2309,48 @@
             },
             {
                 "category": "Outstanding Writing for a Drama Series",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing for a Drama Series",
+                "tmdb_id": 199318,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing for a Drama Series",
+                "tmdb_id": 60059,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing for a Drama Series",
+                "tmdb_id": 60059,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing for a Drama Series",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing for a Drama Series",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Writing for a Drama Series",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing for a Drama Series",
                 "tmdb_id": 65494,
                 "media_type": "tv",
                 "is_winner": false
@@ -1670,6 +2384,24 @@
                 "tmdb_id": 95480,
                 "media_type": "tv",
                 "is_winner": true
+            },
+            {
+                "category": "Outstanding Writing for a Limited or Anthology Series or Movie",
+                "tmdb_id": 154385,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Writing for a Limited or Anthology Series or Movie",
+                "tmdb_id": 156401,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Writing for a Limited or Anthology Series or Movie",
+                "tmdb_id": 220116,
+                "media_type": "tv",
+                "is_winner": false
             },
             {
                 "category": "Outstanding Writing for a Limited or Anthology Series or Movie",

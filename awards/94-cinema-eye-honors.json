@@ -1,0 +1,2664 @@
+{
+    "award_info": {
+        "tmdb_award_id": 94,
+        "imdb_award_id": "",
+        "name": "Cinema Eye Honors",
+        "slug": "cinema-eye-honors",
+        "url": "https://www.themoviedb.org/award/94",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/55fLKLrNUOhHQVIIiZjXndcBz2s.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1320400,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1400791,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1400780,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1400381,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1340117,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1393151,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1400798,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1525208,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1400379,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1517130,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 931942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 1398911,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 1159539,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 1480382,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 1214052,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Legacy Award",
+                "tmdb_id": 83232,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Legacy Award",
+                "tmdb_id": 42124,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Legacy Award",
+                "tmdb_id": 1563,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Legacy Award",
+                "tmdb_id": 97049,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 226698,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 282252,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 157434,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 213611,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 279299,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 241569,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 975324,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 1234597,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 1400780,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 1400776,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 1400783,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 1517130,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 1340117,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 1418515,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 1422027,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 1400783,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 1234400,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 1125043,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 1400789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 975324,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 1400780,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 1516391,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 1400382,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 1400783,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 1400782,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 1400789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 1516391,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 883126,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 1326015,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 1098534,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 1081077,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 1400782,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 1400789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 975324,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 1400780,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 1516391,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 1465560,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 1400783,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 1400782,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 1400288,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 1245242,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 1400768,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 1461714,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 847692,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 259271,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 91820,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 323367,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 258898,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 273289,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 252551,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 1525091,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 1422051,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 1374413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 1278954,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 1373150,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 1383281,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 1400789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 1400780,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 1516391,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 1400776,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 1098534,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 1525208,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 1400789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 1275774,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 1320400,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 1393151,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 1326015,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 1413805,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Sound Design",
+                "tmdb_id": 1234597,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Design",
+                "tmdb_id": 1400288,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Sound Design",
+                "tmdb_id": 1400776,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Design",
+                "tmdb_id": 1340117,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Design",
+                "tmdb_id": 1320392,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Design",
+                "tmdb_id": 1400783,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Visual Design",
+                "tmdb_id": 1422038,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Visual Design",
+                "tmdb_id": 1332986,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Visual Design",
+                "tmdb_id": 1400381,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Visual Design",
+                "tmdb_id": 1234400,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Visual Design",
+                "tmdb_id": 1423024,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Visual Design",
+                "tmdb_id": 1400744,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 1405448,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 1433791,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 1415669,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 1418174,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 1107440,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 5216239,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 234236,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 5569367,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 1508922,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 5217411,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 5174145,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 3460709,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 5378363,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ],
+        "2025": [
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 951022,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1214521,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1214523,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1156649,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1214527,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1167027,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1214488,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1158874,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1128559,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1214506,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 1136837,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 1180629,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 1051690,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 1063307,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 1155828,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 1194240,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Legacy Award",
+                "tmdb_id": 42449,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 226698,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 236608,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 241231,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 124561,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 110971,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 157207,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 1101256,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 951055,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 1211740,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 1214527,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 1158874,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 1320321,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 1214499,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 1214521,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 1214523,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 1234397,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 1156196,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 1232493,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 1101256,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 1695067,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 951029,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 951055,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 1232493,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 1158874,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 1214454,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 1695067,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 1127632,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 1214523,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 1229477,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 951029,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 1214539,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 1214499,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 1101256,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 1214521,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 951029,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 1232493,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 1214539,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 1158874,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 1117465,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 986355,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 1073097,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 1097590,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 1275899,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 1177076,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 252257,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 231800,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 235851,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 222025,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 245929,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 231396,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 1242971,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 1300245,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 1108462,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 1214685,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 1267389,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 1340629,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 1101256,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 1127632,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 1214523,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 1211740,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 1167027,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 1158874,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 1156196,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 951055,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 1232493,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 1214527,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 1158874,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 1214454,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Sound Design",
+                "tmdb_id": 1101256,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Design",
+                "tmdb_id": 1695067,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Design",
+                "tmdb_id": 1229477,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Design",
+                "tmdb_id": 1211740,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Design",
+                "tmdb_id": 1214539,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Sound Design",
+                "tmdb_id": 1320321,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Visual Design",
+                "tmdb_id": 1695067,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Visual Design",
+                "tmdb_id": 1214523,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Visual Design",
+                "tmdb_id": 1236419,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Visual Design",
+                "tmdb_id": 1214527,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Visual Design",
+                "tmdb_id": 951036,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Visual Design",
+                "tmdb_id": 1167027,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 1242954,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 1205660,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 1245232,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 1321365,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 1208994,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 3554638,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 37317,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 4859301,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 4487237,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 4487239,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 4887435,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 3959179,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 3520756,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 1215937,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ],
+        "2024": [
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1058616,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1171816,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1070032,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1004683,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1010124,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1058647,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1032760,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1058664,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1075815,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1058688,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 1112543,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 1062526,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 1069193,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 666277,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 985617,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 934606,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Legacy Award",
+                "tmdb_id": 21137,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 216429,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 208589,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 202597,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 226555,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 83880,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 1112547,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 721232,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 1058676,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 1058678,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 1058688,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 1091371,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 1058616,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 1004683,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 1058678,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 1077683,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 1058688,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 692639,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 929310,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 1112547,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 1032760,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 1069193,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 1058678,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 1000495,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 1058616,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 929310,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 1032760,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 1498732,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 928004,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 1058699,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 1058616,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 929310,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 1032760,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 1069193,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 1058650,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 1058678,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 1058699,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 1072873,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 1058670,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 965356,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 916392,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 1058623,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 91820,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 201581,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 216087,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 213134,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 216315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 1048414,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 1093730,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 1132561,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 998364,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 913206,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 965170,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 929310,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 1171816,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 1112547,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 1058650,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 1155770,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 1091371,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 1058616,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 1171816,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 950660,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 1070032,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 1004683,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 1091371,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Design",
+                "tmdb_id": 929310,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Sound Design",
+                "tmdb_id": 1058647,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Design",
+                "tmdb_id": 721232,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Design",
+                "tmdb_id": 1058678,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Design",
+                "tmdb_id": 1058688,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Design",
+                "tmdb_id": 692639,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Visual Design",
+                "tmdb_id": 1081707,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Visual Design",
+                "tmdb_id": 1058650,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Visual Design",
+                "tmdb_id": 1117644,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Visual Design",
+                "tmdb_id": 916738,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Visual Design",
+                "tmdb_id": 646265,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 1058621,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 1004598,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 1058636,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 927991,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 913844,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 1115657,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 1513968,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 4248456,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 3869486,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 3696732,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 1138244,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 3012840,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 1260894,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 2314351,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 2786214,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 1068417,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 1490,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 3891637,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 3891639,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 3891641,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 1626140,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 20422,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 521,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 6240085,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 2813646,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 4214421,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ],
+        "2023": [
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 913838,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 846892,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 913823,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 913860,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 913745,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 913867,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 926676,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 913845,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 1013577,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Audience Choice Prize",
+                "tmdb_id": 913849,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 965150,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 928001,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 865584,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Heterodox Award",
+                "tmdb_id": 869626,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Legacy Award",
+                "tmdb_id": 26564,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 110971,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 203262,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 95171,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 119033,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Anthology Series",
+                "tmdb_id": 205725,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 913849,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 776530,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 913838,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 661348,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 913743,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Cinematography",
+                "tmdb_id": 838145,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 934293,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 859324,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 913825,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 838145,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 913845,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Debut Feature Film",
+                "tmdb_id": 913849,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 913838,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 1004663,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 859324,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 913822,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 913823,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Direction",
+                "tmdb_id": 838145,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 1004663,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 913823,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 957457,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 794252,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Editing",
+                "tmdb_id": 856369,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 913838,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 1004663,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 913823,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 926676,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 838145,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Feature Filmmaking",
+                "tmdb_id": 913849,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 944625,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 913862,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 879535,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Film for Broadcast",
+                "tmdb_id": 776553,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 128876,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 137681,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 202880,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 131295,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 203282,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Series",
+                "tmdb_id": 153742,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 846815,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 946972,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 914265,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 914268,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 865342,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Nonfiction Short Filmmaking",
+                "tmdb_id": 960111,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 1004663,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 913822,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 913823,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 913845,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 913849,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Original Music Score",
+                "tmdb_id": 776530,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 913838,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 913743,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 1014884,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 926676,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Production",
+                "tmdb_id": 913849,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 946102,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 846798,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 965214,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 935436,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Spotlight Award",
+                "tmdb_id": 934624,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 3562484,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 3562485,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 1339289,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 3452914,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 2724680,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 1701875,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 1701876,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 3089883,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 3342377,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 3289547,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 5866172,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 3390010,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 57700,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 1378214,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 228815,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 59874,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 3815443,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "The Unforgettables",
+                "tmdb_id": 3815444,
+                "media_type": "person",
+                "is_winner": true
+            }
+        ]
+    }
+}

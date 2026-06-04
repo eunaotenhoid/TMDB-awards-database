@@ -1,0 +1,72 @@
+{
+    "award_info": {
+        "tmdb_award_id": 71,
+        "imdb_award_id": "",
+        "name": "Golden Reel Awards",
+        "slug": "golden-reel-awards",
+        "url": "https://www.themoviedb.org/award/71",
+        "location": "",
+        "presenter": "",
+        "icon": "",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Outstanding Achievement in Sound Editing – Broadcast Animation",
+                "tmdb_id": 111111,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Editing – Broadcast Animation",
+                "tmdb_id": 86831,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Achievement in Sound Editing – Broadcast Animation",
+                "tmdb_id": 138505,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Editing – Broadcast Animation",
+                "tmdb_id": 60625,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Editing – Broadcast Animation",
+                "tmdb_id": 288055,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Editing – Feature Animation",
+                "tmdb_id": 1175942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Editing – Feature Animation",
+                "tmdb_id": 1022787,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Editing – Feature Animation",
+                "tmdb_id": 803796,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Achievement in Sound Editing – Feature Animation",
+                "tmdb_id": 1084242,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ]
+    }
+}

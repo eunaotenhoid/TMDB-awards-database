@@ -1,0 +1,156 @@
+{
+    "award_info": {
+        "tmdb_award_id": 93,
+        "imdb_award_id": "",
+        "name": "International Emmy Awards",
+        "slug": "international-emmy-awards",
+        "url": "https://www.themoviedb.org/award/93",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/85yGcfqm5DjYJchUdPQV3xzj04v.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "Comedy",
+                "tmdb_id": 206686,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Comedy",
+                "tmdb_id": 271593,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Comedy",
+                "tmdb_id": 243360,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Comedy",
+                "tmdb_id": 272570,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Drama Series",
+                "tmdb_id": 253983,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Drama Series",
+                "tmdb_id": 234034,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Drama Series",
+                "tmdb_id": 246915,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Drama Series",
+                "tmdb_id": 208921,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Kids: Animation",
+                "tmdb_id": 82728,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Kids: Animation",
+                "tmdb_id": 216585,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Kids: Animation",
+                "tmdb_id": 254354,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Kids: Animation",
+                "tmdb_id": 70617,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Kids: Factual & Entertainment",
+                "tmdb_id": 279090,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Non-Scripted Entertainment",
+                "tmdb_id": 59960,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Non-Scripted Entertainment",
+                "tmdb_id": 247634,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Non-Scripted Entertainment",
+                "tmdb_id": 93597,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Non-Scripted Entertainment",
+                "tmdb_id": 244204,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Sports Documentary",
+                "tmdb_id": 278304,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Sports Documentary",
+                "tmdb_id": 112546,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Telenovela",
+                "tmdb_id": 256400,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Telenovela",
+                "tmdb_id": 237478,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Telenovela",
+                "tmdb_id": 262969,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Telenovela",
+                "tmdb_id": 242874,
+                "media_type": "tv",
+                "is_winner": false
+            }
+        ]
+    }
+}

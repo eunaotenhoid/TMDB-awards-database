@@ -1,0 +1,2054 @@
+{
+    "award_info": {
+        "tmdb_award_id": 81,
+        "imdb_award_id": "",
+        "name": "Gotham Film Awards",
+        "slug": "gotham-film-awards",
+        "url": "https://www.themoviedb.org/award/81",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/6LZIXYfv2eBbqGg1pVjVrq1ePxu.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 639988,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1287141,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1314129,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Adapted Screenplay",
+                "tmdb_id": 1241983,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 935669,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 120229,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 56383,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 4762,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1048523,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1400789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 931942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1326015,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1400782,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1465560,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 1398911,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 1265717,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 1160360,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 1264573,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 1205515,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 1241983,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 1456349,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 639988,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 1254808,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 878608,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 1221061,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 1160360,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 1456349,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 1220564,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 1205515,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Screenplay",
+                "tmdb_id": 1221061,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 2461280,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 1871909,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 2010090,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 2807817,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 1716493,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 1521445,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 5355893,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 3914706,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 4343059,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 1594098,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 1498158,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 25002,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 9827,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 1479869,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 569,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 72129,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 52583,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 1206334,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 71070,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 62561,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 1121,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 2034418,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 1421850,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 1789788,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 134774,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 19292,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 125660,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 28846,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 1640,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 964679,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2024": [
+            {
+                "category": "Best Director",
+                "tmdb_id": 1827119,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1934875,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1467320,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 118415,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 131301,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1101256,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1229477,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1232493,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1214539,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1158874,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1214454,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 1064213,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 1097549,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 937287,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 989662,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 1028196,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 927547,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 1121956,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 1013154,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 1114816,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 1151244,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 1125073,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 1156125,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 976581,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 1154762,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 1037035,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 1289507,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 2355854,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 2323341,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 1958515,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 1078397,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 4046500,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 1711828,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 1104567,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 2362044,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 1674009,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 6736,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 3490,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 91671,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 17352,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 2227,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 1313093,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 1640439,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 3416,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 36592,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 1029934,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 1266686,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 18793,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 1853909,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 1637781,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 10871,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 4178063,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 2252989,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 529,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 1675188,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 226366,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2023": [
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1058616,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1058621,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1047128,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1069193,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1000495,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 898673,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 666277,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 985617,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 790416,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 855263,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 994108,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 915935,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 792307,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 958186,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 467244,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 994108,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 915935,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 839369,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 919570,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 467244,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 2230287,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 1674275,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 1659084,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 2518227,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 1869557,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Series (Over 40 Minutes)",
+                "tmdb_id": 128098,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Over 40 Minutes)",
+                "tmdb_id": 130987,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Over 40 Minutes)",
+                "tmdb_id": 99346,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Over 40 Minutes)",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Over 40 Minutes)",
+                "tmdb_id": 157160,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Series (Over 40 Minutes)",
+                "tmdb_id": 231396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Under 40 Minutes)",
+                "tmdb_id": 154385,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Series (Under 40 Minutes)",
+                "tmdb_id": 208061,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Under 40 Minutes)",
+                "tmdb_id": 105169,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Under 40 Minutes)",
+                "tmdb_id": 216795,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Under 40 Minutes)",
+                "tmdb_id": 220116,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 53923,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 1183917,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 1260481,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 1285450,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 1182996,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 125660,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 1683343,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 964679,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 1812,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 2954,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 964792,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 1676520,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 1664716,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 10871,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 1201716,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 1668004,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 84219,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 3293,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 591835,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 215055,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 1137,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 955,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 134,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 120932,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 30614,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 77870,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 7152,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 53714,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 1907002,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 1180099,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2022": [
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 913838,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 1004663,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 913825,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 913849,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 889080,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 965150,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 854546,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 865584,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 545611,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 817758,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 852046,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 674324,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 888321,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 705996,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 793998,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 925943,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 585378,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 615952,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 795109,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 817758,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 777245,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 1904110,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 66257,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 2022068,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 1753059,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 3001518,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 1827119,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 158233,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 157021,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 203282,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 204284,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 153742,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 2895589,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 3515419,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 1425924,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 1753066,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 3119545,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Over 40 Minutes)",
+                "tmdb_id": 110382,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Series (Over 40 Minutes)",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Over 40 Minutes)",
+                "tmdb_id": 90972,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Over 40 Minutes)",
+                "tmdb_id": 154359,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Over 40 Minutes)",
+                "tmdb_id": 117488,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Under 40 Minutes)",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Under 40 Minutes)",
+                "tmdb_id": 139397,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Under 40 Minutes)",
+                "tmdb_id": 201124,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Series (Under 40 Minutes)",
+                "tmdb_id": 155772,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Under 40 Minutes)",
+                "tmdb_id": 106308,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 112,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 1853909,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 46814,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 72466,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 18269,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 2326151,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 9030,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 119592,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 1353827,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 1620,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 3229035,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 2195140,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 2692283,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 2704830,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 2382043,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 973497,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 15091,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 42376,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 558921,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 17064,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 1498158,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 557579,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 1360317,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 226366,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 681,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 1385600,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 690,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 40900,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 17773,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 17064,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ],
+        "2021": [
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 822138,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 776551,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 680813,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 776554,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Documentary Feature",
+                "tmdb_id": 776527,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 559907,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 554230,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 541524,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 635731,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Feature",
+                "tmdb_id": 637254,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 659954,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 758866,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 473021,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 630240,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 795815,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best International Feature",
+                "tmdb_id": 660120,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 643532,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 776536,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 559907,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 554230,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 541524,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay",
+                "tmdb_id": 763329,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 1579,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 1206827,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 15556,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 1976040,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Director",
+                "tmdb_id": 2426640,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 112026,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 117909,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 110971,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 127435,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Nonfiction Series",
+                "tmdb_id": 122185,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 1331023,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 118752,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 1976054,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 2971462,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Performer",
+                "tmdb_id": 2302849,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Over 40 Minutes)",
+                "tmdb_id": 87523,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Over 40 Minutes)",
+                "tmdb_id": 116174,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Over 40 Minutes)",
+                "tmdb_id": 90705,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Over 40 Minutes)",
+                "tmdb_id": 93405,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Breakthrough Series (Over 40 Minutes)",
+                "tmdb_id": 80039,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Over 40 Minutes)",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Under 40 Minutes)",
+                "tmdb_id": 109373,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Under 40 Minutes)",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Under 40 Minutes)",
+                "tmdb_id": 95215,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Under 40 Minutes)",
+                "tmdb_id": 123084,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Breakthrough Series (Under 40 Minutes)",
+                "tmdb_id": 100351,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 39187,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 13936,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 154647,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 2088477,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 25072,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 1335818,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 73421,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 35548,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 3127,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Lead Performance",
+                "tmdb_id": 62561,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 38334,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 154647,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 569,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 1197101,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 73249,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 2286339,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 5376,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 78423,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 1397778,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Performance in a New Series",
+                "tmdb_id": 1503076,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 163774,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 1498158,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 91671,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 12930,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 1571661,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 19797,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Performance",
+                "tmdb_id": 17018,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ]
+    }
+}

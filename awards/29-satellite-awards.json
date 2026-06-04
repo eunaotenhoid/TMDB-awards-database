@@ -1,0 +1,3748 @@
+{
+    "award_info": {
+        "tmdb_award_id": 29,
+        "imdb_award_id": "",
+        "name": "Satellite Awards",
+        "slug": "satellite-awards",
+        "url": "https://www.themoviedb.org/award/29",
+        "location": ",         West Hollywood, California,",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/6H2TMAuthoKd9B74LDr3BboA1FA.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Best Actor in Motion Picture, Comedy or Musical",
+                "tmdb_id": 569,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in Motion Picture, Comedy or Musical",
+                "tmdb_id": 1461,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in Motion Picture, Comedy or Musical",
+                "tmdb_id": 88124,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in Motion Picture, Comedy or Musical",
+                "tmdb_id": 3896,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in Motion Picture, Comedy or Musical",
+                "tmdb_id": 1190668,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 56365,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 2034418,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 9642,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 29528,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 13242,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 1115,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Motion Picture Drama",
+                "tmdb_id": 33192,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Motion Picture Drama",
+                "tmdb_id": 6193,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Motion Picture Drama",
+                "tmdb_id": 135651,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Motion Picture Drama",
+                "tmdb_id": 25072,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Motion Picture Drama",
+                "tmdb_id": 52583,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Series, Comedy or Musical",
+                "tmdb_id": 11702,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Comedy or Musical",
+                "tmdb_id": 83271,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Comedy or Musical",
+                "tmdb_id": 206905,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Comedy or Musical",
+                "tmdb_id": 519,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Comedy or Musical",
+                "tmdb_id": 19274,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Series, Comedy or Musical",
+                "tmdb_id": 67773,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Drama or Genre",
+                "tmdb_id": 36801,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Drama or Genre",
+                "tmdb_id": 8688,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Series, Drama or Genre",
+                "tmdb_id": 64,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Drama or Genre",
+                "tmdb_id": 103,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Drama or Genre",
+                "tmdb_id": 13526,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Drama or Genre",
+                "tmdb_id": 1225953,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 1121,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 2034418,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 2326151,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 2228,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 1640,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 90282,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 249042,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in Motion Picture, Comedy or Musical",
+                "tmdb_id": 1765068,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in Motion Picture, Comedy or Musical",
+                "tmdb_id": 54693,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in Motion Picture, Comedy or Musical",
+                "tmdb_id": 2425998,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in Motion Picture, Comedy or Musical",
+                "tmdb_id": 9827,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 1812,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 80591,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 32,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 235416,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 71070,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 6194,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Motion Picture Drama",
+                "tmdb_id": 3914706,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Motion Picture Drama",
+                "tmdb_id": 2882,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Motion Picture Drama",
+                "tmdb_id": 1498158,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Motion Picture Drama",
+                "tmdb_id": 119065,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Motion Picture Drama",
+                "tmdb_id": 1576786,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Comedy or Musical",
+                "tmdb_id": 2195140,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Comedy or Musical",
+                "tmdb_id": 5376,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Comedy or Musical",
+                "tmdb_id": 40462,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Series, Comedy or Musical",
+                "tmdb_id": 10871,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Comedy or Musical",
+                "tmdb_id": 1745988,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Comedy or Musical",
+                "tmdb_id": 77948,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Drama or Genre",
+                "tmdb_id": 973497,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Drama or Genre",
+                "tmdb_id": 139654,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Drama or Genre",
+                "tmdb_id": 15735,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Drama or Genre",
+                "tmdb_id": 8534,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Drama or Genre",
+                "tmdb_id": 41292,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Drama or Genre",
+                "tmdb_id": 62765,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 23882,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 226001,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 18050,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 1421850,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 964679,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 134774,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 1308445,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 11514,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 2121856,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 2559506,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 7489,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 13363,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1241983,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 911430,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 1317288,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1395183,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 10828,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 120229,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 2710,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 71609,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 4762,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1056121,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ensemble: Motion Picture",
+                "tmdb_id": 812583,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Ensemble: Television",
+                "tmdb_id": 157741,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 1290159,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 1317288,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 911430,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Makeup & Hair",
+                "tmdb_id": 533533,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Makeup & Hair",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Makeup & Hair",
+                "tmdb_id": 760329,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Makeup & Hair",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Makeup & Hair",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Makeup & Hair",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 249042,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 248982,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 241405,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 292130,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 238339,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 232342,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Animated or Mixed Media",
+                "tmdb_id": 804370,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Animated or Mixed Media",
+                "tmdb_id": 1022787,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Motion Picture, Animated or Mixed Media",
+                "tmdb_id": 803796,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Animated or Mixed Media",
+                "tmdb_id": 682012,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Animated or Mixed Media",
+                "tmdb_id": 1084242,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 1159206,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 1317288,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 1254808,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 1195506,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 1205515,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1400789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 857800,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1400780,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1516391,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1400288,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1448497,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1098534,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1413805,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1400379,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1400782,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 83533,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 1124566,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 1241983,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 1456349,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 1356670,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 1019871,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 639988,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 1124566,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 1151272,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 1220564,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 1480382,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 911430,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 1290159,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 83533,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 803796,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 1241983,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 83533,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 1317288,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Adapted",
+                "tmdb_id": 1241983,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Adapted",
+                "tmdb_id": 858024,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Adapted",
+                "tmdb_id": 639988,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Adapted",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay, Adapted",
+                "tmdb_id": 701387,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Original",
+                "tmdb_id": 1124566,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Original",
+                "tmdb_id": 1456349,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Original",
+                "tmdb_id": 1069905,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Original",
+                "tmdb_id": 1317288,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Original",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Sound (Editing and Mixing)",
+                "tmdb_id": 911430,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Sound (Editing and Mixing)",
+                "tmdb_id": 83533,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sound (Editing and Mixing)",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sound (Editing and Mixing)",
+                "tmdb_id": 575265,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sound (Editing and Mixing)",
+                "tmdb_id": 967941,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sound (Editing and Mixing)",
+                "tmdb_id": 1054867,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Comedy or Musical",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Comedy or Musical",
+                "tmdb_id": 258902,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Comedy or Musical",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Comedy or Musical",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Comedy or Musical",
+                "tmdb_id": 112211,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Series, Comedy or Musical",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Drama",
+                "tmdb_id": 226174,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Drama",
+                "tmdb_id": 225171,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Series, Drama",
+                "tmdb_id": 95396,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Drama",
+                "tmdb_id": 95480,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Drama",
+                "tmdb_id": 203857,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Drama",
+                "tmdb_id": 250307,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Genre",
+                "tmdb_id": 83867,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Series, Genre",
+                "tmdb_id": 66732,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Genre",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Genre",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual Effects",
+                "tmdb_id": 575265,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual Effects",
+                "tmdb_id": 1062722,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual Effects",
+                "tmdb_id": 83533,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Visual Effects",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual Effects",
+                "tmdb_id": 1061474,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual Effects",
+                "tmdb_id": 911430,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2025": [
+            {
+                "category": "Best Actor in Motion Picture, Comedy or Musical",
+                "tmdb_id": 83271,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in Motion Picture, Comedy or Musical",
+                "tmdb_id": 44735,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in Motion Picture, Comedy or Musical",
+                "tmdb_id": 37154,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in Motion Picture, Comedy or Musical",
+                "tmdb_id": 1313093,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in Motion Picture, Comedy or Musical",
+                "tmdb_id": 2232,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in Motion Picture, Comedy or Musical",
+                "tmdb_id": 30614,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 125660,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 72466,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 1371041,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 1687377,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 1547839,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 2441,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Motion Picture Drama",
+                "tmdb_id": 3490,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Motion Picture Drama",
+                "tmdb_id": 91671,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Motion Picture Drama",
+                "tmdb_id": 8784,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Motion Picture Drama",
+                "tmdb_id": 3291,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Motion Picture Drama",
+                "tmdb_id": 5469,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Motion Picture Drama",
+                "tmdb_id": 1190668,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Comedy or Musical",
+                "tmdb_id": 11702,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Comedy or Musical",
+                "tmdb_id": 206905,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Comedy or Musical",
+                "tmdb_id": 519,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Comedy or Musical",
+                "tmdb_id": 1212667,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Comedy or Musical",
+                "tmdb_id": 221032,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Series, Drama or Genre",
+                "tmdb_id": 879,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Drama or Genre",
+                "tmdb_id": 119589,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Drama or Genre",
+                "tmdb_id": 37632,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Drama or Genre",
+                "tmdb_id": 64,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Drama or Genre",
+                "tmdb_id": 9195,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Series, Drama or Genre",
+                "tmdb_id": 131,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 4178063,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 5292,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 819,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 529,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 18793,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 1266686,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 114655,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 129398,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 126308,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 106379,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in Motion Picture, Comedy or Musical",
+                "tmdb_id": 1765068,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in Motion Picture, Comedy or Musical",
+                "tmdb_id": 3416,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in Motion Picture, Comedy or Musical",
+                "tmdb_id": 35515,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in Motion Picture, Comedy or Musical",
+                "tmdb_id": 1505938,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in Motion Picture, Comedy or Musical",
+                "tmdb_id": 1640439,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in Motion Picture, Comedy or Musical",
+                "tmdb_id": 1920,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 112,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 204392,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 1196101,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 1038,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 3489,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 2227,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Motion Picture Drama",
+                "tmdb_id": 11701,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Motion Picture Drama",
+                "tmdb_id": 87335,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Motion Picture Drama",
+                "tmdb_id": 1459885,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Motion Picture Drama",
+                "tmdb_id": 2227,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Motion Picture Drama",
+                "tmdb_id": 36592,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Motion Picture Drama",
+                "tmdb_id": 3063,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Comedy or Musical",
+                "tmdb_id": 2195140,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Comedy or Musical",
+                "tmdb_id": 54693,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Series, Comedy or Musical",
+                "tmdb_id": 5376,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Comedy or Musical",
+                "tmdb_id": 40462,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Comedy or Musical",
+                "tmdb_id": 1745988,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Comedy or Musical",
+                "tmdb_id": 77948,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Drama or Genre",
+                "tmdb_id": 1434487,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Drama or Genre",
+                "tmdb_id": 1308445,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Drama or Genre",
+                "tmdb_id": 11356,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Drama or Genre",
+                "tmdb_id": 8534,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Series, Drama or Genre",
+                "tmdb_id": 41292,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Drama or Genre",
+                "tmdb_id": 1413361,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 226001,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 1853909,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 72855,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 6588,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 1392137,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 8691,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 2882,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 2559506,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 109869,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 1872057,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 2418246,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 13363,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1038263,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 426063,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 1028196,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 558449,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 549509,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 558449,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 896151,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 426063,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 1038263,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 402431,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 55493,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 137427,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 221522,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1572120,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1934875,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 118415,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ensemble: Motion Picture",
+                "tmdb_id": 426063,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Ensemble: Television",
+                "tmdb_id": 69851,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 549509,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 974950,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 974576,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 558449,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 1064213,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 241259,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 69851,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 46518,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 94028,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 194764,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 129398,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Animated or Mixed Media",
+                "tmdb_id": 823219,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Animated or Mixed Media",
+                "tmdb_id": 1022789,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Animated or Mixed Media",
+                "tmdb_id": 1064486,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Animated or Mixed Media",
+                "tmdb_id": 1146972,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Animated or Mixed Media",
+                "tmdb_id": 1184918,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Animated or Mixed Media",
+                "tmdb_id": 929204,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 1064213,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 1013850,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 1214469,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 974635,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 1001783,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 933260,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 1051891,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 402431,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1101256,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1279112,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 879805,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1232493,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1214527,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1158874,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1128559,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1251636,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 975056,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 974576,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 1028196,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 1155828,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 549509,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 1082195,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 774531,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 1000837,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 1214478,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 1232827,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 1278263,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 1053993,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 1251621,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 1088514,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 974950,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 549509,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 1184918,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 974576,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 1061699,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 1184918,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 974950,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 977326,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 896151,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 974950,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 558449,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 426063,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 549509,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 402431,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 974576,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Adapted",
+                "tmdb_id": 1155828,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Adapted",
+                "tmdb_id": 974950,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Adapted",
+                "tmdb_id": 1088514,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Adapted",
+                "tmdb_id": 974576,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Adapted",
+                "tmdb_id": 1028196,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay, Adapted",
+                "tmdb_id": 1252874,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Original",
+                "tmdb_id": 549509,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Original",
+                "tmdb_id": 933260,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Original",
+                "tmdb_id": 1013850,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay, Original",
+                "tmdb_id": 1013154,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Original",
+                "tmdb_id": 1278263,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Original",
+                "tmdb_id": 1064213,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sound (Editing and Mixing)",
+                "tmdb_id": 661539,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sound (Editing and Mixing)",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sound (Editing and Mixing)",
+                "tmdb_id": 974950,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sound (Editing and Mixing)",
+                "tmdb_id": 558449,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sound (Editing and Mixing)",
+                "tmdb_id": 718821,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sound (Editing and Mixing)",
+                "tmdb_id": 402431,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Series, Comedy or Musical",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Comedy or Musical",
+                "tmdb_id": 258902,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Comedy or Musical",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Series, Comedy or Musical",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Comedy or Musical",
+                "tmdb_id": 112211,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Comedy or Musical",
+                "tmdb_id": 114655,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Drama",
+                "tmdb_id": 226174,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Drama",
+                "tmdb_id": 126308,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Drama",
+                "tmdb_id": 95480,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Series, Drama",
+                "tmdb_id": 93405,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Drama",
+                "tmdb_id": 203857,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Genre",
+                "tmdb_id": 250449,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Genre",
+                "tmdb_id": 118642,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Genre",
+                "tmdb_id": 125988,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Genre",
+                "tmdb_id": 83631,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Visual Effects",
+                "tmdb_id": 693134,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual Effects",
+                "tmdb_id": 558449,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Visual Effects",
+                "tmdb_id": 653346,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual Effects",
+                "tmdb_id": 762509,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual Effects",
+                "tmdb_id": 923667,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual Effects",
+                "tmdb_id": 402431,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ],
+        "2024": [
+            {
+                "category": "Best Actor in Motion Picture, Comedy or Musical",
+                "tmdb_id": 13242,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in Motion Picture, Comedy or Musical",
+                "tmdb_id": 2954,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in Motion Picture, Comedy or Musical",
+                "tmdb_id": 1290466,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in Motion Picture, Comedy or Musical",
+                "tmdb_id": 2963,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in Motion Picture, Comedy or Musical",
+                "tmdb_id": 73421,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 66743,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 529,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 20186,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 215055,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 8984,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 65717,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Motion Picture Drama",
+                "tmdb_id": 125660,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Motion Picture Drama",
+                "tmdb_id": 51329,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Motion Picture Drama",
+                "tmdb_id": 2037,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Motion Picture Drama",
+                "tmdb_id": 6193,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Motion Picture Drama",
+                "tmdb_id": 91671,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Motion Picture Drama",
+                "tmdb_id": 1285450,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Comedy or Musical",
+                "tmdb_id": 19278,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Comedy or Musical",
+                "tmdb_id": 67773,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Comedy or Musical",
+                "tmdb_id": 58224,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Comedy or Musical",
+                "tmdb_id": 206905,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Series, Comedy or Musical",
+                "tmdb_id": 519,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Drama or Genre",
+                "tmdb_id": 3,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Drama or Genre",
+                "tmdb_id": 1248,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Drama or Genre",
+                "tmdb_id": 1253360,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Series, Drama or Genre",
+                "tmdb_id": 64,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Series, Drama or Genre",
+                "tmdb_id": 239271,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 30614,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 3223,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 380,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 103,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 1907002,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role",
+                "tmdb_id": 3918497,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actor in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 216089,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actor in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in Motion Picture, Comedy or Musical",
+                "tmdb_id": 234352,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in Motion Picture, Comedy or Musical",
+                "tmdb_id": 165909,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in Motion Picture, Comedy or Musical",
+                "tmdb_id": 54693,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in Motion Picture, Comedy or Musical",
+                "tmdb_id": 1364782,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in Motion Picture, Comedy or Musical",
+                "tmdb_id": 1683343,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 17696,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 36594,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 3293,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 60073,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 29236,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 591835,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Motion Picture Drama",
+                "tmdb_id": 524,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Motion Picture Drama",
+                "tmdb_id": 36662,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Motion Picture Drama",
+                "tmdb_id": 1183917,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Motion Picture Drama",
+                "tmdb_id": 1260481,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Motion Picture Drama",
+                "tmdb_id": 955,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Motion Picture Drama",
+                "tmdb_id": 7152,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Comedy or Musical",
+                "tmdb_id": 38334,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Series, Comedy or Musical",
+                "tmdb_id": 77948,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Comedy or Musical",
+                "tmdb_id": 18050,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Comedy or Musical",
+                "tmdb_id": 2195140,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Comedy or Musical",
+                "tmdb_id": 993774,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Drama or Genre",
+                "tmdb_id": 15735,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Series, Drama or Genre",
+                "tmdb_id": 15091,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Drama or Genre",
+                "tmdb_id": 933238,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Drama or Genre",
+                "tmdb_id": 235416,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Drama or Genre",
+                "tmdb_id": 1668004,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Series, Drama or Genre",
+                "tmdb_id": 11356,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 10882,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 5081,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 1231,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 1180099,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 1137,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role",
+                "tmdb_id": 59174,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 6886,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Actress in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 1133349,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 28044,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 5064,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 52475,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Actress in a Supporting Role in a Series, Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 1278487,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 466420,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 930564,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 872585,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 523607,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 365620,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 753342,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Cinematography",
+                "tmdb_id": 575264,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 753342,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 466420,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 346698,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 792307,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 558915,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Costume Design",
+                "tmdb_id": 872585,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 1032,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 525,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 122423,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 66728,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 13235,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Director",
+                "tmdb_id": 45400,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Best Ensemble: Motion Picture",
+                "tmdb_id": 872585,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Ensemble: Television",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 466420,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 346698,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 840430,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 872585,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 523607,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Film Editing",
+                "tmdb_id": 792307,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 155421,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 154385,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 60622,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 216089,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 203554,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Miniseries, Limited Series or Motion Picture Made for Television",
+                "tmdb_id": 138624,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Animated or Mixed Media",
+                "tmdb_id": 916224,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Animated or Mixed Media",
+                "tmdb_id": 508883,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Motion Picture, Animated or Mixed Media",
+                "tmdb_id": 976573,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Animated or Mixed Media",
+                "tmdb_id": 569094,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Animated or Mixed Media",
+                "tmdb_id": 614930,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Animated or Mixed Media",
+                "tmdb_id": 838240,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 823482,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 935906,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 346698,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 840430,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 1056360,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Comedy or Musical",
+                "tmdb_id": 792307,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1053718,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1058616,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1090031,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1132535,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1171816,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1058636,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 1055378,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Documentary",
+                "tmdb_id": 965219,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 466420,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 523607,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 839369,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 872585,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 666277,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, Drama",
+                "tmdb_id": 365620,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 467244,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 986280,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 998022,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 906126,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 1137196,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 937746,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Motion Picture, International",
+                "tmdb_id": 915935,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 569094,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 872585,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 466420,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 792307,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 906126,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Score",
+                "tmdb_id": 1056360,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 1171816,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 346698,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 898713,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 626332,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 346698,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Original Song",
+                "tmdb_id": 502356,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 365620,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 466420,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 523607,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 872585,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 346698,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Production Design",
+                "tmdb_id": 753342,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Adapted",
+                "tmdb_id": 1056360,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Screenplay, Adapted",
+                "tmdb_id": 466420,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Adapted",
+                "tmdb_id": 872585,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Adapted",
+                "tmdb_id": 792307,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Adapted",
+                "tmdb_id": 467244,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Adapted",
+                "tmdb_id": 994108,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Original",
+                "tmdb_id": 840430,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Original",
+                "tmdb_id": 346698,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Original",
+                "tmdb_id": 839369,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Original",
+                "tmdb_id": 666277,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Original",
+                "tmdb_id": 915935,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Screenplay, Original",
+                "tmdb_id": 523607,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Sound (Editing and Mixing)",
+                "tmdb_id": 872585,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sound (Editing and Mixing)",
+                "tmdb_id": 523607,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Sound (Editing and Mixing)",
+                "tmdb_id": 466420,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sound (Editing and Mixing)",
+                "tmdb_id": 753342,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sound (Editing and Mixing)",
+                "tmdb_id": 1171816,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Sound (Editing and Mixing)",
+                "tmdb_id": 365620,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Comedy or Musical",
+                "tmdb_id": 97546,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Comedy or Musical",
+                "tmdb_id": 107113,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Series, Comedy or Musical",
+                "tmdb_id": 73107,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Comedy or Musical",
+                "tmdb_id": 136315,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Comedy or Musical",
+                "tmdb_id": 125935,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Comedy or Musical",
+                "tmdb_id": 95215,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Drama",
+                "tmdb_id": 100088,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Series, Drama",
+                "tmdb_id": 157744,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Drama",
+                "tmdb_id": 76331,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Drama",
+                "tmdb_id": 65494,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Drama",
+                "tmdb_id": 79086,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Genre",
+                "tmdb_id": 117488,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "Best Television Series, Genre",
+                "tmdb_id": 111803,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Genre",
+                "tmdb_id": 95558,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Genre",
+                "tmdb_id": 90282,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Genre",
+                "tmdb_id": 94997,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Television Series, Genre",
+                "tmdb_id": 124364,
+                "media_type": "tv",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual Effects",
+                "tmdb_id": 569094,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual Effects",
+                "tmdb_id": 575264,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Best Visual Effects",
+                "tmdb_id": 872585,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual Effects",
+                "tmdb_id": 670292,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual Effects",
+                "tmdb_id": 667538,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Best Visual Effects",
+                "tmdb_id": 753342,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ]
+    }
+}

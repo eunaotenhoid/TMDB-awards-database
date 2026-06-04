@@ -1,0 +1,108 @@
+{
+    "award_info": {
+        "tmdb_award_id": 46,
+        "imdb_award_id": "",
+        "name": "VES Awards",
+        "slug": "ves-awards",
+        "url": "https://www.themoviedb.org/award/46",
+        "location": ",         Beverly Hilton,         Hollywood, Los Angeles, California,",
+        "presenter": ",         Randy Sklar,         Jason Sklar,",
+        "icon": "https://media.themoviedb.org/t/p/w300/sKCW7P4D5cjQ3PqJusFHfh7VEtw.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Outstanding Animation in an Animated Feature",
+                "tmdb_id": 1175942,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Animation in an Animated Feature",
+                "tmdb_id": 803796,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Animation in an Animated Feature",
+                "tmdb_id": 1084242,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Animation in an Animated Feature",
+                "tmdb_id": 1117857,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Animation in an Animated Feature",
+                "tmdb_id": 1022787,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Visual Effects in a Photoreal Feature",
+                "tmdb_id": 1305653,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Visual Effects in a Photoreal Feature",
+                "tmdb_id": 1290159,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Visual Effects in a Photoreal Feature",
+                "tmdb_id": 1241436,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Supporting Visual Effects in a Photoreal Feature",
+                "tmdb_id": 1233413,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Supporting Visual Effects in a Photoreal Feature",
+                "tmdb_id": 1265063,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Visual Effects in a Photoreal Feature",
+                "tmdb_id": 911430,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Visual Effects in a Photoreal Feature",
+                "tmdb_id": 1234821,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Visual Effects in a Photoreal Feature",
+                "tmdb_id": 1236470,
+                "media_type": "movie",
+                "is_winner": false
+            },
+            {
+                "category": "Outstanding Visual Effects in a Photoreal Feature",
+                "tmdb_id": 83533,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "Outstanding Visual Effects in a Photoreal Feature",
+                "tmdb_id": 1087192,
+                "media_type": "movie",
+                "is_winner": false
+            }
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "award_info": {
+        "tmdb_award_id": 67,
+        "imdb_award_id": "",
+        "name": "German Cinematographer Award",
+        "slug": "german-cinematographer-award",
+        "url": "https://www.themoviedb.org/award/67",
+        "location": "",
+        "presenter": "",
+        "icon": "https://media.themoviedb.org/t/p/w300/x4RCiormOte4QfxG67vRdmqub6H.png",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Kamera - Doku Kino",
+                "tmdb_id": 4061879,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Kamera - Doku Kino",
+                "tmdb_id": 3891087,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Kamera - Doku Kino",
+                "tmdb_id": 1112025,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Kamera - Fiktion Kino",
+                "tmdb_id": 1531290,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Kamera - Fiktion Kino",
+                "tmdb_id": 1756501,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Kamera - Fiktion Kino",
+                "tmdb_id": 125890,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Kamera - Kurzfilm",
+                "tmdb_id": 4286923,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Kamera - Kurzfilm",
+                "tmdb_id": 3301290,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Kamera - Kurzfilm",
+                "tmdb_id": 3391718,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Schnitt - Doku Kino",
+                "tmdb_id": 4965009,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Schnitt - Fiktion Kino",
+                "tmdb_id": 5195,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Schnitt - Kurzfilm",
+                "tmdb_id": 5173189,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ]
+    }
+}

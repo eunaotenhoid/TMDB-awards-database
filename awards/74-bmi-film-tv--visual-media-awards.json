@@ -1,0 +1,456 @@
+{
+    "award_info": {
+        "tmdb_award_id": 74,
+        "imdb_award_id": "",
+        "name": "BMI Film, TV & Visual Media Awards",
+        "slug": "bmi-film-tv--visual-media-awards",
+        "url": "https://www.themoviedb.org/award/74",
+        "location": "",
+        "presenter": "",
+        "icon": "",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2025": [
+            {
+                "category": "BMI Cable Television Award",
+                "tmdb_id": 96580,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Cable Television Award",
+                "tmdb_id": 255960,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Cable Television Award",
+                "tmdb_id": 201836,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Cable Television Award",
+                "tmdb_id": 73586,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 214162,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 92461,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 44006,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 62650,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 58841,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 249695,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 80748,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 121658,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 94372,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 202297,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 253896,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 226637,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 549,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 2734,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 4614,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 243006,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 355,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 125282,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 81144,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 211288,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 243745,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Network Television Award",
+                "tmdb_id": 208569,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Film Award",
+                "tmdb_id": 614933,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Film Award",
+                "tmdb_id": 1094138,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Film Award",
+                "tmdb_id": 1155089,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Film Award",
+                "tmdb_id": 955916,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Film Award",
+                "tmdb_id": 1104171,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Film Award",
+                "tmdb_id": 748230,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Film Award",
+                "tmdb_id": 1061699,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Film Award",
+                "tmdb_id": 1002626,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Film Award",
+                "tmdb_id": 1213742,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Film Award",
+                "tmdb_id": 748167,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Film Award",
+                "tmdb_id": 1014590,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Film Award",
+                "tmdb_id": 877817,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 199318,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 196322,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 255868,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 106379,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 137893,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 124101,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 94997,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 158300,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 120549,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 157741,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 113962,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 46518,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 225634,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 250923,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 100757,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 126308,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 136311,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 125988,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 247721,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 76479,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 220056,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 222405,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Streaming Series Award",
+                "tmdb_id": 245026,
+                "media_type": "tv",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Theatrical Film Award",
+                "tmdb_id": 762441,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Theatrical Film Award",
+                "tmdb_id": 917496,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Theatrical Film Award",
+                "tmdb_id": 937287,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Theatrical Film Award",
+                "tmdb_id": 533535,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Theatrical Film Award",
+                "tmdb_id": 558449,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Theatrical Film Award",
+                "tmdb_id": 889737,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Theatrical Film Award",
+                "tmdb_id": 1241982,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Theatrical Film Award",
+                "tmdb_id": 1236419,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Theatrical Film Award",
+                "tmdb_id": 1034541,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Theatrical Film Award",
+                "tmdb_id": 866398,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Theatrical Film Award",
+                "tmdb_id": 746036,
+                "media_type": "movie",
+                "is_winner": true
+            },
+            {
+                "category": "BMI Theatrical Film Award",
+                "tmdb_id": 698687,
+                "media_type": "movie",
+                "is_winner": true
+            }
+        ]
+    }
+}

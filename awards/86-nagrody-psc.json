@@ -1,0 +1,54 @@
+{
+    "award_info": {
+        "tmdb_award_id": 86,
+        "imdb_award_id": "",
+        "name": "Nagrody PSC",
+        "slug": "nagrody-psc",
+        "url": "https://www.themoviedb.org/award/86",
+        "location": "",
+        "presenter": ",         Błażej Hrapkowicz,",
+        "icon": "",
+        "bg": "https://www.themoviedb.org/assets/2/awards-preview/oscars-2024-backdrop-694a7f6f9e04874b2b38829977f5b7abd8dd9264227404407ad6aa37e8afeb84.png",
+        "description": ""
+    },
+    "years": {
+        "2026": [
+            {
+                "category": "Najlepsze zdjęcia do pełnometrażowego filmu fabularnego",
+                "tmdb_id": 34141,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Najlepsze zdjęcia do pełnometrażowego filmu fabularnego",
+                "tmdb_id": 1403376,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Najlepsze zdjęcia do pełnometrażowego filmu fabularnego",
+                "tmdb_id": 1460695,
+                "media_type": "person",
+                "is_winner": true
+            },
+            {
+                "category": "Najlepsze zdjęcia do pełnometrażowego filmu fabularnego",
+                "tmdb_id": 1784163,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Najlepsze zdjęcia do pełnometrażowego filmu fabularnego",
+                "tmdb_id": 1986263,
+                "media_type": "person",
+                "is_winner": false
+            },
+            {
+                "category": "Najlepsze zdjęcia do pełnometrażowego filmu fabularnego",
+                "tmdb_id": 1610173,
+                "media_type": "person",
+                "is_winner": false
+            }
+        ]
+    }
+}
